@@ -7,32 +7,23 @@
 [![Read the Docs](https://img.shields.io/readthedocs/squidpy/latest.svg?label=Read%20the%20Docs)](https://squidpy.readthedocs.io/en/stable)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-# Squidpy - Spatial Single Cell Analysis in Python
+# Squidpy - Spatial Single Cell Analysis in Python (forcked)
 
 Squidpy is the scverse toolkit for scalable analysis and visualization of spatial molecular data.
 It builds on [scanpy](https://scanpy.readthedocs.io/en/stable/) and [anndata](https://anndata.readthedocs.io/en/stable/), providing streamlined APIs for feature extraction, spatial statistics, and interactive exploration of tissue sections together with microscopy images.
 
 ![Squidpy overview](https://raw.githubusercontent.com/scverse/squidpy/main/docs/_static/img/figure1.png)
 
+![Squidpy](https://github.com/scverse/squidpy)
+
 ## Documentation
 
 Head over to the [documentation](https://squidpy.readthedocs.io/en/stable/) for installation instructions, tutorials, how-to guides, and reference material.
 
-## Installation
 
-We recommend running Squidpy on a recent Linux or macOS system with Python ≥3.12, but it also works on Windows via WSL.
+### Notebooks
 
-Install from [PyPI](https://pypi.org/project/squidpy) with:
-
-```console
-pip install squidpy
-```
-
-or from [conda-forge](https://anaconda.org/conda-forge/squidpy):
-
-```console
-conda install -c conda-forge squidpy
-```
+We review the toml project and add a few notebooks.
 
 ### Interactive visualization
 
