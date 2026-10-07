@@ -16,6 +16,14 @@ It builds on [scanpy](https://scanpy.readthedocs.io/en/stable/) and [anndata](ht
 
 ![Squidpy](https://github.com/scverse/squidpy)
 
+
+### From Saez Lab - Liana
+
+We add liana cell-to-cell communication analysis
+
+https://github.com/saezlab/liana
+
+
 ## Documentation
 
 Head over to the [documentation](https://squidpy.readthedocs.io/en/stable/) for installation instructions, tutorials, how-to guides, and reference material.

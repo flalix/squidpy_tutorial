@@ -43,7 +43,7 @@ dynamic = [
 ]
 dependencies = [
   "napari-spatialdata",
-  "leidenalg", 
+  "leidenalg",
   "aiohttp>=3.8.1",
   "anndata>=0.9",
   "centrosome>=1.2.3",
@@ -84,6 +84,7 @@ dependencies = [
   "xarray>=2024.10",
   "zarr>=3",
   "leidenalg>=0.11.0",
+  "nbconvert>=7.17.1",
 ]
 optional-dependencies.leiden = [
   "leidenalg",

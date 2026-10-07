@@ -133,7 +133,9 @@ dmypy.json
 .idea
 
 # data
-data
+data/
+results/
+
 
 # Vim .swp
 *.swp
