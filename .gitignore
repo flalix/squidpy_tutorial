@@ -28,8 +28,6 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Unit test / coverage reports
-.html/
-
 htmlcov/
 .tox/
 .nox/
@@ -49,6 +47,16 @@ tests/_images/*-failed-diff.png
 # Translations
 *.mo
 *.pot
+
+*.html
+*.png
+*.jpeg
+*.jpg
+*.gif
+*.giff
+*.tiv
+*.svg
+
 
 # Django stuff:
 *.log

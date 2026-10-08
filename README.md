@@ -7,7 +7,15 @@
 [![Read the Docs](https://img.shields.io/readthedocs/squidpy/latest.svg?label=Read%20the%20Docs)](https://squidpy.readthedocs.io/en/stable)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-# Squidpy - Spatial Single Cell Analysis in Python (forcked)
+# Squidpy - Spatial Single Cell Analysis in Python (study)
+
+Here, we present a study mixing Scanpy, Squidpy, and Liana - all Python 3.12.12 libs.
+
+Squidpy ([community that develops and maintains foundational tools for single-cell omics](https://github.com/scverse)) is library to calculate and plot physical single-cell data.
+
+Liana ([Saez lab](https://github.com/saezlab/liana)) is library to calculate ligand-receptor possible interactions given the RNA counts.
+
+### Squidpy
 
 Squidpy is the scverse toolkit for scalable analysis and visualization of spatial molecular data.
 It builds on [scanpy](https://scanpy.readthedocs.io/en/stable/) and [anndata](https://anndata.readthedocs.io/en/stable/), providing streamlined APIs for feature extraction, spatial statistics, and interactive exploration of tissue sections together with microscopy images.
