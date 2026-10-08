@@ -11,7 +11,7 @@
 
 Here, we present a study mixing Scanpy, Squidpy, and Liana - all Python 3.12.12 libs.
 
-Squidpy ([community that develops and maintains foundational tools for single-cell omics](https://github.com/scverse)) is library to calculate and plot physical single-cell data.
+Squidpy (by [scverse](https://github.com/scverse), the community that develops and maintains foundational tools for single-cell omics) is library to calculate and plot physical single-cell data.
 
 Liana ([Saez lab](https://github.com/saezlab/liana)) is library to calculate ligand-receptor possible interactions given the RNA counts.
 
