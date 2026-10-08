@@ -134,8 +134,7 @@ dmypy.json
 
 # data
 data/
-results/
-
+figures/
 
 # Vim .swp
 *.swp
