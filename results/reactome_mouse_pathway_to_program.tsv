@@ -1,0 +1,2075 @@
+pathway	reactome_id	n_genes	level	label	category
+5-Phosphoribose 1-diphosphate biosynthesis	R-MMU-73843		context	transport_membrane	context
+ABC transporters in lipid homeostasis	R-MMU-1369062		program	fatty_acid_lipid	metabolism
+ABC-family proteins mediated transport	R-MMU-382556		context	transport_membrane	context
+ABO blood group biosynthesis	R-MMU-9033807		context	protein_modification	context
+ADP signalling through P2Y purinoceptor 1	R-MMU-418592		context	GPCR_signaling	context
+ADP signalling through P2Y purinoceptor 12	R-MMU-392170		context	GPCR_signaling	context
+AKT phosphorylates targets in the cytosol	R-MMU-198323		program	PI3K_AKT_mTOR	signaling
+AKT phosphorylates targets in the nucleus	R-MMU-198693		program	PI3K_AKT_mTOR	signaling
+AKT-mediated inactivation of FOXO1A	R-MMU-211163		program	PI3K_AKT_mTOR	signaling
+AMPK inhibits chREBP transcriptional activation activity	R-MMU-163680		program	PI3K_AKT_mTOR	signaling
+AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274)	R-MMU-9931269		program	ER_stress_UPR	stress
+AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274)	R-MMU-9931269		program	autophagy_lysosome	trafficking
+AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274)	R-MMU-9931269		program	PI3K_AKT_mTOR	signaling
+AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274)	R-MMU-9931269		program	T_cell_exhaustion_checkpoint	immune
+APC-Cdc20 mediated degradation of Nek2A	R-MMU-179409		program	G2_M_mitosis	proliferation
+APC/C-mediated degradation of cell cycle proteins	R-MMU-174143		program	G2_M_mitosis	proliferation
+APC/C:Cdc20 mediated degradation of Cyclin B	R-MMU-174048		program	G2_M_mitosis	proliferation
+APC/C:Cdc20 mediated degradation of Securin	R-MMU-174154		program	G2_M_mitosis	proliferation
+APC/C:Cdc20 mediated degradation of mitotic proteins	R-MMU-176409		program	G2_M_mitosis	proliferation
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	R-MMU-174178		program	G2_M_mitosis	proliferation
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	R-MMU-179419		program	G2_M_mitosis	proliferation
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	R-MMU-179419		program	cell_cycle_checkpoints	proliferation
+APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway	R-MMU-5649702		program	DNA_damage_response	stress
+ARL13B-mediated ciliary trafficking of INPP5E	R-MMU-5624958		program	Hedgehog_signaling	signaling
+ARMS-mediated activation	R-MMU-170984		program	RTK_MAPK	signaling
+ATF6 (ATF6-alpha) activates chaperones	R-MMU-381033		program	ER_stress_UPR	stress
+ATF6 (ATF6-alpha) activates chaperones	R-MMU-381033		program	proteostasis_heat_shock	stress
+ATF6B (ATF6-beta) activates chaperones	R-MMU-8874177		program	ER_stress_UPR	stress
+ATF6B (ATF6-beta) activates chaperones	R-MMU-8874177		program	proteostasis_heat_shock	stress
+ATP sensitive Potassium channels	R-MMU-1296025		program	synaptic_neurotransmission	neural
+ATP-dependent chromatin remodelers	R-MMU-9932444		context	transcription_chromatin	context
+AUF1 (hnRNP D0) binds and destabilizes mRNA	R-MMU-450408		context	translation_RNA_processing	context
+AURKA Activation by TPX2	R-MMU-8854518		program	G2_M_mitosis	proliferation
+Abacavir ADME	R-MMU-2161522		exclude	drug_xenobiotic	exclude
+Abacavir metabolism	R-MMU-2161541		context	metabolism_other	context
+Abacavir transmembrane transport	R-MMU-2161517		exclude	drug_xenobiotic	exclude
+Abasic sugar-phosphate removal via the single-nucleotide replacement pathway	R-MMU-73930		program	DNA_damage_response	stress
+Acetylation	R-MMU-156582		context	protein_modification	context
+Acetylcholine Neurotransmitter Release Cycle	R-MMU-264642		program	synaptic_neurotransmission	neural
+Acetylcholine binding and downstream events	R-MMU-181431		program	synaptic_neurotransmission	neural
+Acetylcholine regulates insulin secretion	R-MMU-399997		program	secretion_exocytosis	trafficking
+Acetylcholine regulates insulin secretion	R-MMU-399997		program	synaptic_neurotransmission	neural
+Acrosome Reaction and Sperm:Oocyte Membrane Binding	R-MMU-1300645		context	development_differentiation	context
+Activated NOTCH1 Transmits Signal to the Nucleus	R-MMU-2122948		program	NOTCH_signaling	signaling
+Activated NTRK2 signals through FRS2 and FRS3	R-MMU-9028731		program	RTK_MAPK	signaling
+Activated NTRK2 signals through FYN	R-MMU-9032500		program	RTK_MAPK	signaling
+Activated NTRK2 signals through FYN	R-MMU-9032500		program	cytotoxic_T_NK	immune
+Activated NTRK2 signals through PLCG1	R-MMU-9026527		program	RTK_MAPK	signaling
+Activated NTRK3 signals through PI3K	R-MMU-9603381		program	RTK_MAPK	signaling
+Activated NTRK3 signals through PI3K	R-MMU-9603381		program	PI3K_AKT_mTOR	signaling
+Activated NTRK3 signals through PLCG1	R-MMU-9034793		program	RTK_MAPK	signaling
+Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	R-MMU-5625886		context	transcription_chromatin	context
+Activation and oligomerization of BAK protein	R-MMU-111452		program	apoptosis_intrinsic	cell_death
+Activation of AKT2	R-MMU-165158		program	PI3K_AKT_mTOR	signaling
+Activation of AMPA receptors	R-MMU-399710		program	synaptic_neurotransmission	neural
+Activation of AMPA receptors	R-MMU-399710		program	axon_guidance_neurodevelopment	neural
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	R-MMU-176814		program	G2_M_mitosis	proliferation
+Activation of ATR in response to replication stress	R-MMU-176187		program	DNA_damage_response	stress
+Activation of ATR in response to replication stress	R-MMU-176187		program	G1_S_DNA_replication	proliferation
+Activation of BAD and translocation to mitochondria	R-MMU-111447		program	apoptosis_intrinsic	cell_death
+Activation of BAD and translocation to mitochondria	R-MMU-111447		program	OXPHOS_TCA	metabolism
+Activation of BH3-only proteins	R-MMU-114452		program	apoptosis_intrinsic	cell_death
+Activation of BIM and translocation to mitochondria	R-MMU-111446		program	OXPHOS_TCA	metabolism
+Activation of BMF and translocation to mitochondria	R-MMU-139910		program	OXPHOS_TCA	metabolism
+Activation of C3 and C5	R-MMU-174577		program	complement	immune
+Activation of Ca-permeable Kainate Receptor	R-MMU-451308		program	synaptic_neurotransmission	neural
+Activation of G protein gated Potassium channels	R-MMU-1296041		program	synaptic_neurotransmission	neural
+Activation of GABAB receptors	R-MMU-991365		program	synaptic_neurotransmission	neural
+Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)	R-MMU-936964		program	inflammation_TNF_NFkB	immune
+Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)	R-MMU-936964		program	interferon_type_I	immune
+Activation of Matrix Metalloproteinases	R-MMU-1592389		program	ECM_remodeling_fibrosis	tissue_remodeling
+Activation of NF-kappaB in B cells	R-MMU-1169091		program	inflammation_TNF_NFkB	immune
+Activation of NIMA Kinases NEK9, NEK6, NEK7	R-MMU-2980767		program	G2_M_mitosis	proliferation
+Activation of NMDA receptors and postsynaptic events	R-MMU-442755		program	synaptic_neurotransmission	neural
+Activation of NMDA receptors and postsynaptic events	R-MMU-442755		program	axon_guidance_neurodevelopment	neural
+Activation of NOXA and translocation to mitochondria	R-MMU-111448		program	OXPHOS_TCA	metabolism
+Activation of Na-permeable kainate receptors	R-MMU-451307		program	synaptic_neurotransmission	neural
+Activation of RAC1 downstream of NMDARs	R-MMU-9619229		program	migration_invasion	tissue_remodeling
+Activation of RAC1 downstream of NMDARs	R-MMU-9619229		program	synaptic_neurotransmission	neural
+Activation of RAS in B cells	R-MMU-1169092		program	RTK_MAPK	signaling
+Activation of SMO	R-MMU-5635838		program	Hedgehog_signaling	signaling
+Activation of TRKA receptors	R-MMU-187015		program	RTK_MAPK	signaling
+Activation of caspases through apoptosome-mediated cleavage	R-MMU-111459		program	apoptosis_intrinsic	cell_death
+Activation of kainate receptors upon glutamate binding	R-MMU-451326		program	synaptic_neurotransmission	neural
+Activation of the AP-1 family of transcription factors	R-MMU-450341		program	cell_cycle_checkpoints	proliferation
+Activation of the AP-1 family of transcription factors	R-MMU-450341		program	RTK_MAPK	signaling
+Activation of the TFAP2 (AP-2) family of transcription factors	R-MMU-8866907		context	transcription_chromatin	context
+Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	R-MMU-72662		context	translation_RNA_processing	context
+Activation of the phototransduction cascade	R-MMU-2485179		program	synaptic_neurotransmission	neural
+Activation of the pre-replicative complex	R-MMU-68962		program	G1_S_DNA_replication	proliferation
+Activation, myristolyation of BID and translocation to mitochondria	R-MMU-75108		program	apoptosis_intrinsic	cell_death
+Activation, myristolyation of BID and translocation to mitochondria	R-MMU-75108		program	OXPHOS_TCA	metabolism
+Activation, translocation and oligomerization of BAX	R-MMU-114294		program	apoptosis_intrinsic	cell_death
+Acyl chain remodeling of CL	R-MMU-1482798		program	fatty_acid_lipid	metabolism
+Acyl chain remodeling of DAG and TAG	R-MMU-1482883		program	fatty_acid_lipid	metabolism
+Acyl chain remodelling of PC	R-MMU-1482788		program	fatty_acid_lipid	metabolism
+Acyl chain remodelling of PE	R-MMU-1482839		program	fatty_acid_lipid	metabolism
+Acyl chain remodelling of PG	R-MMU-1482925		program	fatty_acid_lipid	metabolism
+Acyl chain remodelling of PI	R-MMU-1482922		program	fatty_acid_lipid	metabolism
+Acyl chain remodelling of PS	R-MMU-1482801		program	fatty_acid_lipid	metabolism
+Adaptive Immune System	R-MMU-1280218		program	cytotoxic_T_NK	immune
+Adenosine P1 receptors	R-MMU-417973		program	immunosuppression	immune
+Adenylate cyclase activating pathway	R-MMU-170660		context	GPCR_signaling	context
+Adenylate cyclase inhibitory pathway	R-MMU-170670		context	GPCR_signaling	context
+Adherens junctions interactions	R-MMU-418990		program	cell_cell_adhesion	tissue_remodeling
+Adipogenesis	R-MMU-9843745		context	development_differentiation	context
+Adrenaline signalling through Alpha-2 adrenergic receptor	R-MMU-392023		program	synaptic_neurotransmission	neural
+Adrenaline,noradrenaline inhibits insulin secretion	R-MMU-400042		program	secretion_exocytosis	trafficking
+Adrenaline,noradrenaline inhibits insulin secretion	R-MMU-400042		program	synaptic_neurotransmission	neural
+Adrenoceptors	R-MMU-390696		program	synaptic_neurotransmission	neural
+Advanced glycosylation endproduct receptor signaling	R-MMU-879415		program	necrosis_DAMP	cell_death
+Aerobic respiration and respiratory electron transport	R-MMU-1428517		program	OXPHOS_TCA	metabolism
+Aflatoxin activation and detoxification	R-MMU-5423646		exclude	infection_pathogen	exclude
+Aggrephagy	R-MMU-9646399		program	autophagy_lysosome	trafficking
+Agmatine biosynthesis	R-MMU-351143		context	metabolism_other	context
+Alanine metabolism	R-MMU-8964540		program	amino_acid_glutamine	metabolism
+Alpha-defensins	R-MMU-1462054		program	necrosis_DAMP	cell_death
+Alpha-oxidation of phytanate	R-MMU-389599		program	fatty_acid_lipid	metabolism
+Alpha-protein kinase 1 signaling pathway	R-MMU-9645460		program	inflammation_TNF_NFkB	immune
+Alternative complement activation	R-MMU-173736		program	complement	immune
+Amine Oxidase reactions	R-MMU-140179		exclude	drug_xenobiotic	exclude
+Amine ligand-binding receptors	R-MMU-375280		context	GPCR_signaling	context
+Amino Acid conjugation	R-MMU-156587		exclude	drug_xenobiotic	exclude
+Amino acid transport across the plasma membrane	R-MMU-352230		program	amino_acid_glutamine	metabolism
+Amino acids regulate mTORC1	R-MMU-9639288		program	amino_acid_glutamine	metabolism
+Amino acids regulate mTORC1	R-MMU-9639288		program	autophagy_lysosome	trafficking
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	R-MMU-141444		program	G2_M_mitosis	proliferation
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	R-MMU-141444		program	cell_cycle_checkpoints	proliferation
+Amplification of signal from the kinetochores	R-MMU-141424		program	G2_M_mitosis	proliferation
+Amplification of signal from the kinetochores	R-MMU-141424		program	cell_cycle_checkpoints	proliferation
+Anchoring fibril formation	R-MMU-2214320		program	ECM_remodeling_fibrosis	tissue_remodeling
+Anchoring of the basal body to the plasma membrane	R-MMU-5620912		program	Hedgehog_signaling	signaling
+Androgen biosynthesis	R-MMU-193048		program	fatty_acid_lipid	metabolism
+Antagonism of Activin by Follistatin	R-MMU-2473224		program	TGFb_signaling	signaling
+Antigen Presentation: Folding, assembly and peptide loading of class I MHC	R-MMU-983170		program	antigen_presentation_MHCI	immune
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	R-MMU-983695		program	cytotoxic_T_NK	immune
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	R-MMU-983695		program	humoral_B_cell	immune
+Antigen processing-Cross presentation	R-MMU-1236975		program	antigen_presentation_MHCI	immune
+Antigen processing: Ub, ATP-independent proteasomal degradation	R-MMU-9912633		program	antigen_presentation_MHCI	immune
+Antigen processing: Ubiquitination & Proteasome degradation	R-MMU-983168		program	proteostasis_heat_shock	stress
+Antigen processing: Ubiquitination & Proteasome degradation	R-MMU-983168		program	antigen_presentation_MHCI	immune
+Antimicrobial mechanism of IFN-stimulated genes	R-MMU-1169410		exclude	infection_pathogen	exclude
+Antimicrobial peptides	R-MMU-6803157		exclude	infection_pathogen	exclude
+Apoptosis	R-MMU-109581		program	apoptosis_intrinsic	cell_death
+Apoptosis induced DNA fragmentation	R-MMU-140342		program	apoptosis_intrinsic	cell_death
+Apoptotic cleavage of cell adhesion  proteins	R-MMU-351906		program	apoptosis_intrinsic	cell_death
+Apoptotic cleavage of cellular proteins	R-MMU-111465		program	apoptosis_intrinsic	cell_death
+Apoptotic execution phase	R-MMU-75153		program	apoptosis_intrinsic	cell_death
+Apoptotic factor-mediated response	R-MMU-111471		program	apoptosis_intrinsic	cell_death
+Aquaporin-mediated transport	R-MMU-445717		context	transport_membrane	context
+Arachidonate metabolism	R-MMU-2142753		program	fatty_acid_lipid	metabolism
+Arachidonate production from DAG	R-MMU-426048		program	fatty_acid_lipid	metabolism
+Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2	R-MMU-211957		exclude	drug_xenobiotic	exclude
+Aryl hydrocarbon receptor signalling	R-MMU-8937144		exclude	drug_xenobiotic	exclude
+Asparagine N-linked glycosylation	R-MMU-446203		program	amino_acid_glutamine	metabolism
+Aspartate and asparagine metabolism	R-MMU-8963693		program	amino_acid_glutamine	metabolism
+Aspirin ADME	R-MMU-9749641		exclude	drug_xenobiotic	exclude
+Assembly and cell surface presentation of NMDA receptors	R-MMU-9609736		program	synaptic_neurotransmission	neural
+Assembly of active LPL and LIPC lipase complexes	R-MMU-8963889		program	fatty_acid_lipid	metabolism
+Assembly of collagen fibrils and other multimeric structures	R-MMU-2022090		program	ECM_remodeling_fibrosis	tissue_remodeling
+Assembly of the ORC complex at the origin of replication	R-MMU-68616		program	G1_S_DNA_replication	proliferation
+Assembly of the pre-replicative complex	R-MMU-68867		program	G1_S_DNA_replication	proliferation
+Association of TriC/CCT with target proteins during biosynthesis	R-MMU-390471		context	metabolism_other	context
+Astrocytic Glutamate-Glutamine Uptake And Metabolism	R-MMU-210455		program	amino_acid_glutamine	metabolism
+Astrocytic Glutamate-Glutamine Uptake And Metabolism	R-MMU-210455		program	synaptic_neurotransmission	neural
+Asymmetric localization of PCP proteins	R-MMU-4608870		program	WNT_signaling	signaling
+Atorvastatin ADME	R-MMU-9754706		exclude	drug_xenobiotic	exclude
+Attachment of GPI anchor to uPAR	R-MMU-162791		context	protein_modification	context
+Attenuation phase	R-MMU-3371568		program	proteostasis_heat_shock	stress
+Autodegradation of Cdh1 by Cdh1:APC/C	R-MMU-174084		program	G2_M_mitosis	proliferation
+Autodegradation of the E3 ubiquitin ligase COP1	R-MMU-349425		program	proteostasis_heat_shock	stress
+Autophagy	R-MMU-9612973		program	autophagy_lysosome	trafficking
+Axon guidance	R-MMU-422475		program	axon_guidance_neurodevelopment	neural
+Axonal growth inhibition (RHOA activation)	R-MMU-193634		program	axon_guidance_neurodevelopment	neural
+Axonal growth stimulation	R-MMU-209563		program	axon_guidance_neurodevelopment	neural
+Azathioprine ADME	R-MMU-9748787		exclude	drug_xenobiotic	exclude
+B-WICH complex positively regulates rRNA expression	R-MMU-5250924		context	translation_RNA_processing	context
+BBSome-mediated cargo-targeting to cilium	R-MMU-5620922		program	Hedgehog_signaling	signaling
+BCKDH synthesizes BCAA-CoA from KIC, KMVA, KIV	R-MMU-9859138		program	amino_acid_glutamine	metabolism
+BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	R-MMU-111453		program	apoptosis_intrinsic	cell_death
+Base Excision Repair	R-MMU-73884		program	DNA_damage_response	stress
+Base-Excision Repair, AP Site Formation	R-MMU-73929		program	DNA_damage_response	stress
+Basigin interactions	R-MMU-210991		program	cell_cell_adhesion	tissue_remodeling
+Beta defensins	R-MMU-1461957		program	necrosis_DAMP	cell_death
+Beta oxidation of butanoyl-CoA to acetyl-CoA	R-MMU-77352		program	fatty_acid_lipid	metabolism
+Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA	R-MMU-77346		program	fatty_acid_lipid	metabolism
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA	R-MMU-77350		program	fatty_acid_lipid	metabolism
+Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	R-MMU-77310		program	fatty_acid_lipid	metabolism
+Beta oxidation of myristoyl-CoA to lauroyl-CoA	R-MMU-77285		program	fatty_acid_lipid	metabolism
+Beta oxidation of octanoyl-CoA to hexanoyl-CoA	R-MMU-77348		program	fatty_acid_lipid	metabolism
+Beta oxidation of palmitoyl-CoA to myristoyl-CoA	R-MMU-77305		program	fatty_acid_lipid	metabolism
+Beta-catenin independent WNT signaling	R-MMU-3858494		program	WNT_signaling	signaling
+Beta-catenin phosphorylation cascade	R-MMU-196299		program	WNT_signaling	signaling
+Beta-oxidation of pristanoyl-CoA	R-MMU-389887		program	fatty_acid_lipid	metabolism
+Beta-oxidation of very long chain fatty acids	R-MMU-390247		program	fatty_acid_lipid	metabolism
+Bicarbonate transporters	R-MMU-425381		context	transport_membrane	context
+Bile acid and bile salt metabolism	R-MMU-194068		program	fatty_acid_lipid	metabolism
+Binding and Uptake of Ligands by Scavenger Receptors	R-MMU-2173782		program	phagocytosis_efferocytosis	trafficking
+Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB	R-MMU-141333		context	metabolism_other	context
+Biological oxidations	R-MMU-211859		exclude	drug_xenobiotic	exclude
+Biosynthesis of D-series resolvins	R-MMU-9018676		program	fatty_acid_lipid	metabolism
+Biosynthesis of DHA-derived SPMs	R-MMU-9018677		context	metabolism_other	context
+Biosynthesis of DHA-derived sulfido conjugates	R-MMU-9026395		context	metabolism_other	context
+Biosynthesis of DPA-derived SPMs	R-MMU-9018683		context	metabolism_other	context
+Biosynthesis of DPAn-3 SPMs	R-MMU-9025094		context	metabolism_other	context
+Biosynthesis of DPAn-3-derived 13-series resolvins	R-MMU-9026403		program	fatty_acid_lipid	metabolism
+Biosynthesis of DPAn-3-derived maresins	R-MMU-9026290		program	fatty_acid_lipid	metabolism
+Biosynthesis of DPAn-3-derived protectins and resolvins	R-MMU-9026286		program	fatty_acid_lipid	metabolism
+Biosynthesis of DPAn-6 SPMs	R-MMU-9025106		context	metabolism_other	context
+Biosynthesis of E-series 18(R)-resolvins	R-MMU-9023661		program	fatty_acid_lipid	metabolism
+Biosynthesis of E-series 18(S)-resolvins	R-MMU-9018896		program	fatty_acid_lipid	metabolism
+Biosynthesis of EPA-derived SPMs	R-MMU-9018679		context	metabolism_other	context
+Biosynthesis of Lipoxins (LX)	R-MMU-2142700		program	fatty_acid_lipid	metabolism
+Biosynthesis of aspirin-triggered D-series resolvins	R-MMU-9020265		exclude	drug_xenobiotic	exclude
+Biosynthesis of electrophilic ω-3 PUFA oxo-derivatives	R-MMU-9027604		context	metabolism_other	context
+Biosynthesis of maresin conjugates in tissue regeneration (MCTR)	R-MMU-9026762		program	fatty_acid_lipid	metabolism
+Biosynthesis of maresin-like SPMs	R-MMU-9027307		program	fatty_acid_lipid	metabolism
+Biosynthesis of maresins	R-MMU-9018682		program	fatty_acid_lipid	metabolism
+Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR)	R-MMU-9026766		program	fatty_acid_lipid	metabolism
+Biosynthesis of protectins	R-MMU-9018681		program	fatty_acid_lipid	metabolism
+Biosynthesis of specialized proresolving mediators (SPMs)	R-MMU-9018678		program	fatty_acid_lipid	metabolism
+Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	R-MMU-446193		program	fatty_acid_lipid	metabolism
+Biotin transport and metabolism	R-MMU-196780		context	transport_membrane	context
+Blood group systems biosynthesis	R-MMU-9033658		context	protein_modification	context
+Branched-chain amino acid catabolism	R-MMU-70895		program	amino_acid_glutamine	metabolism
+Breakdown of the nuclear lamina	R-MMU-352238		program	apoptosis_intrinsic	cell_death
+Breakdown of the nuclear lamina	R-MMU-352238		program	G2_M_mitosis	proliferation
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA	R-MMU-450385		program	coagulation_wound	tissue_remodeling
+Butyrophilin (BTN) family interactions	R-MMU-8851680		program	antigen_presentation_MHCI	immune
+Butyrophilin (BTN) family interactions	R-MMU-8851680		program	cytotoxic_T_NK	immune
+C-type lectin receptors (CLRs)	R-MMU-5621481		program	inflammation_TNF_NFkB	immune
+C6 deamination of adenosine	R-MMU-75102		program	immunosuppression	immune
+CASP4 inflammasome assembly	R-MMU-9948001		program	pyroptosis_inflammasome	cell_death
+CASP4-mediated substrate cleavage	R-MMU-9960519		program	pyroptosis_inflammasome	cell_death
+CASP5 inflammasome assembly	R-MMU-9948011		program	pyroptosis_inflammasome	cell_death
+CASP5-mediated substrate cleavage	R-MMU-9960525		program	pyroptosis_inflammasome	cell_death
+CASP8 activity is inhibited	R-MMU-5218900		program	necroptosis	cell_death
+CD209 (DC-SIGN) signaling	R-MMU-5621575		program	inflammation_TNF_NFkB	immune
+CD22 mediated BCR regulation	R-MMU-5690714		program	humoral_B_cell	immune
+CD28 dependent PI3K/Akt signaling	R-MMU-389357		program	PI3K_AKT_mTOR	signaling
+CD28 dependent PI3K/Akt signaling	R-MMU-389357		program	cytotoxic_T_NK	immune
+CD28 dependent Vav1 pathway	R-MMU-389359		program	cytotoxic_T_NK	immune
+CDC42 GTPase cycle	R-MMU-9013148		program	migration_invasion	tissue_remodeling
+CDC6 association with the ORC:origin complex	R-MMU-68689		program	G1_S_DNA_replication	proliferation
+CDK-mediated phosphorylation and removal of Cdc6	R-MMU-69017		program	G1_S_DNA_replication	proliferation
+CLEC7A (Dectin-1) induces NFAT activation	R-MMU-5607763		program	phagocytosis_efferocytosis	trafficking
+CLEC7A (Dectin-1) induces NFAT activation	R-MMU-5607763		program	inflammation_TNF_NFkB	immune
+CLEC7A (Dectin-1) induces NFAT activation	R-MMU-5607763		program	cytotoxic_T_NK	immune
+CLEC7A (Dectin-1) signaling	R-MMU-5607764		program	phagocytosis_efferocytosis	trafficking
+CLEC7A (Dectin-1) signaling	R-MMU-5607764		program	inflammation_TNF_NFkB	immune
+CLEC7A/inflammasome pathway	R-MMU-5660668		program	pyroptosis_inflammasome	cell_death
+CLEC7A/inflammasome pathway	R-MMU-5660668		program	phagocytosis_efferocytosis	trafficking
+CLEC7A/inflammasome pathway	R-MMU-5660668		program	inflammation_TNF_NFkB	immune
+COPI-dependent Golgi-to-ER retrograde traffic	R-MMU-6811434		program	secretion_exocytosis	trafficking
+COPI-independent Golgi-to-ER retrograde traffic	R-MMU-6811436		program	secretion_exocytosis	trafficking
+COPI-mediated anterograde transport	R-MMU-6807878		program	secretion_exocytosis	trafficking
+COPII-mediated vesicle transport	R-MMU-204005		program	secretion_exocytosis	trafficking
+COX reactions	R-MMU-140180		context	metabolism_other	context
+CREB phosphorylation	R-MMU-199920		program	RTK_MAPK	signaling
+CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	R-MMU-442742		program	RTK_MAPK	signaling
+CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	R-MMU-442742		program	synaptic_neurotransmission	neural
+CREB1 phosphorylation through the activation of Adenylate Cyclase	R-MMU-442720		program	RTK_MAPK	signaling
+CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde	R-MMU-442729		program	RTK_MAPK	signaling
+CREB3 factors activate genes	R-MMU-8874211		program	RTK_MAPK	signaling
+CRMPs in Sema3A signaling	R-MMU-399956		program	axon_guidance_neurodevelopment	neural
+CS-GAG biosynthesis	R-MMU-2022870		program	ECM_integrin_adhesion	tissue_remodeling
+CS/DS degradation	R-MMU-2024101		program	autophagy_lysosome	trafficking
+CYP2E1 reactions	R-MMU-211999		exclude	drug_xenobiotic	exclude
+Ca-dependent events	R-MMU-111996		program	synaptic_neurotransmission	neural
+Ca2+ activated K+ channels	R-MMU-1296052		context	transport_membrane	context
+Ca2+ pathway	R-MMU-4086398		context	transport_membrane	context
+CaM pathway	R-MMU-111997		program	synaptic_neurotransmission	neural
+CaMK IV-mediated phosphorylation of CREB	R-MMU-111932		program	RTK_MAPK	signaling
+Calcineurin activates NFAT	R-MMU-2025928		program	cytotoxic_T_NK	immune
+Calcitonin-like ligand receptors	R-MMU-419812		context	GPCR_signaling	context
+Calmodulin induced events	R-MMU-111933		program	RTK_MAPK	signaling
+Calnexin/calreticulin cycle	R-MMU-901042		program	ER_stress_UPR	stress
+Cam-PDE 1 activation	R-MMU-111957		program	synaptic_neurotransmission	neural
+Cap-dependent Translation Initiation	R-MMU-72737		context	translation_RNA_processing	context
+Carboxyterminal post-translational modifications of tubulin	R-MMU-8955332		context	translation_RNA_processing	context
+Cardiac conduction	R-MMU-5576891		program	synaptic_neurotransmission	neural
+Cargo concentration in the ER	R-MMU-5694530		program	secretion_exocytosis	trafficking
+Cargo recognition for clathrin-mediated endocytosis	R-MMU-8856825		program	endocytosis	trafficking
+Cargo trafficking to the periciliary membrane	R-MMU-5620920		program	secretion_exocytosis	trafficking
+Cargo trafficking to the periciliary membrane	R-MMU-5620920		program	Hedgehog_signaling	signaling
+Carnitine shuttle	R-MMU-200425		program	fatty_acid_lipid	metabolism
+Carnitine synthesis	R-MMU-71262		program	fatty_acid_lipid	metabolism
+Carnitine synthesis	R-MMU-71262		program	amino_acid_glutamine	metabolism
+Caspase activation via Death Receptors in the presence of ligand	R-MMU-140534		program	apoptosis_extrinsic	cell_death
+Caspase activation via Dependence Receptors in the absence of ligand	R-MMU-418889		program	apoptosis_extrinsic	cell_death
+Caspase activation via extrinsic apoptotic signalling pathway	R-MMU-5357769		program	apoptosis_extrinsic	cell_death
+Caspase-mediated cleavage of cytoskeletal proteins	R-MMU-264870		program	apoptosis_intrinsic	cell_death
+Catecholamine biosynthesis	R-MMU-209905		context	metabolism_other	context
+Cation-coupled Chloride cotransporters	R-MMU-426117		context	transport_membrane	context
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A	R-MMU-174184		program	G1_S_DNA_replication	proliferation
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A	R-MMU-174184		program	G2_M_mitosis	proliferation
+Cell Cycle	R-MMU-1640170		program	G1_S_DNA_replication	proliferation
+Cell Cycle Checkpoints	R-MMU-69620		program	cell_cycle_checkpoints	proliferation
+Cell Cycle, Mitotic	R-MMU-69278		program	G1_S_DNA_replication	proliferation
+Cell Cycle, Mitotic	R-MMU-69278		program	G2_M_mitosis	proliferation
+Cell death signalling via NRAGE, NRIF and NADE	R-MMU-204998		program	apoptosis_intrinsic	cell_death
+Cell junction organization	R-MMU-446728		program	cell_cell_adhesion	tissue_remodeling
+Cell surface interactions at the vascular wall	R-MMU-202733		program	coagulation_wound	tissue_remodeling
+Cell surface interactions at the vascular wall	R-MMU-202733		program	leukocyte_chemotaxis	immune
+Cell-Cell communication	R-MMU-1500931		program	cell_cell_adhesion	tissue_remodeling
+Cell-cell junction organization	R-MMU-421270		program	cell_cell_adhesion	tissue_remodeling
+Cell-extracellular matrix interactions	R-MMU-446353		program	ECM_integrin_adhesion	tissue_remodeling
+Cellular Senescence	R-MMU-2559583		program	senescence_SASP	stress
+Cellular hexose transport	R-MMU-189200		program	glycolysis	metabolism
+Cellular response to chemical stress	R-MMU-9711123		program	ROS_oxidative_stress	stress
+Cellular response to heat stress	R-MMU-3371556		program	proteostasis_heat_shock	stress
+Cellular response to hypoxia	R-MMU-1234174		program	hypoxia	stress
+Cellular response to mitochondrial stress	R-MMU-9840373		program	OXPHOS_TCA	metabolism
+Cellular response to starvation	R-MMU-9711097		program	autophagy_lysosome	trafficking
+Cellular responses to mechanical stimuli	R-MMU-9855142		context	cellular_responses	context
+Cellular responses to stimuli	R-MMU-8953897		context	cellular_responses	context
+Cellular responses to stress	R-MMU-2262752		context	cellular_responses	context
+Centrosome maturation	R-MMU-380287		program	G2_M_mitosis	proliferation
+Chaperonin-mediated protein folding	R-MMU-390466		program	proteostasis_heat_shock	stress
+Chemokine receptors bind chemokines	R-MMU-380108		program	migration_invasion	tissue_remodeling
+Chemokine receptors bind chemokines	R-MMU-380108		program	leukocyte_chemotaxis	immune
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	R-MMU-75035		program	G2_M_mitosis	proliferation
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	R-MMU-75035		program	cell_cycle_checkpoints	proliferation
+Cholesterol biosynthesis	R-MMU-191273		program	fatty_acid_lipid	metabolism
+Cholesterol biosynthesis from zymosterol (modified Kandutsch-Russell pathway)	R-MMU-9969901		program	fatty_acid_lipid	metabolism
+Cholesterol biosynthesis via desmosterol (Bloch pathway)	R-MMU-6807047		program	fatty_acid_lipid	metabolism
+Choline catabolism	R-MMU-6798163		context	metabolism_other	context
+Chondroitin sulfate/dermatan sulfate metabolism	R-MMU-1793185		program	ECM_integrin_adhesion	tissue_remodeling
+Chromatin modifying enzymes	R-MMU-3247509		context	transcription_chromatin	context
+Chromatin organization	R-MMU-4839726		context	transcription_chromatin	context
+Chromosome Maintenance	R-MMU-73886		program	G2_M_mitosis	proliferation
+Chylomicron assembly	R-MMU-8963888		program	fatty_acid_lipid	metabolism
+Chylomicron clearance	R-MMU-8964026		program	fatty_acid_lipid	metabolism
+Chylomicron clearance	R-MMU-8964026		program	phagocytosis_efferocytosis	trafficking
+Chylomicron remodeling	R-MMU-8963901		program	fatty_acid_lipid	metabolism
+Cilium Assembly	R-MMU-5617833		program	Hedgehog_signaling	signaling
+Ciprofloxacin ADME	R-MMU-9793528		exclude	drug_xenobiotic	exclude
+Circadian clock	R-MMU-9909396		context	transcription_chromatin	context
+Citric acid cycle (TCA cycle)	R-MMU-71403		program	OXPHOS_TCA	metabolism
+Class A/1 (Rhodopsin-like receptors)	R-MMU-373076		context	GPCR_signaling	context
+Class B/2 (Secretin family receptors)	R-MMU-373080		context	GPCR_signaling	context
+Class C/3 (Metabotropic glutamate/pheromone receptors)	R-MMU-420499		context	GPCR_signaling	context
+Class I MHC mediated antigen processing & presentation	R-MMU-983169		program	antigen_presentation_MHCI	immune
+Class I peroxisomal membrane protein import	R-MMU-9603798		context	transport_membrane	context
+Classical Kir channels	R-MMU-1296053		program	synaptic_neurotransmission	neural
+Classical antibody-mediated complement activation	R-MMU-173623		program	complement	immune
+Classical antibody-mediated complement activation	R-MMU-173623		program	humoral_B_cell	immune
+Clathrin-mediated endocytosis	R-MMU-8856828		program	endocytosis	trafficking
+Cleavage of the damaged purine	R-MMU-110331		program	DNA_damage_response	stress
+Cleavage of the damaged purine	R-MMU-110331		program	amino_acid_glutamine	metabolism
+Cleavage of the damaged pyrimidine	R-MMU-110329		program	DNA_damage_response	stress
+Cleavage of the damaged pyrimidine	R-MMU-110329		program	amino_acid_glutamine	metabolism
+Co-inhibition by BTLA	R-MMU-9927353		program	T_cell_exhaustion_checkpoint	immune
+Co-inhibition by CTLA4	R-MMU-389513		program	T_cell_exhaustion_checkpoint	immune
+Co-inhibition by PD-1	R-MMU-389948		program	T_cell_exhaustion_checkpoint	immune
+Co-inhibition by PD-1	R-MMU-389948		program	immunosuppression	immune
+Co-stimulation by CD28	R-MMU-389356		program	cytotoxic_T_NK	immune
+Co-stimulation by ICOS	R-MMU-9927354		program	cytotoxic_T_NK	immune
+Cobalamin (Cbl) metabolism	R-MMU-9759218		program	G2_M_mitosis	proliferation
+Cobalamin (Cbl, vitamin B12) transport and metabolism	R-MMU-196741		program	G2_M_mitosis	proliferation
+Coenzyme A biosynthesis	R-MMU-196783		context	transport_membrane	context
+Cohesin Loading onto Chromatin	R-MMU-2470946		program	G2_M_mitosis	proliferation
+Collagen biosynthesis and modifying enzymes	R-MMU-1650814		program	ECM_remodeling_fibrosis	tissue_remodeling
+Collagen chain trimerization	R-MMU-8948216		program	ECM_remodeling_fibrosis	tissue_remodeling
+Collagen degradation	R-MMU-1442490		program	ECM_remodeling_fibrosis	tissue_remodeling
+Collagen formation	R-MMU-1474290		program	ECM_remodeling_fibrosis	tissue_remodeling
+Common Pathway of Fibrin Clot Formation	R-MMU-140875		program	coagulation_wound	tissue_remodeling
+Complement cascade	R-MMU-166658		program	complement	immune
+Complex I biogenesis	R-MMU-6799198		program	OXPHOS_TCA	metabolism
+Complex III assembly	R-MMU-9865881		program	OXPHOS_TCA	metabolism
+Complex IV assembly	R-MMU-9864848		program	OXPHOS_TCA	metabolism
+Condensation of Prometaphase Chromosomes	R-MMU-2514853		program	G2_M_mitosis	proliferation
+Condensation of Prophase Chromosomes	R-MMU-2299718		program	G2_M_mitosis	proliferation
+Conjugation of benzoate with glycine	R-MMU-177135		exclude	drug_xenobiotic	exclude
+Conjugation of carboxylic acids	R-MMU-159424		exclude	drug_xenobiotic	exclude
+Conjugation of phenylacetate with glutamine	R-MMU-177162		exclude	drug_xenobiotic	exclude
+Conjugation of salicylate with glycine	R-MMU-177128		exclude	drug_xenobiotic	exclude
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	R-MMU-176407		program	G2_M_mitosis	proliferation
+Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	R-MMU-6814122		context	GPCR_signaling	context
+Creatine metabolism	R-MMU-71288		program	amino_acid_glutamine	metabolism
+Creation of C4 and C2 activators	R-MMU-166786		program	complement	immune
+Cristae formation	R-MMU-8949613		program	OXPHOS_TCA	metabolism
+Cross-presentation of particulate exogenous antigens (phagosomes)	R-MMU-1236973		program	phagocytosis_efferocytosis	trafficking
+Cross-presentation of particulate exogenous antigens (phagosomes)	R-MMU-1236973		program	antigen_presentation_MHCI	immune
+Cross-presentation of soluble exogenous antigens (endosomes)	R-MMU-1236978		program	endocytosis	trafficking
+Cross-presentation of soluble exogenous antigens (endosomes)	R-MMU-1236978		program	phagocytosis_efferocytosis	trafficking
+Cross-presentation of soluble exogenous antigens (endosomes)	R-MMU-1236978		program	antigen_presentation_MHCI	immune
+Crosslinking of collagen fibrils	R-MMU-2243919		program	ECM_remodeling_fibrosis	tissue_remodeling
+Cyclin A/B1/B2 associated events during G2/M transition	R-MMU-69273		program	G1_S_DNA_replication	proliferation
+Cyclin A/B1/B2 associated events during G2/M transition	R-MMU-69273		program	G2_M_mitosis	proliferation
+Cyclin A:Cdk2-associated events at S phase entry	R-MMU-69656		program	G1_S_DNA_replication	proliferation
+Cyclin D associated events in G1	R-MMU-69231		program	G1_S_DNA_replication	proliferation
+Cyclin E associated events during G1/S transition	R-MMU-69202		program	G1_S_DNA_replication	proliferation
+Cysteine formation from homocysteine	R-MMU-1614603		program	amino_acid_glutamine	metabolism
+Cytochrome P450 - arranged by substrate type	R-MMU-211897		exclude	drug_xenobiotic	exclude
+Cytochrome c-mediated apoptotic response	R-MMU-111461		program	apoptosis_intrinsic	cell_death
+Cytokine Signaling in Immune system	R-MMU-1280215		program	JAK_STAT	signaling
+Cytoprotection by HMOX1	R-MMU-9707564		program	ROS_oxidative_stress	stress
+Cytosolic sensors of pathogen-associated DNA	R-MMU-1834949		exclude	infection_pathogen	exclude
+Cytosolic sulfonation of small molecules	R-MMU-156584		exclude	drug_xenobiotic	exclude
+Cytosolic tRNA aminoacylation	R-MMU-379716		context	translation_RNA_processing	context
+DAG and IP3 signaling	R-MMU-1489509		program	RTK_MAPK	signaling
+DAG1 core M1 glycosylations	R-MMU-8932506		program	ECM_integrin_adhesion	tissue_remodeling
+DAG1 core M2 glycosylations	R-MMU-8932504		program	ECM_integrin_adhesion	tissue_remodeling
+DAG1 core M3 glycosylations	R-MMU-8932505		program	ECM_integrin_adhesion	tissue_remodeling
+DAG1 glycosylations	R-MMU-8931838		program	ECM_integrin_adhesion	tissue_remodeling
+DAP12 interactions	R-MMU-2172127		program	cytotoxic_T_NK	immune
+DAP12 signaling	R-MMU-2424491		program	cytotoxic_T_NK	immune
+DARPP-32 events	R-MMU-180024		program	synaptic_neurotransmission	neural
+DCC mediated attractive signaling	R-MMU-418885		program	axon_guidance_neurodevelopment	neural
+DDX58/IFIH1-mediated induction of interferon-alpha/beta	R-MMU-168928		program	interferon_type_I	immune
+DEx/H-box helicases activate type I IFN and inflammatory cytokines production	R-MMU-3134963		program	inflammation_TNF_NFkB	immune
+DEx/H-box helicases activate type I IFN and inflammatory cytokines production	R-MMU-3134963		program	interferon_type_I	immune
+DNA Damage Bypass	R-MMU-73893		program	DNA_damage_response	stress
+DNA Damage Recognition in GG-NER	R-MMU-5696394		program	DNA_damage_response	stress
+DNA Damage Reversal	R-MMU-73942		program	DNA_damage_response	stress
+DNA Damage/Telomere Stress Induced Senescence	R-MMU-2559586		program	DNA_damage_response	stress
+DNA Damage/Telomere Stress Induced Senescence	R-MMU-2559586		program	senescence_SASP	stress
+DNA Double Strand Break Response	R-MMU-5693606		program	DNA_damage_response	stress
+DNA Double-Strand Break Repair	R-MMU-5693532		program	DNA_damage_response	stress
+DNA Repair	R-MMU-73894		program	DNA_damage_response	stress
+DNA Replication	R-MMU-69306		program	G1_S_DNA_replication	proliferation
+DNA Replication Pre-Initiation	R-MMU-69002		program	G1_S_DNA_replication	proliferation
+DNA replication initiation	R-MMU-68952		program	G1_S_DNA_replication	proliferation
+DNA strand elongation	R-MMU-69190		program	DNA_damage_response	stress
+DS-GAG biosynthesis	R-MMU-2022923		program	ECM_integrin_adhesion	tissue_remodeling
+DSCAM interactions	R-MMU-376172		program	axon_guidance_neurodevelopment	neural
+Deactivation of the beta-catenin transactivating complex	R-MMU-3769402		program	WNT_signaling	signaling
+Deadenylation of mRNA	R-MMU-429947		context	translation_RNA_processing	context
+Deadenylation-dependent mRNA decay	R-MMU-429914		context	translation_RNA_processing	context
+Death Receptor Signaling	R-MMU-73887		program	apoptosis_extrinsic	cell_death
+Dectin-1 mediated noncanonical NF-kB signaling	R-MMU-5607761		program	phagocytosis_efferocytosis	trafficking
+Dectin-1 mediated noncanonical NF-kB signaling	R-MMU-5607761		program	inflammation_TNF_NFkB	immune
+Dectin-2 family	R-MMU-5621480		program	phagocytosis_efferocytosis	trafficking
+Defensins	R-MMU-1461973		program	necrosis_DAMP	cell_death
+Degradation of AXIN	R-MMU-4641257		program	WNT_signaling	signaling
+Degradation of CDH1	R-MMU-9766229		program	G2_M_mitosis	proliferation
+Degradation of CRY and PER proteins	R-MMU-9932298		context	metabolism_other	context
+Degradation of DVL	R-MMU-4641258		program	WNT_signaling	signaling
+Degradation of GABA	R-MMU-916853		program	synaptic_neurotransmission	neural
+Degradation of GLI1 by the proteasome	R-MMU-5610780		program	proteostasis_heat_shock	stress
+Degradation of GLI1 by the proteasome	R-MMU-5610780		program	Hedgehog_signaling	signaling
+Degradation of beta-catenin by the destruction complex	R-MMU-195253		program	WNT_signaling	signaling
+Degradation of cysteine and homocysteine	R-MMU-1614558		program	amino_acid_glutamine	metabolism
+Degradation of the extracellular matrix	R-MMU-1474228		program	ECM_remodeling_fibrosis	tissue_remodeling
+Depolymerization of the Nuclear Lamina	R-MMU-4419969		program	G2_M_mitosis	proliferation
+Deposition of new CENPA-containing nucleosomes at the centromere	R-MMU-606279		program	G2_M_mitosis	proliferation
+Depurination	R-MMU-73927		program	DNA_damage_response	stress
+Depyrimidination	R-MMU-73928		program	DNA_damage_response	stress
+Detoxification of Reactive Oxygen Species	R-MMU-3299685		program	ROS_oxidative_stress	stress
+Deubiquitination	R-MMU-5688426		program	proteostasis_heat_shock	stress
+Developmental Biology	R-MMU-1266738		context	development_differentiation	context
+Digestion	R-MMU-8935690		context	metabolism_other	context
+Digestion and absorption	R-MMU-8963743		context	metabolism_other	context
+Digestion of dietary carbohydrate	R-MMU-189085		program	glycolysis	metabolism
+Digestion of dietary lipid	R-MMU-192456		program	fatty_acid_lipid	metabolism
+Dimerization of procaspase-8	R-MMU-69416		program	apoptosis_extrinsic	cell_death
+Disassembly of the destruction complex and recruitment of AXIN to the membrane	R-MMU-4641262		program	WNT_signaling	signaling
+Disinhibition of SNARE formation	R-MMU-114516		program	secretion_exocytosis	trafficking
+Displacement of DNA glycosylase by APEX1	R-MMU-110357		program	DNA_damage_response	stress
+Dissolution of Fibrin Clot	R-MMU-75205		program	coagulation_wound	tissue_remodeling
+Dopamine Neurotransmitter Release Cycle	R-MMU-212676		program	synaptic_neurotransmission	neural
+Dopamine clearance from the synaptic cleft	R-MMU-379401		program	phagocytosis_efferocytosis	trafficking
+Dopamine clearance from the synaptic cleft	R-MMU-379401		program	synaptic_neurotransmission	neural
+Dopamine receptors	R-MMU-390651		program	synaptic_neurotransmission	neural
+Downregulation of ERBB2 signaling	R-MMU-8863795		program	RTK_MAPK	signaling
+Downregulation of ERBB2:ERBB3 signaling	R-MMU-1358803		program	RTK_MAPK	signaling
+Downregulation of ERBB4 signaling	R-MMU-1253288		program	RTK_MAPK	signaling
+Downregulation of SMAD2/3:SMAD4 transcriptional activity	R-MMU-2173795		program	TGFb_signaling	signaling
+Downregulation of TGF-beta receptor signaling	R-MMU-2173788		program	EMT	tissue_remodeling
+Downregulation of TGF-beta receptor signaling	R-MMU-2173788		program	TGFb_signaling	signaling
+Downstream TCR signaling	R-MMU-202424		program	cytotoxic_T_NK	immune
+Downstream signal transduction	R-MMU-186763		program	RTK_MAPK	signaling
+Downstream signaling events of B Cell Receptor (BCR)	R-MMU-1168372		program	humoral_B_cell	immune
+Downstream signaling of activated FGFR1	R-MMU-5654687		program	RTK_MAPK	signaling
+Downstream signaling of activated FGFR2	R-MMU-5654696		program	RTK_MAPK	signaling
+Downstream signaling of activated FGFR3	R-MMU-5654708		program	RTK_MAPK	signaling
+Downstream signaling of activated FGFR4	R-MMU-5654716		program	RTK_MAPK	signaling
+Drug ADME	R-MMU-9748784		exclude	drug_xenobiotic	exclude
+Drug-mediated inhibition of CDK4/CDK6 activity	R-MMU-9754119		exclude	drug_xenobiotic	exclude
+Drug-mediated inhibition of ERBB2 signaling	R-MMU-9652282		exclude	drug_xenobiotic	exclude
+Drug-mediated inhibition of MET activation	R-MMU-9734091		exclude	drug_xenobiotic	exclude
+Dual Incision in GG-NER	R-MMU-5696400		program	DNA_damage_response	stress
+Dual incision in TC-NER	R-MMU-6782135		program	DNA_damage_response	stress
+E2F mediated regulation of DNA replication	R-MMU-113510		program	G1_S_DNA_replication	proliferation
+E3 ubiquitin ligases ubiquitinate target proteins	R-MMU-8866654		program	proteostasis_heat_shock	stress
+ECM proteoglycans	R-MMU-3000178		program	ECM_integrin_adhesion	tissue_remodeling
+EGFR Transactivation by Gastrin	R-MMU-2179392		program	RTK_MAPK	signaling
+EGFR downregulation	R-MMU-182971		program	RTK_MAPK	signaling
+EGFR interacts with phospholipase C-gamma	R-MMU-212718		program	RTK_MAPK	signaling
+EGR2 and SOX10-mediated initiation of Schwann cell myelination	R-MMU-9619665		program	axon_guidance_neurodevelopment	neural
+EML4 and NUDC in mitotic spindle formation	R-MMU-9648025		program	G2_M_mitosis	proliferation
+EPH-Ephrin signaling	R-MMU-2682334		program	RTK_MAPK	signaling
+EPH-Ephrin signaling	R-MMU-2682334		program	axon_guidance_neurodevelopment	neural
+EPH-ephrin mediated repulsion of cells	R-MMU-3928665		program	RTK_MAPK	signaling
+EPH-ephrin mediated repulsion of cells	R-MMU-3928665		program	axon_guidance_neurodevelopment	neural
+EPHA-mediated growth cone collapse	R-MMU-3928663		program	RTK_MAPK	signaling
+EPHA-mediated growth cone collapse	R-MMU-3928663		program	axon_guidance_neurodevelopment	neural
+EPHB-mediated forward signaling	R-MMU-3928662		program	RTK_MAPK	signaling
+EPHB-mediated forward signaling	R-MMU-3928662		program	axon_guidance_neurodevelopment	neural
+ER Quality Control Compartment (ERQC)	R-MMU-901032		program	ER_stress_UPR	stress
+ER to Golgi Anterograde Transport	R-MMU-199977		program	secretion_exocytosis	trafficking
+ER-Phagosome pathway	R-MMU-1236974		program	phagocytosis_efferocytosis	trafficking
+ER-Phagosome pathway	R-MMU-1236974		program	antigen_presentation_MHCI	immune
+ERBB2 Activates PTK6 Signaling	R-MMU-8847993		program	RTK_MAPK	signaling
+ERBB2 Regulates Cell Motility	R-MMU-6785631		program	migration_invasion	tissue_remodeling
+ERBB2 Regulates Cell Motility	R-MMU-6785631		program	RTK_MAPK	signaling
+ERK/MAPK targets	R-MMU-198753		program	RTK_MAPK	signaling
+ERKs are inactivated	R-MMU-202670		program	RTK_MAPK	signaling
+ESR-mediated signaling	R-MMU-8939211		context	transcription_chromatin	context
+Effects of PIP2 hydrolysis	R-MMU-114508		program	RTK_MAPK	signaling
+Eicosanoid ligand-binding receptors	R-MMU-391903		program	fatty_acid_lipid	metabolism
+Eicosanoids	R-MMU-211979		program	fatty_acid_lipid	metabolism
+Elastic fibre formation	R-MMU-1566948		program	ECM_remodeling_fibrosis	tissue_remodeling
+Electric Transmission Across Gap Junctions	R-MMU-112303		program	cell_cell_adhesion	tissue_remodeling
+Electric Transmission Across Gap Junctions	R-MMU-112303		program	synaptic_neurotransmission	neural
+Electron transport from NADPH to Ferredoxin	R-MMU-2395516		program	ROS_oxidative_stress	stress
+Electron transport from NADPH to Ferredoxin	R-MMU-2395516		program	OXPHOS_TCA	metabolism
+Elevation of cytosolic Ca2+ levels	R-MMU-139853		context	transport_membrane	context
+Endogenous sterols	R-MMU-211976		program	fatty_acid_lipid	metabolism
+Endosomal Sorting Complex Required For Transport (ESCRT)	R-MMU-917729		program	endocytosis	trafficking
+Endosomal/Vacuolar pathway	R-MMU-1236977		program	endocytosis	trafficking
+Endosomal/Vacuolar pathway	R-MMU-1236977		program	antigen_presentation_MHCI	immune
+Energy dependent regulation of mTOR by LKB1-AMPK	R-MMU-380972		program	autophagy_lysosome	trafficking
+Energy dependent regulation of mTOR by LKB1-AMPK	R-MMU-380972		program	PI3K_AKT_mTOR	signaling
+Enzymatic degradation of Dopamine by monoamine oxidase	R-MMU-379398		exclude	drug_xenobiotic	exclude
+Enzymatic degradation of dopamine by COMT	R-MMU-379397		program	synaptic_neurotransmission	neural
+Ephrin signaling	R-MMU-3928664		program	RTK_MAPK	signaling
+Ephrin signaling	R-MMU-3928664		program	axon_guidance_neurodevelopment	neural
+Epigenetic regulation by WDR5-containing histone modifying complexes	R-MMU-9917777		context	transcription_chromatin	context
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes	R-MMU-9851695		context	transcription_chromatin	context
+Epigenetic regulation of gene expression	R-MMU-212165		context	transcription_chromatin	context
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes	R-MMU-9818564		context	transcription_chromatin	context
+Erythrocytes take up carbon dioxide and release oxygen	R-MMU-1237044		program	iron_metabolism	metabolism
+Erythrocytes take up oxygen and release carbon dioxide	R-MMU-1247673		program	iron_metabolism	metabolism
+Erythropoietin activates Phosphoinositide-3-kinase (PI3K)	R-MMU-9027276		program	fatty_acid_lipid	metabolism
+Erythropoietin activates Phosphoinositide-3-kinase (PI3K)	R-MMU-9027276		program	RTK_MAPK	signaling
+Erythropoietin activates Phosphoinositide-3-kinase (PI3K)	R-MMU-9027276		program	PI3K_AKT_mTOR	signaling
+Erythropoietin activates RAS	R-MMU-9027284		program	RTK_MAPK	signaling
+Establishment of Sister Chromatid Cohesion	R-MMU-2468052		program	G2_M_mitosis	proliferation
+Estrogen biosynthesis	R-MMU-193144		program	fatty_acid_lipid	metabolism
+Estrogen-dependent gene expression	R-MMU-9018519		context	transcription_chromatin	context
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling	R-MMU-9634638		context	transcription_chromatin	context
+Estrogen-stimulated signaling through PRKCZ	R-MMU-9634635		context	transcription_chromatin	context
+Ethanol oxidation	R-MMU-71384		context	metabolism_other	context
+Eukaryotic Translation Elongation	R-MMU-156842		context	transcription_chromatin	context
+Eukaryotic Translation Initiation	R-MMU-72613		context	translation_RNA_processing	context
+Eukaryotic Translation Termination	R-MMU-72764		context	transcription_chromatin	context
+Events associated with phagocytolytic activity of PMN cells	R-MMU-8941413		program	phagocytosis_efferocytosis	trafficking
+Expression and Processing of Neurotrophins	R-MMU-9036866		program	RTK_MAPK	signaling
+Extension of Telomeres	R-MMU-180786		program	DNA_damage_response	stress
+Extra-nuclear estrogen signaling	R-MMU-9009391		context	transcription_chromatin	context
+Extracellular matrix organization	R-MMU-1474244		program	ECM_remodeling_fibrosis	tissue_remodeling
+Extrinsic Pathway of Fibrin Clot Formation	R-MMU-140834		program	apoptosis_extrinsic	cell_death
+Extrinsic Pathway of Fibrin Clot Formation	R-MMU-140834		program	coagulation_wound	tissue_remodeling
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	R-MMU-8854050		program	G2_M_mitosis	proliferation
+FCERI mediated Ca+2 mobilization	R-MMU-2871809		program	humoral_B_cell	immune
+FCERI mediated MAPK activation	R-MMU-2871796		program	RTK_MAPK	signaling
+FCERI mediated MAPK activation	R-MMU-2871796		program	humoral_B_cell	immune
+FCERI mediated NF-kB activation	R-MMU-2871837		program	inflammation_TNF_NFkB	immune
+FCERI mediated NF-kB activation	R-MMU-2871837		program	humoral_B_cell	immune
+FCGR activation	R-MMU-2029481		program	phagocytosis_efferocytosis	trafficking
+FGFR1 ligand binding and activation	R-MMU-190242		program	RTK_MAPK	signaling
+FGFR1b ligand binding and activation	R-MMU-190370		program	RTK_MAPK	signaling
+FGFR1c and Klotho ligand binding and activation	R-MMU-190374		program	RTK_MAPK	signaling
+FGFR1c ligand binding and activation	R-MMU-190373		program	RTK_MAPK	signaling
+FGFR2 alternative splicing	R-MMU-6803529		program	RTK_MAPK	signaling
+FGFR2 ligand binding and activation	R-MMU-190241		program	RTK_MAPK	signaling
+FGFR2b ligand binding and activation	R-MMU-190377		program	RTK_MAPK	signaling
+FGFR2c ligand binding and activation	R-MMU-190375		program	RTK_MAPK	signaling
+FGFR3 ligand binding and activation	R-MMU-190239		program	RTK_MAPK	signaling
+FGFR3b ligand binding and activation	R-MMU-190371		program	RTK_MAPK	signaling
+FGFR3c ligand binding and activation	R-MMU-190372		program	RTK_MAPK	signaling
+FGFR4 ligand binding and activation	R-MMU-190322		program	RTK_MAPK	signaling
+FGFRL1 modulation of FGFR1 signaling	R-MMU-5658623		program	RTK_MAPK	signaling
+FLT3 Signaling	R-MMU-9607240		program	RTK_MAPK	signaling
+FLT3 signaling through SRC family kinases	R-MMU-9706374		program	RTK_MAPK	signaling
+FMO oxidises nucleophiles	R-MMU-217271		exclude	drug_xenobiotic	exclude
+FOXO-mediated transcription	R-MMU-9614085		program	PI3K_AKT_mTOR	signaling
+FOXO-mediated transcription of cell cycle genes	R-MMU-9617828		program	PI3K_AKT_mTOR	signaling
+FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	R-MMU-9615017		program	ROS_oxidative_stress	stress
+FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	R-MMU-9615017		program	PI3K_AKT_mTOR	signaling
+FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	R-MMU-9615017		program	axon_guidance_neurodevelopment	neural
+FRS-mediated FGFR1 signaling	R-MMU-5654693		program	RTK_MAPK	signaling
+FRS-mediated FGFR2 signaling	R-MMU-5654700		program	RTK_MAPK	signaling
+FRS-mediated FGFR3 signaling	R-MMU-5654706		program	RTK_MAPK	signaling
+FRS-mediated FGFR4 signaling	R-MMU-5654712		program	RTK_MAPK	signaling
+Factors involved in megakaryocyte development and platelet production	R-MMU-983231		program	coagulation_wound	tissue_remodeling
+Fanconi Anemia Pathway	R-MMU-6783310		exclude	disease_variant	exclude
+FasL/ CD95L signaling	R-MMU-75157		program	apoptosis_extrinsic	cell_death
+Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion	R-MMU-434316		program	fatty_acid_lipid	metabolism
+Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion	R-MMU-434316		program	secretion_exocytosis	trafficking
+Fatty acid metabolism	R-MMU-8978868		program	fatty_acid_lipid	metabolism
+Fatty acids	R-MMU-211935		program	fatty_acid_lipid	metabolism
+Fatty acyl-CoA biosynthesis	R-MMU-75105		context	metabolism_other	context
+Fc epsilon receptor (FCERI) signaling	R-MMU-2454202		program	humoral_B_cell	immune
+Fcgamma receptor (FCGR) dependent phagocytosis	R-MMU-2029480		program	phagocytosis_efferocytosis	trafficking
+Fertilization	R-MMU-1187000		context	development_differentiation	context
+Fibronectin matrix formation	R-MMU-1566977		program	cell_cell_adhesion	tissue_remodeling
+Fibronectin matrix formation	R-MMU-1566977		program	ECM_integrin_adhesion	tissue_remodeling
+Ficolins bind to repetitive carbohydrate structures on the target cell surface	R-MMU-2855086		program	glycolysis	metabolism
+Ficolins bind to repetitive carbohydrate structures on the target cell surface	R-MMU-2855086		program	inflammation_TNF_NFkB	immune
+Ficolins bind to repetitive carbohydrate structures on the target cell surface	R-MMU-2855086		program	complement	immune
+Formation of ATP by chemiosmotic coupling	R-MMU-163210		context	development_differentiation	context
+Formation of Fibrin Clot (Clotting Cascade)	R-MMU-140877		program	coagulation_wound	tissue_remodeling
+Formation of Incision Complex in GG-NER	R-MMU-5696395		program	OXPHOS_TCA	metabolism
+Formation of RNA Pol II elongation complex	R-MMU-112382		context	transcription_chromatin	context
+Formation of Senescence-Associated Heterochromatin Foci (SAHF)	R-MMU-2559584		program	senescence_SASP	stress
+Formation of TC-NER Pre-Incision Complex	R-MMU-6781823		context	development_differentiation	context
+Formation of WDR5-containing histone-modifying complexes	R-MMU-9772755		context	transcription_chromatin	context
+Formation of a pool of free 40S subunits	R-MMU-72689		context	development_differentiation	context
+Formation of annular gap junctions	R-MMU-196025		program	cell_cell_adhesion	tissue_remodeling
+Formation of annular gap junctions	R-MMU-196025		program	synaptic_neurotransmission	neural
+Formation of apoptosome	R-MMU-111458		program	apoptosis_intrinsic	cell_death
+Formation of editosomes by ADAR proteins	R-MMU-77042		context	development_differentiation	context
+Formation of neuronal progenitor and neuronal BAF (npBAF and nBAF)	R-MMU-9934037		program	axon_guidance_neurodevelopment	neural
+Formation of the Early Elongation Complex	R-MMU-113418		context	transcription_chromatin	context
+Formation of the Editosome	R-MMU-75094		context	development_differentiation	context
+Formation of the active cofactor, UDP-glucuronate	R-MMU-173599		context	development_differentiation	context
+Formation of the beta-catenin:TCF transactivating complex	R-MMU-201722		program	WNT_signaling	signaling
+Formation of the canonical BAF (cBAF) complex	R-MMU-9933937		context	development_differentiation	context
+Formation of the cornified envelope	R-MMU-6809371		program	cell_cell_adhesion	tissue_remodeling
+Formation of the dystrophin-glycoprotein complex (DGC)	R-MMU-9913351		exclude	disease_variant	exclude
+Formation of the embryonic stem cell BAF (esBAF) complex	R-MMU-9933946		context	development_differentiation	context
+Formation of the non-canonical BAF (ncBAF) complex	R-MMU-9933947		context	development_differentiation	context
+Formation of the polybromo-BAF (pBAF) complex	R-MMU-9933939		context	development_differentiation	context
+Formation of the ternary complex, and subsequently, the 43S complex	R-MMU-72695		context	development_differentiation	context
+Formation of xylulose-5-phosphate	R-MMU-5661270		context	transport_membrane	context
+Formyl peptide receptors bind formyl peptides and many other ligands	R-MMU-444473		program	leukocyte_chemotaxis	immune
+Free fatty acid receptors	R-MMU-444209		program	fatty_acid_lipid	metabolism
+Free fatty acids regulate insulin secretion	R-MMU-400451		program	fatty_acid_lipid	metabolism
+Free fatty acids regulate insulin secretion	R-MMU-400451		program	secretion_exocytosis	trafficking
+Frs2-mediated activation	R-MMU-170968		program	RTK_MAPK	signaling
+Fructose biosynthesis	R-MMU-5652227		program	glycolysis	metabolism
+Fructose catabolism	R-MMU-70350		program	glycolysis	metabolism
+Fructose metabolism	R-MMU-5652084		program	glycolysis	metabolism
+G alpha (12/13) signalling events	R-MMU-416482		context	GPCR_signaling	context
+G alpha (i) signalling events	R-MMU-418594		context	GPCR_signaling	context
+G alpha (q) signalling events	R-MMU-416476		context	GPCR_signaling	context
+G alpha (s) signalling events	R-MMU-418555		context	GPCR_signaling	context
+G alpha (z) signalling events	R-MMU-418597		context	GPCR_signaling	context
+G beta:gamma signalling through BTK	R-MMU-8964315		context	GPCR_signaling	context
+G beta:gamma signalling through CDC42	R-MMU-8964616		context	GPCR_signaling	context
+G beta:gamma signalling through PI3Kgamma	R-MMU-392451		program	PI3K_AKT_mTOR	signaling
+G beta:gamma signalling through PLC beta	R-MMU-418217		program	RTK_MAPK	signaling
+G protein gated Potassium channels	R-MMU-1296059		program	synaptic_neurotransmission	neural
+G-protein activation	R-MMU-202040		context	GPCR_signaling	context
+G-protein beta:gamma signalling	R-MMU-397795		context	GPCR_signaling	context
+G-protein mediated events	R-MMU-112040		context	GPCR_signaling	context
+G0 and Early G1	R-MMU-1538133		program	G1_S_DNA_replication	proliferation
+G1 Phase	R-MMU-69236		program	G1_S_DNA_replication	proliferation
+G1/S DNA Damage Checkpoints	R-MMU-69615		program	DNA_damage_response	stress
+G1/S DNA Damage Checkpoints	R-MMU-69615		program	G1_S_DNA_replication	proliferation
+G1/S DNA Damage Checkpoints	R-MMU-69615		program	cell_cycle_checkpoints	proliferation
+G1/S Transition	R-MMU-69206		program	G1_S_DNA_replication	proliferation
+G2 Phase	R-MMU-68911		program	G2_M_mitosis	proliferation
+G2/M Checkpoints	R-MMU-69481		program	cell_cycle_checkpoints	proliferation
+G2/M DNA damage checkpoint	R-MMU-69473		program	DNA_damage_response	stress
+G2/M DNA damage checkpoint	R-MMU-69473		program	cell_cycle_checkpoints	proliferation
+G2/M DNA replication checkpoint	R-MMU-69478		program	G1_S_DNA_replication	proliferation
+G2/M DNA replication checkpoint	R-MMU-69478		program	cell_cycle_checkpoints	proliferation
+G2/M Transition	R-MMU-69275		program	G2_M_mitosis	proliferation
+GAB1 signalosome	R-MMU-180292		program	RTK_MAPK	signaling
+GABA B receptor activation	R-MMU-977444		program	synaptic_neurotransmission	neural
+GABA receptor activation	R-MMU-977443		program	synaptic_neurotransmission	neural
+GABA synthesis	R-MMU-888568		program	synaptic_neurotransmission	neural
+GABA synthesis, release, reuptake and degradation	R-MMU-888590		program	synaptic_neurotransmission	neural
+GBP-mediated host defense	R-MMU-9953170		program	interferon_type_II	immune
+GDP-fucose biosynthesis	R-MMU-6787639		context	metabolism_other	context
+GLI3 is processed to GLI3R by the proteasome	R-MMU-5610785		program	proteostasis_heat_shock	stress
+GLI3 is processed to GLI3R by the proteasome	R-MMU-5610785		program	Hedgehog_signaling	signaling
+GP1b-IX-V activation signalling	R-MMU-430116		program	coagulation_wound	tissue_remodeling
+GPCR downstream signalling	R-MMU-388396		context	GPCR_signaling	context
+GPCR ligand binding	R-MMU-500792		context	GPCR_signaling	context
+GPER1 signaling	R-MMU-9634597		context	transcription_chromatin	context
+GPVI-mediated activation cascade	R-MMU-114604		program	coagulation_wound	tissue_remodeling
+GRB2 events in EGFR signaling	R-MMU-179812		program	RTK_MAPK	signaling
+GRB2 events in ERBB2 signaling	R-MMU-1963640		program	RTK_MAPK	signaling
+GRB2:SOS provides linkage to MAPK signaling for Integrins	R-MMU-354194		program	ECM_integrin_adhesion	tissue_remodeling
+GRB2:SOS provides linkage to MAPK signaling for Integrins	R-MMU-354194		program	RTK_MAPK	signaling
+GRB7 events in ERBB2 signaling	R-MMU-1306955		program	RTK_MAPK	signaling
+GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2	R-MMU-9762114		program	ROS_oxidative_stress	stress
+GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2	R-MMU-9762114		program	PI3K_AKT_mTOR	signaling
+GSK3B-mediated proteasomal degradation of PD-L1(CD274)	R-MMU-9929356		program	PI3K_AKT_mTOR	signaling
+GSK3B-mediated proteasomal degradation of PD-L1(CD274)	R-MMU-9929356		program	T_cell_exhaustion_checkpoint	immune
+GTP hydrolysis and joining of the 60S ribosomal subunit	R-MMU-72706		context	translation_RNA_processing	context
+Galactose catabolism	R-MMU-70370		program	glycolysis	metabolism
+Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation	R-MMU-163841		program	coagulation_wound	tissue_remodeling
+Gamma-carboxylation of protein precursors	R-MMU-159740		program	coagulation_wound	tissue_remodeling
+Gamma-carboxylation, transport, and amino-terminal cleavage of proteins	R-MMU-159854		program	coagulation_wound	tissue_remodeling
+Gap junction assembly	R-MMU-190861		program	cell_cell_adhesion	tissue_remodeling
+Gap junction degradation	R-MMU-190873		program	cell_cell_adhesion	tissue_remodeling
+Gap junction trafficking	R-MMU-190828		program	cell_cell_adhesion	tissue_remodeling
+Gap junction trafficking and regulation	R-MMU-157858		program	cell_cell_adhesion	tissue_remodeling
+Gap-filling DNA repair synthesis and ligation in GG-NER	R-MMU-5696397		program	DNA_damage_response	stress
+Gap-filling DNA repair synthesis and ligation in TC-NER	R-MMU-6782210		program	DNA_damage_response	stress
+Gastrin-CREB signalling pathway via PKC and MAPK	R-MMU-881907		program	RTK_MAPK	signaling
+Gastrulation	R-MMU-9758941		context	development_differentiation	context
+Gene Silencing by RNA	R-MMU-211000		context	translation_RNA_processing	context
+Gene expression (Transcription)	R-MMU-74160		context	transcription_chromatin	context
+Generation of second messenger molecules	R-MMU-202433		program	cytotoxic_T_NK	immune
+Generic Transcription Pathway	R-MMU-212436		context	transcription_chromatin	context
+Global Genome Nucleotide Excision Repair (GG-NER)	R-MMU-5696399		program	DNA_damage_response	stress
+Glucagon signaling in metabolic regulation	R-MMU-163359		context	GPCR_signaling	context
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	R-MMU-381676		program	secretion_exocytosis	trafficking
+Glucagon-type ligand receptors	R-MMU-420092		context	GPCR_signaling	context
+Glucocorticoid biosynthesis	R-MMU-194002		program	fatty_acid_lipid	metabolism
+Gluconeogenesis	R-MMU-70263		program	glycolysis	metabolism
+Glucose metabolism	R-MMU-70326		program	glycolysis	metabolism
+Glucuronidation	R-MMU-156588		exclude	drug_xenobiotic	exclude
+Glutamate Neurotransmitter Release Cycle	R-MMU-210500		program	synaptic_neurotransmission	neural
+Glutamate and glutamine metabolism	R-MMU-8964539		program	amino_acid_glutamine	metabolism
+Glutamate binding, activation of AMPA receptors and synaptic plasticity	R-MMU-399721		program	synaptic_neurotransmission	neural
+Glutamate binding, activation of AMPA receptors and synaptic plasticity	R-MMU-399721		program	axon_guidance_neurodevelopment	neural
+Glutathione conjugation	R-MMU-156590		program	ferroptosis	cell_death
+Glutathione synthesis and recycling	R-MMU-174403		program	ferroptosis	cell_death
+Glutathione synthesis and recycling	R-MMU-174403		program	endocytosis	trafficking
+Glycerophospholipid biosynthesis	R-MMU-1483206		program	fatty_acid_lipid	metabolism
+Glycerophospholipid catabolism	R-MMU-6814848		program	fatty_acid_lipid	metabolism
+Glycine degradation	R-MMU-6783984		program	amino_acid_glutamine	metabolism
+Glycogen breakdown (glycogenolysis)	R-MMU-70221		program	glycolysis	metabolism
+Glycogen metabolism	R-MMU-8982491		program	glycolysis	metabolism
+Glycogen synthesis	R-MMU-3322077		program	glycolysis	metabolism
+Glycolysis	R-MMU-70171		program	glycolysis	metabolism
+Glycoprotein hormones	R-MMU-209822		context	GPCR_signaling	context
+Glycosaminoglycan metabolism	R-MMU-1630316		program	ECM_integrin_adhesion	tissue_remodeling
+Glycosaminoglycan-protein linkage region biosynthesis	R-MMU-1971475		program	ECM_integrin_adhesion	tissue_remodeling
+Glycosphingolipid biosynthesis	R-MMU-9840309		program	fatty_acid_lipid	metabolism
+Glycosphingolipid catabolism	R-MMU-9840310		program	fatty_acid_lipid	metabolism
+Glycosphingolipid catabolism	R-MMU-9840310		program	autophagy_lysosome	trafficking
+Glycosphingolipid metabolism	R-MMU-1660662		program	fatty_acid_lipid	metabolism
+Glycosphingolipid metabolism	R-MMU-1660662		program	autophagy_lysosome	trafficking
+Glycosphingolipid transport	R-MMU-9845576		program	fatty_acid_lipid	metabolism
+Glyoxylate metabolism and glycine degradation	R-MMU-389661		program	amino_acid_glutamine	metabolism
+Golgi Associated Vesicle Biogenesis	R-MMU-432722		program	secretion_exocytosis	trafficking
+Golgi Cisternae Pericentriolar Stack Reorganization	R-MMU-162658		program	G2_M_mitosis	proliferation
+Golgi Cisternae Pericentriolar Stack Reorganization	R-MMU-162658		program	secretion_exocytosis	trafficking
+Golgi-to-ER retrograde transport	R-MMU-8856688		program	secretion_exocytosis	trafficking
+Growth hormone receptor signaling	R-MMU-982772		program	RTK_MAPK	signaling
+HATs acetylate histones	R-MMU-3214847		context	transcription_chromatin	context
+HCN channels	R-MMU-1296061		program	synaptic_neurotransmission	neural
+HDACs deacetylate histones	R-MMU-3214815		context	transcription_chromatin	context
+HDL assembly	R-MMU-8963896		program	fatty_acid_lipid	metabolism
+HDL clearance	R-MMU-8964011		program	fatty_acid_lipid	metabolism
+HDL clearance	R-MMU-8964011		program	phagocytosis_efferocytosis	trafficking
+HDL remodeling	R-MMU-8964058		program	fatty_acid_lipid	metabolism
+HDMs demethylate histones	R-MMU-3214842		context	transcription_chromatin	context
+HDR through Homologous Recombination (HRR)	R-MMU-5685942		program	DNA_damage_response	stress
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	R-MMU-5693567		program	DNA_damage_response	stress
+HDR through MMEJ (alt-NHEJ)	R-MMU-5685939		program	DNA_damage_response	stress
+HDR through Single Strand Annealing (SSA)	R-MMU-5685938		program	DNA_damage_response	stress
+HS-GAG biosynthesis	R-MMU-2022928		program	ECM_integrin_adhesion	tissue_remodeling
+HS-GAG degradation	R-MMU-2024096		program	autophagy_lysosome	trafficking
+HS-GAG degradation	R-MMU-2024096		program	ECM_integrin_adhesion	tissue_remodeling
+HSF1 activation	R-MMU-3371511		program	proteostasis_heat_shock	stress
+HSF1-dependent transactivation	R-MMU-3371571		program	proteostasis_heat_shock	stress
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand	R-MMU-3371497		program	proteostasis_heat_shock	stress
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand	R-MMU-3371497		program	fatty_acid_lipid	metabolism
+Hedgehog 'off' state	R-MMU-5610787		program	Hedgehog_signaling	signaling
+Hedgehog 'on' state	R-MMU-5632684		program	Hedgehog_signaling	signaling
+Hedgehog ligand biogenesis	R-MMU-5358346		program	Hedgehog_signaling	signaling
+Heme biosynthesis	R-MMU-189451		program	iron_metabolism	metabolism
+Heme degradation	R-MMU-189483		program	iron_metabolism	metabolism
+Heme signaling	R-MMU-9707616		program	iron_metabolism	metabolism
+Hemostasis	R-MMU-109582		program	coagulation_wound	tissue_remodeling
+Heparan sulfate/heparin (HS-GAG) metabolism	R-MMU-1638091		program	ECM_integrin_adhesion	tissue_remodeling
+High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells	R-MMU-9856530		program	angiogenesis	tissue_remodeling
+High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells	R-MMU-9856530		program	leukocyte_chemotaxis	immune
+Highly calcium permeable nicotinic acetylcholine receptors	R-MMU-629597		program	synaptic_neurotransmission	neural
+Highly calcium permeable postsynaptic nicotinic acetylcholine receptors	R-MMU-629594		program	synaptic_neurotransmission	neural
+Highly sodium permeable postsynaptic acetylcholine nicotinic receptors	R-MMU-629587		program	synaptic_neurotransmission	neural
+Histamine receptors	R-MMU-390650		program	synaptic_neurotransmission	neural
+Histidine catabolism	R-MMU-70921		program	amino_acid_glutamine	metabolism
+Homologous DNA Pairing and Strand Exchange	R-MMU-5693579		program	DNA_damage_response	stress
+Homology Directed Repair	R-MMU-5693538		program	DNA_damage_response	stress
+Hormone ligand-binding receptors	R-MMU-375281		context	GPCR_signaling	context
+HuR (ELAVL1) binds and stabilizes mRNA	R-MMU-450520		context	translation_RNA_processing	context
+Hyaluronan degradation	R-MMU-2160916		program	ECM_integrin_adhesion	tissue_remodeling
+Hyaluronan metabolism	R-MMU-2142845		program	ECM_integrin_adhesion	tissue_remodeling
+Hydrolysis of LPC	R-MMU-1483115		program	fatty_acid_lipid	metabolism
+Hydrolysis of LPE	R-MMU-1483152		program	fatty_acid_lipid	metabolism
+Hydroxycarboxylic acid-binding receptors	R-MMU-3296197		context	GPCR_signaling	context
+Hypusine synthesis from eIF5A-lysine	R-MMU-204626		program	amino_acid_glutamine	metabolism
+IFNG signaling activates MAPKs	R-MMU-9732724		program	RTK_MAPK	signaling
+IFNG signaling activates MAPKs	R-MMU-9732724		program	interferon_type_I	immune
+IFNG signaling activates MAPKs	R-MMU-9732724		program	interferon_type_II	immune
+IGF1R signaling cascade	R-MMU-2428924		program	RTK_MAPK	signaling
+IKK complex recruitment mediated by RIP1	R-MMU-937041		program	inflammation_TNF_NFkB	immune
+IL-6-type cytokine receptor ligand interactions	R-MMU-6788467		program	JAK_STAT	signaling
+IRAK1 recruits IKK complex	R-MMU-937039		program	inflammation_TNF_NFkB	immune
+IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation	R-MMU-975144		program	inflammation_TNF_NFkB	immune
+IRAK2 mediated activation of TAK1 complex	R-MMU-937042		program	inflammation_TNF_NFkB	immune
+IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation	R-MMU-975163		program	inflammation_TNF_NFkB	immune
+IRE1alpha activates chaperones	R-MMU-381070		program	ER_stress_UPR	stress
+IRE1alpha activates chaperones	R-MMU-381070		program	proteostasis_heat_shock	stress
+IRF3 mediated activation of type 1 IFN	R-MMU-1606341		program	interferon_type_I	immune
+IRF3-mediated induction of type I IFN	R-MMU-3270619		program	interferon_type_I	immune
+IRS activation	R-MMU-74713		program	RTK_MAPK	signaling
+IRS activation	R-MMU-74713		program	PI3K_AKT_mTOR	signaling
+IRS-mediated signalling	R-MMU-112399		program	RTK_MAPK	signaling
+IRS-mediated signalling	R-MMU-112399		program	PI3K_AKT_mTOR	signaling
+IRS-related events triggered by IGF1R	R-MMU-2428928		program	RTK_MAPK	signaling
+ISG15 antiviral mechanism	R-MMU-1169408		exclude	infection_pathogen	exclude
+Immune System	R-MMU-168256		context	cellular_responses	context
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	R-MMU-198933		program	cytotoxic_T_NK	immune
+Inactivation of APC/C via direct inhibition of the APC/C complex	R-MMU-141430		program	G2_M_mitosis	proliferation
+Inactivation of CSF3 (G-CSF) signaling	R-MMU-9705462		program	JAK_STAT	signaling
+Inactivation, recovery and regulation of the phototransduction cascade	R-MMU-2514859		program	synaptic_neurotransmission	neural
+Incretin synthesis, secretion, and inactivation	R-MMU-400508		program	secretion_exocytosis	trafficking
+Inflammasomes	R-MMU-622312		program	pyroptosis_inflammasome	cell_death
+Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	R-MMU-997272		program	synaptic_neurotransmission	neural
+Inhibition of DNA recombination at telomere	R-MMU-9670095		program	DNA_damage_response	stress
+Inhibition of TSC complex formation by PKB	R-MMU-165181		program	PI3K_AKT_mTOR	signaling
+Inhibition of replication initiation of damaged DNA by RB1/E2F1	R-MMU-113501		program	DNA_damage_response	stress
+Inhibition of replication initiation of damaged DNA by RB1/E2F1	R-MMU-113501		program	G1_S_DNA_replication	proliferation
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	R-MMU-141405		program	G2_M_mitosis	proliferation
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	R-MMU-141405		program	cell_cycle_checkpoints	proliferation
+Initial triggering of complement	R-MMU-166663		program	complement	immune
+Initiation of Nuclear Envelope (NE) Reformation	R-MMU-2995383		program	G2_M_mitosis	proliferation
+Innate Immune System	R-MMU-168249		program	inflammation_TNF_NFkB	immune
+Inorganic anion exchange by SLC26 transporters	R-MMU-427601		context	transport_membrane	context
+Inositol phosphate metabolism	R-MMU-1483249		program	fatty_acid_lipid	metabolism
+Inositol transporters	R-MMU-429593		context	transport_membrane	context
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	R-MMU-9609523		context	transport_membrane	context
+Insulin effects increased synthesis of Xylulose-5-Phosphate	R-MMU-163754		program	PI3K_AKT_mTOR	signaling
+Insulin processing	R-MMU-264876		program	secretion_exocytosis	trafficking
+Insulin receptor recycling	R-MMU-77387		program	endocytosis	trafficking
+Insulin receptor recycling	R-MMU-77387		program	RTK_MAPK	signaling
+Insulin receptor signalling cascade	R-MMU-74751		program	RTK_MAPK	signaling
+Integration of energy metabolism	R-MMU-163685		context	metabolism_other	context
+Integrin cell surface interactions	R-MMU-216083		program	ECM_integrin_adhesion	tissue_remodeling
+Integrin signaling	R-MMU-354192		program	ECM_integrin_adhesion	tissue_remodeling
+Interaction With Cumulus Cells And The Zona Pellucida	R-MMU-2534343		context	development_differentiation	context
+Interaction between L1 and Ankyrins	R-MMU-445095		program	axon_guidance_neurodevelopment	neural
+Interaction between PHLDA1 and AURKA	R-MMU-8854521		program	G2_M_mitosis	proliferation
+Interconversion of 2-oxoglutarate and 2-hydroxyglutarate	R-MMU-880009		context	metabolism_other	context
+Interconversion of nucleotide di- and triphosphates	R-MMU-499943		program	amino_acid_glutamine	metabolism
+Interconversion of polyamines	R-MMU-351200		program	amino_acid_glutamine	metabolism
+Interferon Signaling	R-MMU-913531		program	interferon_type_I	immune
+Interferon alpha/beta signaling	R-MMU-909733		program	interferon_type_I	immune
+Interferon gamma signaling	R-MMU-877300		program	interferon_type_II	immune
+Interleukin receptor SHC signaling	R-MMU-912526		program	RTK_MAPK	signaling
+Interleukin receptor SHC signaling	R-MMU-912526		program	JAK_STAT	signaling
+Interleukin-1 family signaling	R-MMU-446652		program	inflammation_TNF_NFkB	immune
+Interleukin-1 processing	R-MMU-448706		program	pyroptosis_inflammasome	cell_death
+Interleukin-1 processing	R-MMU-448706		program	inflammation_TNF_NFkB	immune
+Interleukin-1 signaling	R-MMU-9020702		program	inflammation_TNF_NFkB	immune
+Interleukin-10 signaling	R-MMU-6783783		program	immunosuppression	immune
+Interleukin-12 family signaling	R-MMU-447115		program	JAK_STAT	signaling
+Interleukin-12 signaling	R-MMU-9020591		program	JAK_STAT	signaling
+Interleukin-15 signaling	R-MMU-8983432		program	JAK_STAT	signaling
+Interleukin-15 signaling	R-MMU-8983432		program	cytotoxic_T_NK	immune
+Interleukin-17 signaling	R-MMU-448424		program	inflammation_TNF_NFkB	immune
+Interleukin-18 signaling	R-MMU-9012546		program	pyroptosis_inflammasome	cell_death
+Interleukin-18 signaling	R-MMU-9012546		program	inflammation_TNF_NFkB	immune
+Interleukin-2 family signaling	R-MMU-451927		program	cytotoxic_T_NK	immune
+Interleukin-2 signaling	R-MMU-9020558		program	cytotoxic_T_NK	immune
+Interleukin-20 family signaling	R-MMU-8854691		program	JAK_STAT	signaling
+Interleukin-21 signaling	R-MMU-9020958		program	JAK_STAT	signaling
+Interleukin-21 signaling	R-MMU-9020958		program	cytotoxic_T_NK	immune
+Interleukin-23 signaling	R-MMU-9020933		program	JAK_STAT	signaling
+Interleukin-27 signaling	R-MMU-9020956		program	JAK_STAT	signaling
+Interleukin-27 signaling	R-MMU-9020956		program	immunosuppression	immune
+Interleukin-3, Interleukin-5 and GM-CSF signaling	R-MMU-512988		program	JAK_STAT	signaling
+Interleukin-33 signaling	R-MMU-9014843		program	inflammation_TNF_NFkB	immune
+Interleukin-35 Signalling	R-MMU-8984722		program	JAK_STAT	signaling
+Interleukin-35 Signalling	R-MMU-8984722		program	immunosuppression	immune
+Interleukin-36 pathway	R-MMU-9014826		program	inflammation_TNF_NFkB	immune
+Interleukin-37 signaling	R-MMU-9008059		program	JAK_STAT	signaling
+Interleukin-37 signaling	R-MMU-9008059		program	inflammation_TNF_NFkB	immune
+Interleukin-37 signaling	R-MMU-9008059		program	immunosuppression	immune
+Interleukin-38 signaling	R-MMU-9007892		program	JAK_STAT	signaling
+Interleukin-38 signaling	R-MMU-9007892		program	inflammation_TNF_NFkB	immune
+Interleukin-4 and Interleukin-13 signaling	R-MMU-6785807		program	humoral_B_cell	immune
+Interleukin-4 and Interleukin-13 signaling	R-MMU-6785807		program	immunosuppression	immune
+Interleukin-6 family signaling	R-MMU-6783589		program	JAK_STAT	signaling
+Interleukin-6 signaling	R-MMU-1059683		program	JAK_STAT	signaling
+Interleukin-7 signaling	R-MMU-1266695		program	JAK_STAT	signaling
+Interleukin-9 signaling	R-MMU-8985947		program	JAK_STAT	signaling
+Intestinal absorption	R-MMU-8963676		context	metabolism_other	context
+Intestinal hexose absorption	R-MMU-8981373		program	glycolysis	metabolism
+Intestinal lipid absorption	R-MMU-8963678		program	fatty_acid_lipid	metabolism
+Intra-Golgi and retrograde Golgi-to-ER traffic	R-MMU-6811442		program	secretion_exocytosis	trafficking
+Intra-Golgi traffic	R-MMU-6811438		program	secretion_exocytosis	trafficking
+Intracellular metabolism of fatty acids regulates insulin secretion	R-MMU-434313		program	fatty_acid_lipid	metabolism
+Intracellular metabolism of fatty acids regulates insulin secretion	R-MMU-434313		program	secretion_exocytosis	trafficking
+Intracellular oxygen transport	R-MMU-8981607		context	transport_membrane	context
+Intracellular signaling by second messengers	R-MMU-9006925		context	cellular_responses	context
+Intraflagellar transport	R-MMU-5620924		program	Hedgehog_signaling	signaling
+Intrinsic Pathway for Apoptosis	R-MMU-109606		program	apoptosis_intrinsic	cell_death
+Intrinsic Pathway of Fibrin Clot Formation	R-MMU-140837		program	coagulation_wound	tissue_remodeling
+Invadopodia formation	R-MMU-8941237		program	migration_invasion	tissue_remodeling
+Invadopodia formation	R-MMU-8941237		program	ECM_remodeling_fibrosis	tissue_remodeling
+Inwardly rectifying K+ channels	R-MMU-1296065		program	synaptic_neurotransmission	neural
+Ion channel transport	R-MMU-983712		program	synaptic_neurotransmission	neural
+Ion homeostasis	R-MMU-5578775		context	transport_membrane	context
+Ion influx/efflux at host-pathogen interface	R-MMU-6803544		exclude	infection_pathogen	exclude
+Ion transport by P-type ATPases	R-MMU-936837		context	transport_membrane	context
+Ionotropic activity of kainate receptors	R-MMU-451306		program	synaptic_neurotransmission	neural
+Iron uptake and transport	R-MMU-917937		program	ferroptosis	cell_death
+Iron uptake and transport	R-MMU-917937		program	iron_metabolism	metabolism
+JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	R-MMU-450321		program	inflammation_TNF_NFkB	immune
+Josephin domain DUBs	R-MMU-5689877		program	proteostasis_heat_shock	stress
+KEAP1-NFE2L2 pathway	R-MMU-9755511		program	ROS_oxidative_stress	stress
+KSRP (KHSRP) binds and destabilizes mRNA	R-MMU-450604		context	translation_RNA_processing	context
+Keratan sulfate biosynthesis	R-MMU-2022854		program	ECM_integrin_adhesion	tissue_remodeling
+Keratan sulfate degradation	R-MMU-2022857		program	ECM_integrin_adhesion	tissue_remodeling
+Keratan sulfate/keratin metabolism	R-MMU-1638074		program	ECM_integrin_adhesion	tissue_remodeling
+Keratinization	R-MMU-6805567		program	cell_cell_adhesion	tissue_remodeling
+Ketone body metabolism	R-MMU-74182		program	OXPHOS_TCA	metabolism
+Kinesins	R-MMU-983189		program	G2_M_mitosis	proliferation
+Kinesins	R-MMU-983189		program	secretion_exocytosis	trafficking
+L13a-mediated translational silencing of Ceruloplasmin expression	R-MMU-156827		context	translation_RNA_processing	context
+L1CAM interactions	R-MMU-373760		program	axon_guidance_neurodevelopment	neural
+LDL clearance	R-MMU-8964038		program	fatty_acid_lipid	metabolism
+LDL clearance	R-MMU-8964038		program	phagocytosis_efferocytosis	trafficking
+LDL remodeling	R-MMU-8964041		program	fatty_acid_lipid	metabolism
+LGI-ADAM interactions	R-MMU-5682910		program	synaptic_neurotransmission	neural
+LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production	R-MMU-3134973		program	migration_invasion	tissue_remodeling
+LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production	R-MMU-3134973		program	interferon_type_I	immune
+Lactose synthesis	R-MMU-5653890		program	glycolysis	metabolism
+Lagging Strand Synthesis	R-MMU-69186		program	G1_S_DNA_replication	proliferation
+Laminin interactions	R-MMU-3000157		program	ECM_integrin_adhesion	tissue_remodeling
+Lanosterol biosynthesis	R-MMU-9969896		program	fatty_acid_lipid	metabolism
+Leading Strand Synthesis	R-MMU-69109		program	G1_S_DNA_replication	proliferation
+Lectin pathway of complement activation	R-MMU-166662		program	complement	immune
+Leukotriene receptors	R-MMU-391906		program	fatty_acid_lipid	metabolism
+Lewis blood group biosynthesis	R-MMU-9037629		context	protein_modification	context
+Ligand-receptor interactions	R-MMU-5632681		context	GPCR_signaling	context
+Linoleic acid (LA) metabolism	R-MMU-2046105		context	metabolism_other	context
+Lipid particle organization	R-MMU-8964572		program	fatty_acid_lipid	metabolism
+Localization of the PINCH-ILK-PARVIN complex to focal adhesions	R-MMU-446343		program	ECM_integrin_adhesion	tissue_remodeling
+Loss of Nlp from mitotic centrosomes	R-MMU-380259		program	G2_M_mitosis	proliferation
+Loss of proteins required for interphase microtubule organization from the centrosome	R-MMU-380284		program	G2_M_mitosis	proliferation
+Lysine catabolism	R-MMU-71064		program	amino_acid_glutamine	metabolism
+Lysosomal oligosaccharide catabolism	R-MMU-8853383		program	autophagy_lysosome	trafficking
+Lysosome Vesicle Biogenesis	R-MMU-432720		program	autophagy_lysosome	trafficking
+Lysosome Vesicle Biogenesis	R-MMU-432720		program	secretion_exocytosis	trafficking
+Lysosphingolipid and LPA receptors	R-MMU-419408		program	fatty_acid_lipid	metabolism
+M Phase	R-MMU-68886		program	G2_M_mitosis	proliferation
+MAP kinase activation	R-MMU-450294		program	RTK_MAPK	signaling
+MAP2K and MAPK activation	R-MMU-5674135		program	RTK_MAPK	signaling
+MAP3K8 (TPL2)-dependent MAPK1/3 activation	R-MMU-5684264		program	RTK_MAPK	signaling
+MAP3K8 (TPL2)-dependent MAPK1/3 activation	R-MMU-5684264		program	inflammation_TNF_NFkB	immune
+MAPK family signaling cascades	R-MMU-5683057		program	RTK_MAPK	signaling
+MAPK targets/ Nuclear events mediated by MAP kinases	R-MMU-450282		program	RTK_MAPK	signaling
+MAPK1 (ERK2) activation	R-MMU-112411		program	RTK_MAPK	signaling
+MAPK1/MAPK3 signaling	R-MMU-5684996		program	RTK_MAPK	signaling
+MAPK3 (ERK1) activation	R-MMU-110056		program	RTK_MAPK	signaling
+MAPK6/MAPK4 signaling	R-MMU-5687128		program	RTK_MAPK	signaling
+MASTL Facilitates Mitotic Progression	R-MMU-2465910		program	G2_M_mitosis	proliferation
+MDK and PTN in ALK signaling	R-MMU-9851151		program	RTK_MAPK	signaling
+MET Receptor Activation	R-MMU-6806942		program	RTK_MAPK	signaling
+MET activates PI3K/AKT signaling	R-MMU-8851907		program	RTK_MAPK	signaling
+MET activates PI3K/AKT signaling	R-MMU-8851907		program	PI3K_AKT_mTOR	signaling
+MET activates PTK2 signaling	R-MMU-8874081		program	migration_invasion	tissue_remodeling
+MET activates PTK2 signaling	R-MMU-8874081		program	RTK_MAPK	signaling
+MET activates PTPN11	R-MMU-8865999		program	RTK_MAPK	signaling
+MET activates RAP1 and RAC1	R-MMU-8875555		program	migration_invasion	tissue_remodeling
+MET activates RAP1 and RAC1	R-MMU-8875555		program	RTK_MAPK	signaling
+MET activates RAS signaling	R-MMU-8851805		program	RTK_MAPK	signaling
+MET activates STAT3	R-MMU-8875791		program	RTK_MAPK	signaling
+MET activates STAT3	R-MMU-8875791		program	JAK_STAT	signaling
+MET interacts with TNS proteins	R-MMU-8875513		program	ECM_integrin_adhesion	tissue_remodeling
+MET promotes cell motility	R-MMU-8875878		program	migration_invasion	tissue_remodeling
+MET promotes cell motility	R-MMU-8875878		program	RTK_MAPK	signaling
+MET receptor recycling	R-MMU-8875656		program	endocytosis	trafficking
+MET receptor recycling	R-MMU-8875656		program	RTK_MAPK	signaling
+MHC class II antigen presentation	R-MMU-2132295		program	antigen_presentation_MHCII	immune
+MITF-M-dependent gene expression	R-MMU-9856651		context	transcription_chromatin	context
+MITF-M-regulated melanocyte development	R-MMU-9730414		context	transcription_chromatin	context
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	R-MMU-9841922		context	transcription_chromatin	context
+MTOR signalling	R-MMU-165159		program	autophagy_lysosome	trafficking
+Macroautophagy	R-MMU-1632852		program	autophagy_lysosome	trafficking
+Major pathway of rRNA processing in the nucleolus and cytosol	R-MMU-6791226		context	translation_RNA_processing	context
+Malate-aspartate shuttle	R-MMU-9856872		program	OXPHOS_TCA	metabolism
+Malate-aspartate shuttle	R-MMU-9856872		program	amino_acid_glutamine	metabolism
+Matriglycan biosynthesis on DAG1	R-MMU-9939291		program	ECM_integrin_adhesion	tissue_remodeling
+Maturation of TCA enzymes and regulation of TCA cycle	R-MMU-9854311		program	OXPHOS_TCA	metabolism
+Meiosis	R-MMU-1500620		context	development_differentiation	context
+Meiotic recombination	R-MMU-912446		context	development_differentiation	context
+Melanin biosynthesis	R-MMU-5662702		context	metabolism_other	context
+Membrane Trafficking	R-MMU-199991		program	endocytosis	trafficking
+Metabolism	R-MMU-1430728		context	metabolism_other	context
+Metabolism of Angiotensinogen to Angiotensins	R-MMU-2022377		context	metabolism_other	context
+Metabolism of RNA	R-MMU-8953854		context	translation_RNA_processing	context
+Metabolism of amine-derived hormones	R-MMU-209776		context	metabolism_other	context
+Metabolism of amino acids and derivatives	R-MMU-71291		program	amino_acid_glutamine	metabolism
+Metabolism of carbohydrates and carbohydrate derivatives	R-MMU-71387		program	glycolysis	metabolism
+Metabolism of cofactors	R-MMU-8978934		context	metabolism_other	context
+Metabolism of fat-soluble vitamins	R-MMU-6806667		context	transport_membrane	context
+Metabolism of folate and pterines	R-MMU-196757		program	amino_acid_glutamine	metabolism
+Metabolism of ingested MeSeO2H into MeSeH	R-MMU-5263617		context	metabolism_other	context
+Metabolism of ingested SeMet, Sec, MeSec into H2Se	R-MMU-2408508		context	metabolism_other	context
+Metabolism of lipids	R-MMU-556833		program	fatty_acid_lipid	metabolism
+Metabolism of nitric oxide: NOS3 activation and regulation	R-MMU-202131		program	angiogenesis	tissue_remodeling
+Metabolism of non-coding RNA	R-MMU-194441		context	translation_RNA_processing	context
+Metabolism of nucleotides	R-MMU-15869		program	amino_acid_glutamine	metabolism
+Metabolism of polyamines	R-MMU-351202		program	amino_acid_glutamine	metabolism
+Metabolism of porphyrins	R-MMU-189445		program	iron_metabolism	metabolism
+Metabolism of proteins	R-MMU-392499		context	metabolism_other	context
+Metabolism of serotonin	R-MMU-380612		program	synaptic_neurotransmission	neural
+Metabolism of steroid hormones	R-MMU-196071		program	fatty_acid_lipid	metabolism
+Metabolism of steroids	R-MMU-8957322		program	fatty_acid_lipid	metabolism
+Metabolism of vitamin K	R-MMU-6806664		program	coagulation_wound	tissue_remodeling
+Metabolism of vitamins and cofactors	R-MMU-196854		context	transport_membrane	context
+Metabolism of water-soluble vitamins and cofactors	R-MMU-196849		context	transport_membrane	context
+Metal ion SLC transporters	R-MMU-425410		context	transport_membrane	context
+Metal sequestration by antimicrobial proteins	R-MMU-6799990		exclude	infection_pathogen	exclude
+Metalloprotease DUBs	R-MMU-5689901		program	proteostasis_heat_shock	stress
+Metallothioneins bind metals	R-MMU-5661231		program	ROS_oxidative_stress	stress
+Methionine salvage pathway	R-MMU-1237112		program	amino_acid_glutamine	metabolism
+Methylation	R-MMU-156581		context	transcription_chromatin	context
+MicroRNA (miRNA) biogenesis	R-MMU-203927		context	transcription_chromatin	context
+Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane	R-MMU-190840		program	secretion_exocytosis	trafficking
+Mineralocorticoid biosynthesis	R-MMU-193993		program	fatty_acid_lipid	metabolism
+Miro GTPase Cycle	R-MMU-9715370		program	OXPHOS_TCA	metabolism
+Miro GTPase Cycle	R-MMU-9715370		program	migration_invasion	tissue_remodeling
+Miscellaneous substrates	R-MMU-211958		exclude	drug_xenobiotic	exclude
+Miscellaneous transport and binding events	R-MMU-5223345		context	transport_membrane	context
+Mismatch Repair	R-MMU-5358508		program	DNA_damage_response	stress
+Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	R-MMU-5358606		program	DNA_damage_response	stress
+Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	R-MMU-5358565		program	DNA_damage_response	stress
+Mitochondrial ABC transporters	R-MMU-1369007		program	OXPHOS_TCA	metabolism
+Mitochondrial Fatty Acid Beta-Oxidation	R-MMU-77289		program	OXPHOS_TCA	metabolism
+Mitochondrial Fatty Acid Beta-Oxidation	R-MMU-77289		program	fatty_acid_lipid	metabolism
+Mitochondrial Uncoupling	R-MMU-166187		program	OXPHOS_TCA	metabolism
+Mitochondrial biogenesis	R-MMU-1592230		program	OXPHOS_TCA	metabolism
+Mitochondrial calcium ion transport	R-MMU-8949215		program	OXPHOS_TCA	metabolism
+Mitochondrial iron-sulfur cluster biogenesis	R-MMU-1362409		program	OXPHOS_TCA	metabolism
+Mitochondrial iron-sulfur cluster biogenesis	R-MMU-1362409		program	iron_metabolism	metabolism
+Mitochondrial protein degradation	R-MMU-9837999		program	OXPHOS_TCA	metabolism
+Mitochondrial protein import	R-MMU-1268020		program	OXPHOS_TCA	metabolism
+Mitochondrial ribosome-associated quality control	R-MMU-9937383		program	OXPHOS_TCA	metabolism
+Mitochondrial tRNA aminoacylation	R-MMU-379726		program	OXPHOS_TCA	metabolism
+Mitochondrial transcription initiation	R-MMU-163282		program	OXPHOS_TCA	metabolism
+Mitochondrial transcription termination	R-MMU-163316		program	OXPHOS_TCA	metabolism
+Mitochondrial translation	R-MMU-5368287		program	OXPHOS_TCA	metabolism
+Mitochondrial translation elongation	R-MMU-5389840		program	OXPHOS_TCA	metabolism
+Mitochondrial translation termination	R-MMU-5419276		program	OXPHOS_TCA	metabolism
+Mitochondrial unfolded protein response (UPRmt)	R-MMU-9841251		program	ER_stress_UPR	stress
+Mitochondrial unfolded protein response (UPRmt)	R-MMU-9841251		program	OXPHOS_TCA	metabolism
+Mitophagy	R-MMU-5205647		program	autophagy_lysosome	trafficking
+Mitotic Anaphase	R-MMU-68882		program	G2_M_mitosis	proliferation
+Mitotic G1 phase and G1/S transition	R-MMU-453279		program	G1_S_DNA_replication	proliferation
+Mitotic G1 phase and G1/S transition	R-MMU-453279		program	G2_M_mitosis	proliferation
+Mitotic G2-G2/M phases	R-MMU-453274		program	G2_M_mitosis	proliferation
+Mitotic Metaphase and Anaphase	R-MMU-2555396		program	G2_M_mitosis	proliferation
+Mitotic Metaphase/Anaphase Transition	R-MMU-68881		program	G2_M_mitosis	proliferation
+Mitotic Prometaphase	R-MMU-68877		program	G2_M_mitosis	proliferation
+Mitotic Prophase	R-MMU-68875		program	G2_M_mitosis	proliferation
+Mitotic Spindle Checkpoint	R-MMU-69618		program	G2_M_mitosis	proliferation
+Mitotic Spindle Checkpoint	R-MMU-69618		program	cell_cycle_checkpoints	proliferation
+Mitotic Telophase/Cytokinesis	R-MMU-68884		program	G2_M_mitosis	proliferation
+Modulation of host responses by IFN-stimulated genes	R-MMU-9909505		program	interferon_type_I	immune
+Molecules associated with elastic fibres	R-MMU-2129379		program	ECM_remodeling_fibrosis	tissue_remodeling
+Molybdenum cofactor biosynthesis	R-MMU-947581		context	transport_membrane	context
+Muscarinic acetylcholine receptors	R-MMU-390648		program	synaptic_neurotransmission	neural
+Muscle contraction	R-MMU-397014		program	migration_invasion	tissue_remodeling
+MyD88 cascade initiated on plasma membrane	R-MMU-975871		program	inflammation_TNF_NFkB	immune
+MyD88 dependent cascade initiated on endosome	R-MMU-975155		program	endocytosis	trafficking
+MyD88 dependent cascade initiated on endosome	R-MMU-975155		program	inflammation_TNF_NFkB	immune
+MyD88-independent TLR4 cascade	R-MMU-166166		program	inflammation_TNF_NFkB	immune
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane	R-MMU-166058		program	inflammation_TNF_NFkB	immune
+Myogenesis	R-MMU-525793		context	development_differentiation	context
+N-Glycan antennae elongation	R-MMU-975577		context	transcription_chromatin	context
+N-glycan antennae elongation in the medial/trans-Golgi	R-MMU-975576		program	secretion_exocytosis	trafficking
+N-glycan trimming and elongation in the cis-Golgi	R-MMU-964739		program	secretion_exocytosis	trafficking
+N-glycan trimming in the ER and Calnexin/Calreticulin cycle	R-MMU-532668		program	ER_stress_UPR	stress
+NADE modulates death signalling	R-MMU-205025		program	apoptosis_intrinsic	cell_death
+NADPH regeneration	R-MMU-389542		program	OXPHOS_TCA	metabolism
+NCAM signaling for neurite out-growth	R-MMU-375165		program	axon_guidance_neurodevelopment	neural
+NCAM1 interactions	R-MMU-419037		program	axon_guidance_neurodevelopment	neural
+NF-kB is activated and signals survival	R-MMU-209560		program	inflammation_TNF_NFkB	immune
+NFE2L2 regulating anti-oxidant/detoxification enzymes	R-MMU-9818027		program	ROS_oxidative_stress	stress
+NFG and proNGF binds to p75NTR	R-MMU-205017		program	apoptosis_intrinsic	cell_death
+NGF processing	R-MMU-167060		program	RTK_MAPK	signaling
+NGF-stimulated transcription	R-MMU-9031628		program	RTK_MAPK	signaling
+NIK-->noncanonical NF-kB signaling	R-MMU-5676590		program	inflammation_TNF_NFkB	immune
+NOD1/2 Signaling Pathway	R-MMU-168638		program	inflammation_TNF_NFkB	immune
+NOSIP mediated eNOS trafficking	R-MMU-203754		program	angiogenesis	tissue_remodeling
+NOSTRIN mediated eNOS trafficking	R-MMU-203641		program	angiogenesis	tissue_remodeling
+NOTCH1 Intracellular Domain Regulates Transcription	R-MMU-2122947		program	NOTCH_signaling	signaling
+NOTCH3 Activation and Transmission of Signal to the Nucleus	R-MMU-9013507		program	NOTCH_signaling	signaling
+NOTCH4 Activation and Transmission of Signal to the Nucleus	R-MMU-9013700		program	NOTCH_signaling	signaling
+NPAS4 regulates expression of target genes	R-MMU-9768919		program	synaptic_neurotransmission	neural
+NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis	R-MMU-9623433		program	fatty_acid_lipid	metabolism
+NR1H2 and NR1H3-mediated signaling	R-MMU-9024446		context	transcription_chromatin	context
+NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux	R-MMU-9029569		program	fatty_acid_lipid	metabolism
+NRAGE signals death through JNK	R-MMU-193648		program	apoptosis_intrinsic	cell_death
+NRIF signals cell death from the nucleus	R-MMU-205043		program	apoptosis_intrinsic	cell_death
+NTF3 activates NTRK3 signaling	R-MMU-9034013		program	RTK_MAPK	signaling
+NTRK2 activates RAC1	R-MMU-9032759		program	migration_invasion	tissue_remodeling
+NTRK2 activates RAC1	R-MMU-9032759		program	RTK_MAPK	signaling
+Nectin/Necl  trans heterodimerization	R-MMU-420597		program	cell_cell_adhesion	tissue_remodeling
+Neddylation	R-MMU-8951664		program	proteostasis_heat_shock	stress
+Negative Regulation of CDH1 Gene Transcription	R-MMU-9764725		program	G2_M_mitosis	proliferation
+Negative Regulation of CDH1 Gene Transcription	R-MMU-9764725		program	EMT	tissue_remodeling
+Negative feedback regulation of MAPK pathway	R-MMU-5674499		program	RTK_MAPK	signaling
+Negative regulation of FGFR1 signaling	R-MMU-5654726		program	RTK_MAPK	signaling
+Negative regulation of FGFR2 signaling	R-MMU-5654727		program	RTK_MAPK	signaling
+Negative regulation of FGFR3 signaling	R-MMU-5654732		program	RTK_MAPK	signaling
+Negative regulation of FGFR4 signaling	R-MMU-5654733		program	RTK_MAPK	signaling
+Negative regulation of FLT3	R-MMU-9706369		program	RTK_MAPK	signaling
+Negative regulation of MAPK pathway	R-MMU-5675221		program	RTK_MAPK	signaling
+Negative regulation of MET activity	R-MMU-6807004		program	RTK_MAPK	signaling
+Negative regulation of NOTCH4 signaling	R-MMU-9604323		program	NOTCH_signaling	signaling
+Negative regulation of TCF-dependent signaling by WNT ligand antagonists	R-MMU-3772470		program	WNT_signaling	signaling
+Negative regulation of activity of TFAP2 (AP-2) family transcription factors	R-MMU-8866904		context	transcription_chromatin	context
+Negative regulation of the PI3K/AKT network	R-MMU-199418		program	PI3K_AKT_mTOR	signaling
+Negative regulators of DDX58/IFIH1 signaling	R-MMU-936440		program	interferon_type_I	immune
+Nephrin family interactions	R-MMU-373753		program	RTK_MAPK	signaling
+Nephrin family interactions	R-MMU-373753		program	axon_guidance_neurodevelopment	neural
+Nervous system development	R-MMU-9675108		program	axon_guidance_neurodevelopment	neural
+Netrin-1 signaling	R-MMU-373752		program	axon_guidance_neurodevelopment	neural
+Neurexins and neuroligins	R-MMU-6794361		program	synaptic_neurotransmission	neural
+Neurofascin interactions	R-MMU-447043		program	axon_guidance_neurodevelopment	neural
+Neuronal System	R-MMU-112316		program	synaptic_neurotransmission	neural
+Neuronal System	R-MMU-112316		program	axon_guidance_neurodevelopment	neural
+Neurophilin interactions with VEGF and VEGFR	R-MMU-194306		program	angiogenesis	tissue_remodeling
+Neurotransmitter clearance	R-MMU-112311		program	phagocytosis_efferocytosis	trafficking
+Neurotransmitter clearance	R-MMU-112311		program	synaptic_neurotransmission	neural
+Neurotransmitter receptors and postsynaptic signal transmission	R-MMU-112314		program	synaptic_neurotransmission	neural
+Neurotransmitter release cycle	R-MMU-112310		program	synaptic_neurotransmission	neural
+Neurotransmitter uptake and metabolism In glial cells	R-MMU-112313		program	Hedgehog_signaling	signaling
+Neurotransmitter uptake and metabolism In glial cells	R-MMU-112313		program	synaptic_neurotransmission	neural
+Neutrophil degranulation	R-MMU-6798695		program	necrosis_DAMP	cell_death
+Neutrophil degranulation	R-MMU-6798695		program	secretion_exocytosis	trafficking
+Neutrophil degranulation	R-MMU-6798695		program	inflammation_TNF_NFkB	immune
+Neutrophil degranulation	R-MMU-6798695		program	leukocyte_chemotaxis	immune
+Nicotinate metabolism	R-MMU-196807		program	amino_acid_glutamine	metabolism
+Nitric oxide stimulates guanylate cyclase	R-MMU-392154		program	angiogenesis	tissue_remodeling
+Non-canonical inflammasome activation	R-MMU-9686114		program	pyroptosis_inflammasome	cell_death
+Non-integrin membrane-ECM interactions	R-MMU-3000171		program	ECM_integrin_adhesion	tissue_remodeling
+Noncanonical activation of NOTCH3	R-MMU-9017802		program	NOTCH_signaling	signaling
+Nonhomologous End-Joining (NHEJ)	R-MMU-5693571		program	DNA_damage_response	stress
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	R-MMU-975957		context	translation_RNA_processing	context
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	R-MMU-975956		context	translation_RNA_processing	context
+Nonsense-Mediated Decay (NMD)	R-MMU-927802		context	translation_RNA_processing	context
+Norepinephrine Neurotransmitter Release Cycle	R-MMU-181430		program	RTK_MAPK	signaling
+Norepinephrine Neurotransmitter Release Cycle	R-MMU-181430		program	synaptic_neurotransmission	neural
+Norepinephrine Neurotransmitter Release Cycle	R-MMU-181430		program	axon_guidance_neurodevelopment	neural
+Notch-HLH transcription pathway	R-MMU-350054		program	NOTCH_signaling	signaling
+Nuclear Envelope (NE) Reassembly	R-MMU-2995410		program	G2_M_mitosis	proliferation
+Nuclear Envelope Breakdown	R-MMU-2980766		program	G2_M_mitosis	proliferation
+Nuclear Events (kinase and transcription factor activation)	R-MMU-198725		context	transcription_chromatin	context
+Nuclear Pore Complex (NPC) Disassembly	R-MMU-3301854		program	G2_M_mitosis	proliferation
+Nuclear RNA decay	R-MMU-9930044		context	translation_RNA_processing	context
+Nuclear Receptor transcription pathway	R-MMU-383280		context	transcription_chromatin	context
+Nuclear events mediated by NFE2L2	R-MMU-9759194		program	ROS_oxidative_stress	stress
+Nuclear signaling by ERBB4	R-MMU-1251985		program	RTK_MAPK	signaling
+Nucleosome assembly	R-MMU-774815		context	transcription_chromatin	context
+Nucleotide Excision Repair	R-MMU-5696398		program	DNA_damage_response	stress
+Nucleotide biosynthesis	R-MMU-8956320		program	amino_acid_glutamine	metabolism
+Nucleotide catabolism	R-MMU-8956319		program	amino_acid_glutamine	metabolism
+Nucleotide salvage	R-MMU-8956321		program	amino_acid_glutamine	metabolism
+Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	R-MMU-168643		program	amino_acid_glutamine	metabolism
+Nucleotide-like (purinergic) receptors	R-MMU-418038		program	pyroptosis_inflammasome	cell_death
+Nucleotide-like (purinergic) receptors	R-MMU-418038		program	amino_acid_glutamine	metabolism
+O-glycosylation of TSR domain-containing proteins	R-MMU-5173214		program	ECM_integrin_adhesion	tissue_remodeling
+O-linked glycosylation	R-MMU-5173105		context	protein_modification	context
+O-linked glycosylation of mucins	R-MMU-913709		context	protein_modification	context
+O2/CO2 exchange in erythrocytes	R-MMU-1480926		context	transport_membrane	context
+OADH complex synthesizes glutaryl-CoA from 2-OA	R-MMU-9858328		program	OXPHOS_TCA	metabolism
+OAS antiviral response	R-MMU-8983711		exclude	infection_pathogen	exclude
+OGDH complex synthesizes succinyl-CoA from 2-OG	R-MMU-9853506		program	OXPHOS_TCA	metabolism
+Oleoyl-phe metabolism	R-MMU-9673163		context	metabolism_other	context
+Olfactory Signaling Pathway	R-MMU-381753		program	synaptic_neurotransmission	neural
+Oligomerization of connexins into connexons	R-MMU-190704		program	cell_cell_adhesion	tissue_remodeling
+Oncogene Induced Senescence	R-MMU-2559585		program	senescence_SASP	stress
+Opioid Signalling	R-MMU-111885		program	synaptic_neurotransmission	neural
+Opsins	R-MMU-419771		context	GPCR_signaling	context
+Orc1 removal from chromatin	R-MMU-68949		context	transcription_chromatin	context
+Orexin and neuropeptides FF and QRFP bind to their respective receptors	R-MMU-389397		program	synaptic_neurotransmission	neural
+Organelle biogenesis and maintenance	R-MMU-1852241		unclassified	unclassified	unclassified
+Organic anion transport by SLC22 transporters	R-MMU-561048		context	transport_membrane	context
+Organic anion transport by SLC5/17/25 transporters	R-MMU-428643		context	transport_membrane	context
+Organic anion transport by SLCO transporters	R-MMU-879518		context	transport_membrane	context
+Other interleukin signaling	R-MMU-449836		program	JAK_STAT	signaling
+Other semaphorin interactions	R-MMU-416700		program	migration_invasion	tissue_remodeling
+Other semaphorin interactions	R-MMU-416700		program	axon_guidance_neurodevelopment	neural
+Ovarian tumor domain proteases	R-MMU-5689896		program	proteostasis_heat_shock	stress
+Oxidative Stress Induced Senescence	R-MMU-2559580		program	ROS_oxidative_stress	stress
+Oxidative Stress Induced Senescence	R-MMU-2559580		program	senescence_SASP	stress
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	R-MMU-1234176		program	hypoxia	stress
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	R-MMU-1234176		program	amino_acid_glutamine	metabolism
+P2Y receptors	R-MMU-417957		context	GPCR_signaling	context
+PAOs oxidise polyamines to amines	R-MMU-141334		program	amino_acid_glutamine	metabolism
+PCNA-Dependent Long Patch Base Excision Repair	R-MMU-5651801		program	DNA_damage_response	stress
+PCP/CE pathway	R-MMU-4086400		program	WNT_signaling	signaling
+PD-L1(CD274) glycosylation and translocation to plasma membrane	R-MMU-9931295		program	T_cell_exhaustion_checkpoint	immune
+PDE3B signalling	R-MMU-165160		program	RTK_MAPK	signaling
+PDH complex synthesizes acetyl-CoA from PYR	R-MMU-9861559		program	OXPHOS_TCA	metabolism
+PECAM1 interactions	R-MMU-210990		program	leukocyte_chemotaxis	immune
+PELO:HBS1L and ABCE1 dissociate a ribosome on a non-stop mRNA	R-MMU-9954714		context	translation_RNA_processing	context
+PERK regulates gene expression	R-MMU-381042		program	ER_stress_UPR	stress
+PI Metabolism	R-MMU-1483255		context	metabolism_other	context
+PI and PC transport between ER and Golgi membranes	R-MMU-1483196		program	secretion_exocytosis	trafficking
+PI-3K cascade:FGFR1	R-MMU-5654689		program	RTK_MAPK	signaling
+PI-3K cascade:FGFR2	R-MMU-5654695		program	RTK_MAPK	signaling
+PI-3K cascade:FGFR3	R-MMU-5654710		program	RTK_MAPK	signaling
+PI-3K cascade:FGFR4	R-MMU-5654720		program	RTK_MAPK	signaling
+PI3K Cascade	R-MMU-109704		program	PI3K_AKT_mTOR	signaling
+PI3K events in ERBB2 signaling	R-MMU-1963642		program	RTK_MAPK	signaling
+PI3K events in ERBB2 signaling	R-MMU-1963642		program	PI3K_AKT_mTOR	signaling
+PI3K events in ERBB4 signaling	R-MMU-1250342		program	RTK_MAPK	signaling
+PI3K events in ERBB4 signaling	R-MMU-1250342		program	PI3K_AKT_mTOR	signaling
+PI3K/AKT activation	R-MMU-198203		program	PI3K_AKT_mTOR	signaling
+PI5P Regulates TP53 Acetylation	R-MMU-6811555		context	transcription_chromatin	context
+PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	R-MMU-6811558		program	PI3K_AKT_mTOR	signaling
+PINK1-PRKN Mediated Mitophagy	R-MMU-5205685		program	autophagy_lysosome	trafficking
+PIP3 activates AKT signaling	R-MMU-1257604		program	PI3K_AKT_mTOR	signaling
+PKA activation	R-MMU-163615		program	RTK_MAPK	signaling
+PKA activation in glucagon signalling	R-MMU-164378		program	RTK_MAPK	signaling
+PKA-mediated phosphorylation of CREB	R-MMU-111931		program	RTK_MAPK	signaling
+PKB-mediated events	R-MMU-109703		program	RTK_MAPK	signaling
+PKMTs methylate histone lysines	R-MMU-3214841		program	amino_acid_glutamine	metabolism
+PKR-mediated signaling	R-MMU-9833482		program	interferon_type_I	immune
+PLC beta mediated events	R-MMU-112043		program	RTK_MAPK	signaling
+POLB-Dependent Long Patch Base Excision Repair	R-MMU-110362		program	DNA_damage_response	stress
+PRC2 methylates histones and DNA	R-MMU-212300		context	transcription_chromatin	context
+PTEN Regulation	R-MMU-6807070		program	PI3K_AKT_mTOR	signaling
+PTK6 Activates STAT3	R-MMU-8849474		program	RTK_MAPK	signaling
+PTK6 Activates STAT3	R-MMU-8849474		program	JAK_STAT	signaling
+PTK6 Down-Regulation	R-MMU-8849472		program	RTK_MAPK	signaling
+PTK6 Regulates Cell Cycle	R-MMU-8849470		program	G1_S_DNA_replication	proliferation
+PTK6 Regulates Cell Cycle	R-MMU-8849470		program	RTK_MAPK	signaling
+PTK6 Regulates Proteins Involved in RNA Processing	R-MMU-8849468		program	RTK_MAPK	signaling
+PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases	R-MMU-8849471		program	migration_invasion	tissue_remodeling
+PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases	R-MMU-8849471		program	RTK_MAPK	signaling
+PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1	R-MMU-8849469		program	RTK_MAPK	signaling
+PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1	R-MMU-8849469		program	PI3K_AKT_mTOR	signaling
+PTK6 promotes HIF1A stabilization	R-MMU-8857538		program	hypoxia	stress
+PTK6 promotes HIF1A stabilization	R-MMU-8857538		program	RTK_MAPK	signaling
+Paracetamol ADME	R-MMU-9753281		exclude	drug_xenobiotic	exclude
+Passive transport by Aquaporins	R-MMU-432047		context	transport_membrane	context
+Pentose phosphate pathway	R-MMU-71336		program	glycolysis	metabolism
+Peptide chain elongation	R-MMU-156902		context	transcription_chromatin	context
+Peptide hormone biosynthesis	R-MMU-209952		program	secretion_exocytosis	trafficking
+Peptide hormone metabolism	R-MMU-2980736		program	secretion_exocytosis	trafficking
+Peptide ligand-binding receptors	R-MMU-375276		context	protein_modification	context
+Peroxisomal lipid metabolism	R-MMU-390918		program	fatty_acid_lipid	metabolism
+Peroxisomal protein import	R-MMU-9033241		context	transport_membrane	context
+Pexophagy	R-MMU-9664873		program	autophagy_lysosome	trafficking
+Phase 0 - rapid depolarisation	R-MMU-5576892		program	synaptic_neurotransmission	neural
+Phase 1 - inactivation of fast Na+ channels	R-MMU-5576894		program	synaptic_neurotransmission	neural
+Phase 2 - plateau phase	R-MMU-5576893		program	synaptic_neurotransmission	neural
+Phase 3 - rapid repolarisation	R-MMU-5576890		program	synaptic_neurotransmission	neural
+Phase 4 - resting membrane potential	R-MMU-5576886		program	synaptic_neurotransmission	neural
+Phase I - Functionalization of compounds	R-MMU-211945		exclude	drug_xenobiotic	exclude
+Phase II - Conjugation of compounds	R-MMU-156580		exclude	drug_xenobiotic	exclude
+Phenylalanine and tyrosine metabolism	R-MMU-8963691		program	amino_acid_glutamine	metabolism
+Phenylalanine metabolism	R-MMU-8964208		program	amino_acid_glutamine	metabolism
+Phosphate bond hydrolysis by NTPDase proteins	R-MMU-8850843		context	transport_membrane	context
+Phosphate bond hydrolysis by NUDT proteins	R-MMU-2393930		context	transport_membrane	context
+Phospholipase C-mediated cascade: FGFR1	R-MMU-5654219		program	RTK_MAPK	signaling
+Phospholipase C-mediated cascade; FGFR2	R-MMU-5654221		program	RTK_MAPK	signaling
+Phospholipase C-mediated cascade; FGFR3	R-MMU-5654227		program	RTK_MAPK	signaling
+Phospholipase C-mediated cascade; FGFR4	R-MMU-5654228		program	RTK_MAPK	signaling
+Phospholipid metabolism	R-MMU-1483257		program	fatty_acid_lipid	metabolism
+Phosphorylation of CD3 and TCR zeta chains	R-MMU-202427		program	RTK_MAPK	signaling
+Phosphorylation of CD3 and TCR zeta chains	R-MMU-202427		program	cytotoxic_T_NK	immune
+Phosphorylation of Emi1	R-MMU-176417		program	G2_M_mitosis	proliferation
+Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes	R-MMU-69200		program	G1_S_DNA_replication	proliferation
+Phosphorylation of the APC/C	R-MMU-176412		program	G2_M_mitosis	proliferation
+Physiological factors	R-MMU-5578768		unclassified	unclassified	unclassified
+Plasma lipoprotein assembly	R-MMU-8963898		program	fatty_acid_lipid	metabolism
+Plasma lipoprotein assembly, remodeling, and clearance	R-MMU-174824		program	fatty_acid_lipid	metabolism
+Plasma lipoprotein assembly, remodeling, and clearance	R-MMU-174824		program	phagocytosis_efferocytosis	trafficking
+Plasma lipoprotein clearance	R-MMU-8964043		program	fatty_acid_lipid	metabolism
+Plasma lipoprotein clearance	R-MMU-8964043		program	phagocytosis_efferocytosis	trafficking
+Plasma lipoprotein remodeling	R-MMU-8963899		program	fatty_acid_lipid	metabolism
+Plasmalogen biosynthesis	R-MMU-75896		program	fatty_acid_lipid	metabolism
+Platelet Adhesion to exposed collagen	R-MMU-75892		program	ECM_remodeling_fibrosis	tissue_remodeling
+Platelet Adhesion to exposed collagen	R-MMU-75892		program	coagulation_wound	tissue_remodeling
+Platelet Aggregation (Plug Formation)	R-MMU-76009		program	coagulation_wound	tissue_remodeling
+Platelet activation, signaling and aggregation	R-MMU-76002		program	coagulation_wound	tissue_remodeling
+Platelet calcium homeostasis	R-MMU-418360		program	coagulation_wound	tissue_remodeling
+Platelet degranulation	R-MMU-114608		program	secretion_exocytosis	trafficking
+Platelet degranulation	R-MMU-114608		program	coagulation_wound	tissue_remodeling
+Platelet homeostasis	R-MMU-418346		program	coagulation_wound	tissue_remodeling
+Platelet sensitization by LDL	R-MMU-432142		program	fatty_acid_lipid	metabolism
+Platelet sensitization by LDL	R-MMU-432142		program	coagulation_wound	tissue_remodeling
+Polo-like kinase mediated events	R-MMU-156711		program	G2_M_mitosis	proliferation
+Polymerase switching	R-MMU-69091		program	G1_S_DNA_replication	proliferation
+Polymerase switching on the C-strand of the telomere	R-MMU-174411		program	DNA_damage_response	stress
+Polymerase switching on the C-strand of the telomere	R-MMU-174411		program	G1_S_DNA_replication	proliferation
+Positive epigenetic regulation of rRNA expression	R-MMU-5250913		context	transcription_chromatin	context
+Post NMDA receptor activation events	R-MMU-438064		program	synaptic_neurotransmission	neural
+Post-transcriptional silencing by small RNAs	R-MMU-426496		context	transcription_chromatin	context
+Post-translational modification: synthesis of GPI-anchored proteins	R-MMU-163125		context	translation_RNA_processing	context
+Post-translational protein modification	R-MMU-597592		context	translation_RNA_processing	context
+Post-translational protein phosphorylation	R-MMU-8957275		context	translation_RNA_processing	context
+Postmitotic nuclear pore complex (NPC) reformation	R-MMU-9615933		program	G2_M_mitosis	proliferation
+Postsynaptic nicotinic acetylcholine receptors	R-MMU-622327		program	synaptic_neurotransmission	neural
+Potassium Channels	R-MMU-1296071		program	synaptic_neurotransmission	neural
+Potassium transport channels	R-MMU-1296067		context	transport_membrane	context
+Pre-NOTCH Expression and Processing	R-MMU-1912422		program	NOTCH_signaling	signaling
+Pre-NOTCH Processing in Golgi	R-MMU-1912420		program	secretion_exocytosis	trafficking
+Pre-NOTCH Processing in Golgi	R-MMU-1912420		program	NOTCH_signaling	signaling
+Pre-NOTCH Transcription and Translation	R-MMU-1912408		program	NOTCH_signaling	signaling
+Prednisone ADME	R-MMU-9757110		exclude	drug_xenobiotic	exclude
+Pregnenolone biosynthesis	R-MMU-196108		program	fatty_acid_lipid	metabolism
+Presynaptic depolarization and calcium channel opening	R-MMU-112308		program	synaptic_neurotransmission	neural
+Presynaptic function of Kainate receptors	R-MMU-500657		program	synaptic_neurotransmission	neural
+Presynaptic nicotinic acetylcholine receptors	R-MMU-622323		program	synaptic_neurotransmission	neural
+Presynaptic phase of homologous DNA pairing and strand exchange	R-MMU-5693616		program	DNA_damage_response	stress
+Presynaptic phase of homologous DNA pairing and strand exchange	R-MMU-5693616		program	synaptic_neurotransmission	neural
+Processing and activation of SUMO	R-MMU-3215018		program	proteostasis_heat_shock	stress
+Processing of Capped Intron-Containing Pre-mRNA	R-MMU-72203		context	translation_RNA_processing	context
+Processing of Capped Intronless Pre-mRNA	R-MMU-75067		context	translation_RNA_processing	context
+Processing of DNA double-strand break ends	R-MMU-5693607		program	DNA_damage_response	stress
+Processing of Intronless Pre-mRNAs	R-MMU-77595		context	translation_RNA_processing	context
+Processing of SMDT1	R-MMU-8949664		context	translation_RNA_processing	context
+Processive synthesis on the C-strand of the telomere	R-MMU-174414		program	DNA_damage_response	stress
+Processive synthesis on the lagging strand	R-MMU-69183		program	G1_S_DNA_replication	proliferation
+Programmed Cell Death	R-MMU-5357801		context	cellular_responses	context
+Progressive trimming of alpha-1,2-linked mannose residues from Man9/8/7GlcNAc2 to produce Man5GlcNAc2	R-MMU-964827		context	protein_modification	context
+Prolactin receptor signaling	R-MMU-1170546		program	migration_invasion	tissue_remodeling
+Prolactin receptor signaling	R-MMU-1170546		program	RTK_MAPK	signaling
+Proline catabolism	R-MMU-70688		program	amino_acid_glutamine	metabolism
+Prolonged ERK activation events	R-MMU-169893		program	RTK_MAPK	signaling
+Propionyl-CoA catabolism	R-MMU-71032		context	metabolism_other	context
+Prostacyclin signalling through prostacyclin receptor	R-MMU-392851		program	angiogenesis	tissue_remodeling
+Prostanoid ligand receptors	R-MMU-391908		program	inflammation_TNF_NFkB	immune
+Proteasome assembly	R-MMU-9907900		program	proteostasis_heat_shock	stress
+Protein folding	R-MMU-391251		program	proteostasis_heat_shock	stress
+Protein hydroxylation	R-MMU-9629569		context	protein_modification	context
+Protein lipoylation	R-MMU-9857492		context	protein_modification	context
+Protein localization	R-MMU-9609507		context	transport_membrane	context
+Protein methylation	R-MMU-8876725		context	transcription_chromatin	context
+Protein repair	R-MMU-5676934		context	protein_modification	context
+Protein ubiquitination	R-MMU-8852135		program	proteostasis_heat_shock	stress
+Protein-protein interactions at synapses	R-MMU-6794362		program	synaptic_neurotransmission	neural
+Proton-coupled monocarboxylate transport	R-MMU-433692		context	transport_membrane	context
+Proton-coupled neutral amino acid transporters	R-MMU-428559		program	amino_acid_glutamine	metabolism
+Proton/oligopeptide cotransporters	R-MMU-427975		context	transport_membrane	context
+Purine catabolism	R-MMU-74259		program	amino_acid_glutamine	metabolism
+Purine ribonucleoside monophosphate biosynthesis	R-MMU-73817		program	amino_acid_glutamine	metabolism
+Purine salvage	R-MMU-74217		program	amino_acid_glutamine	metabolism
+Pyrimidine biosynthesis	R-MMU-500753		program	amino_acid_glutamine	metabolism
+Pyrimidine catabolism	R-MMU-73621		program	amino_acid_glutamine	metabolism
+Pyrimidine salvage	R-MMU-73614		program	amino_acid_glutamine	metabolism
+Pyrophosphate hydrolysis	R-MMU-71737		context	transport_membrane	context
+Pyroptosis	R-MMU-5620971		program	pyroptosis_inflammasome	cell_death
+Pyruvate metabolism	R-MMU-70268		program	OXPHOS_TCA	metabolism
+RA biosynthesis pathway	R-MMU-5365859		context	metabolism_other	context
+RAB GEFs exchange GTP for GDP on RABs	R-MMU-8876198		program	endocytosis	trafficking
+RAB geranylgeranylation	R-MMU-8873719		program	endocytosis	trafficking
+RAC1 GTPase cycle	R-MMU-9013149		program	migration_invasion	tissue_remodeling
+RAC2 GTPase cycle	R-MMU-9013404		program	migration_invasion	tissue_remodeling
+RAC3 GTPase cycle	R-MMU-9013423		program	migration_invasion	tissue_remodeling
+RAF activation	R-MMU-5673000		program	RTK_MAPK	signaling
+RAF-independent MAPK1/3 activation	R-MMU-112409		program	RTK_MAPK	signaling
+RAF/MAP kinase cascade	R-MMU-5673001		program	RTK_MAPK	signaling
+RAS processing	R-MMU-9648002		program	RTK_MAPK	signaling
+RET signaling	R-MMU-8853659		program	RTK_MAPK	signaling
+RHO GTPase Effectors	R-MMU-195258		program	migration_invasion	tissue_remodeling
+RHO GTPase cycle	R-MMU-9012999		program	migration_invasion	tissue_remodeling
+RHO GTPases Activate Formins	R-MMU-5663220		program	migration_invasion	tissue_remodeling
+RHO GTPases Activate NADPH Oxidases	R-MMU-5668599		program	ROS_oxidative_stress	stress
+RHO GTPases Activate NADPH Oxidases	R-MMU-5668599		program	migration_invasion	tissue_remodeling
+RHO GTPases Activate ROCKs	R-MMU-5627117		program	migration_invasion	tissue_remodeling
+RHO GTPases Activate Rhotekin and Rhophilins	R-MMU-5666185		program	migration_invasion	tissue_remodeling
+RHO GTPases Activate WASPs and WAVEs	R-MMU-5663213		program	migration_invasion	tissue_remodeling
+RHO GTPases activate CIT	R-MMU-5625900		program	migration_invasion	tissue_remodeling
+RHO GTPases activate IQGAPs	R-MMU-5626467		program	migration_invasion	tissue_remodeling
+RHO GTPases activate KTN1	R-MMU-5625970		program	migration_invasion	tissue_remodeling
+RHO GTPases activate PAKs	R-MMU-5627123		program	migration_invasion	tissue_remodeling
+RHO GTPases activate PKNs	R-MMU-5625740		program	migration_invasion	tissue_remodeling
+RHO GTPases regulate CFTR trafficking	R-MMU-5627083		program	migration_invasion	tissue_remodeling
+RHOA GTPase cycle	R-MMU-8980692		program	migration_invasion	tissue_remodeling
+RHOB GTPase cycle	R-MMU-9013026		program	migration_invasion	tissue_remodeling
+RHOBTB GTPase Cycle	R-MMU-9706574		program	migration_invasion	tissue_remodeling
+RHOBTB1 GTPase cycle	R-MMU-9013422		program	migration_invasion	tissue_remodeling
+RHOBTB2 GTPase cycle	R-MMU-9013418		program	migration_invasion	tissue_remodeling
+RHOBTB3 ATPase cycle	R-MMU-9706019		program	migration_invasion	tissue_remodeling
+RHOC GTPase cycle	R-MMU-9013106		program	migration_invasion	tissue_remodeling
+RHOF GTPase cycle	R-MMU-9035034		program	migration_invasion	tissue_remodeling
+RHOG GTPase cycle	R-MMU-9013408		program	migration_invasion	tissue_remodeling
+RHOH GTPase cycle	R-MMU-9013407		program	migration_invasion	tissue_remodeling
+RHOJ GTPase cycle	R-MMU-9013409		program	migration_invasion	tissue_remodeling
+RHOQ GTPase cycle	R-MMU-9013406		program	migration_invasion	tissue_remodeling
+RHOT1 GTPase cycle	R-MMU-9013425		program	migration_invasion	tissue_remodeling
+RHOT2 GTPase cycle	R-MMU-9013419		program	migration_invasion	tissue_remodeling
+RHOU GTPase cycle	R-MMU-9013420		program	migration_invasion	tissue_remodeling
+RHOV GTPase cycle	R-MMU-9013424		program	migration_invasion	tissue_remodeling
+RIP-mediated NFkB activation via ZBP1	R-MMU-1810476		program	inflammation_TNF_NFkB	immune
+RIP-mediated NFkB activation via ZBP1	R-MMU-1810476		program	interferon_type_I	immune
+RIPK1-mediated regulated necrosis	R-MMU-5213460		program	necroptosis	cell_death
+RMTs methylate histone arginines	R-MMU-3214858		program	amino_acid_glutamine	metabolism
+RNA Pol II CTD phosphorylation and interaction with CE	R-MMU-77075		context	transcription_chromatin	context
+RNA Polymerase I Promoter Clearance	R-MMU-73854		program	phagocytosis_efferocytosis	trafficking
+RNA Polymerase I Promoter Escape	R-MMU-73772		context	transcription_chromatin	context
+RNA Polymerase I Promoter Opening	R-MMU-73728		context	transcription_chromatin	context
+RNA Polymerase I Transcription	R-MMU-73864		context	transcription_chromatin	context
+RNA Polymerase I Transcription Initiation	R-MMU-73762		context	transcription_chromatin	context
+RNA Polymerase I Transcription Termination	R-MMU-73863		context	transcription_chromatin	context
+RNA Polymerase II Pre-transcription Events	R-MMU-674695		context	transcription_chromatin	context
+RNA Polymerase II Promoter Escape	R-MMU-73776		context	transcription_chromatin	context
+RNA Polymerase II Transcription	R-MMU-73857		context	transcription_chromatin	context
+RNA Polymerase II Transcription Elongation	R-MMU-75955		context	transcription_chromatin	context
+RNA Polymerase II Transcription Initiation	R-MMU-75953		context	transcription_chromatin	context
+RNA Polymerase II Transcription Initiation And Promoter Clearance	R-MMU-76042		program	phagocytosis_efferocytosis	trafficking
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	R-MMU-73779		context	transcription_chromatin	context
+RNA Polymerase II Transcription Termination	R-MMU-73856		context	transcription_chromatin	context
+RNA Polymerase III Transcription	R-MMU-74158		context	transcription_chromatin	context
+RNA Polymerase III Transcription Initiation	R-MMU-76046		context	transcription_chromatin	context
+RNA Polymerase III Transcription Initiation From Type 1 Promoter	R-MMU-76061		context	transcription_chromatin	context
+RNA Polymerase III Transcription Initiation From Type 2 Promoter	R-MMU-76066		context	transcription_chromatin	context
+RNA Polymerase III Transcription Initiation From Type 3 Promoter	R-MMU-76071		context	transcription_chromatin	context
+RNA polymerase II transcribes snRNA genes	R-MMU-6807505		context	transcription_chromatin	context
+RND1 GTPase cycle	R-MMU-9696273		program	migration_invasion	tissue_remodeling
+RND2 GTPase cycle	R-MMU-9696270		program	migration_invasion	tissue_remodeling
+RND3 GTPase cycle	R-MMU-9696264		program	migration_invasion	tissue_remodeling
+ROS and RNS production in phagocytes	R-MMU-1222556		program	ROS_oxidative_stress	stress
+ROS and RNS production in phagocytes	R-MMU-1222556		program	phagocytosis_efferocytosis	trafficking
+RSK activation	R-MMU-444257		program	RTK_MAPK	signaling
+RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)	R-MMU-8877330		program	immunosuppression	immune
+RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	R-MMU-8939243		context	transcription_chromatin	context
+RUNX1 regulates estrogen receptor mediated transcription	R-MMU-8931987		context	transcription_chromatin	context
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	R-MMU-8936459		program	coagulation_wound	tissue_remodeling
+RUNX1 regulates transcription of genes involved in BCR signaling	R-MMU-8939245		program	humoral_B_cell	immune
+RUNX1 regulates transcription of genes involved in differentiation of HSCs	R-MMU-8939236		context	transcription_chromatin	context
+RUNX1 regulates transcription of genes involved in differentiation of keratinocytes	R-MMU-8939242		context	transcription_chromatin	context
+RUNX1 regulates transcription of genes involved in differentiation of myeloid cells	R-MMU-8939246		context	transcription_chromatin	context
+RUNX1 regulates transcription of genes involved in interleukin signaling	R-MMU-8939247		context	transcription_chromatin	context
+RUNX2 regulates bone development	R-MMU-8941326		context	transcription_chromatin	context
+RUNX2 regulates osteoblast differentiation	R-MMU-8940973		context	transcription_chromatin	context
+RUNX3 regulates CDKN1A transcription	R-MMU-8941855		context	transcription_chromatin	context
+RUNX3 regulates NOTCH signaling	R-MMU-8941856		program	NOTCH_signaling	signaling
+RUNX3 regulates WNT signaling	R-MMU-8951430		program	WNT_signaling	signaling
+RUNX3 regulates YAP1-mediated transcription	R-MMU-8951671		context	transcription_chromatin	context
+RUNX3 regulates p14-ARF	R-MMU-8951936		context	transcription_chromatin	context
+Rab regulation of trafficking	R-MMU-9007101		program	endocytosis	trafficking
+Rap1 signalling	R-MMU-392517		program	RTK_MAPK	signaling
+Reactions specific to the complex N-glycan synthesis pathway	R-MMU-975578		context	protein_modification	context
+Reactions specific to the hybrid N-glycan synthesis pathway	R-MMU-975574		context	protein_modification	context
+Receptor Mediated Mitophagy	R-MMU-8934903		program	autophagy_lysosome	trafficking
+Receptor-type tyrosine-protein phosphatases	R-MMU-388844		program	amino_acid_glutamine	metabolism
+Recognition and association of DNA glycosylase with site containing an affected purine	R-MMU-110330		program	DNA_damage_response	stress
+Recognition and association of DNA glycosylase with site containing an affected purine	R-MMU-110330		program	amino_acid_glutamine	metabolism
+Recognition and association of DNA glycosylase with site containing an affected pyrimidine	R-MMU-110328		program	DNA_damage_response	stress
+Recognition and association of DNA glycosylase with site containing an affected pyrimidine	R-MMU-110328		program	amino_acid_glutamine	metabolism
+Recognition of DNA damage by PCNA-containing replication complex	R-MMU-110314		program	DNA_damage_response	stress
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	R-MMU-5693565		program	DNA_damage_response	stress
+Recruitment of NuMA to mitotic centrosomes	R-MMU-380320		program	G2_M_mitosis	proliferation
+Recruitment of mitotic centrosome proteins and complexes	R-MMU-380270		program	G2_M_mitosis	proliferation
+Recycling of bile acids and salts	R-MMU-159418		program	fatty_acid_lipid	metabolism
+Recycling of bile acids and salts	R-MMU-159418		program	endocytosis	trafficking
+Recycling of eIF2:GDP	R-MMU-72731		program	endocytosis	trafficking
+Recycling pathway of L1	R-MMU-437239		program	endocytosis	trafficking
+Reduction of cytosolic Ca++ levels	R-MMU-418359		program	synaptic_neurotransmission	neural
+Reelin signalling pathway	R-MMU-8866376		program	axon_guidance_neurodevelopment	neural
+Regulated Necrosis	R-MMU-5218859		program	necroptosis	cell_death
+Regulated proteolysis of p75NTR	R-MMU-193692		program	apoptosis_intrinsic	cell_death
+Regulation by c-FLIP	R-MMU-3371378		program	necroptosis	cell_death
+Regulation of APC/C activators between G1/S and early anaphase	R-MMU-176408		program	G1_S_DNA_replication	proliferation
+Regulation of APC/C activators between G1/S and early anaphase	R-MMU-176408		program	G2_M_mitosis	proliferation
+Regulation of Apoptosis	R-MMU-169911		program	apoptosis_intrinsic	cell_death
+Regulation of BACH1 activity	R-MMU-9708530		program	ROS_oxidative_stress	stress
+Regulation of CDH1 Expression and Function	R-MMU-9764265		program	G2_M_mitosis	proliferation
+Regulation of CDH1 Expression and Function	R-MMU-9764265		program	EMT	tissue_remodeling
+Regulation of CDH1 Function	R-MMU-9764561		program	G2_M_mitosis	proliferation
+Regulation of CDH1 Function	R-MMU-9764561		program	EMT	tissue_remodeling
+Regulation of CDH1 Gene Transcription	R-MMU-9764560		program	G2_M_mitosis	proliferation
+Regulation of CDH1 Gene Transcription	R-MMU-9764560		program	EMT	tissue_remodeling
+Regulation of CDH1 posttranslational processing and trafficking to plasma membrane	R-MMU-9768727		program	G2_M_mitosis	proliferation
+Regulation of CDH1 posttranslational processing and trafficking to plasma membrane	R-MMU-9768727		program	EMT	tissue_remodeling
+Regulation of CDH11 Expression and Function	R-MMU-9759475		program	G2_M_mitosis	proliferation
+Regulation of CDH11 Expression and Function	R-MMU-9759475		program	EMT	tissue_remodeling
+Regulation of CDH11 function	R-MMU-9762292		program	G2_M_mitosis	proliferation
+Regulation of CDH11 function	R-MMU-9762292		program	EMT	tissue_remodeling
+Regulation of CDH11 gene transcription	R-MMU-9762293		program	G2_M_mitosis	proliferation
+Regulation of CDH11 gene transcription	R-MMU-9762293		program	EMT	tissue_remodeling
+Regulation of Complement cascade	R-MMU-977606		program	complement	immune
+Regulation of Expression and Function of Type I Classical Cadherins	R-MMU-9764274		program	cell_cell_adhesion	tissue_remodeling
+Regulation of Expression and Function of Type II Classical Cadherins	R-MMU-9764260		program	cell_cell_adhesion	tissue_remodeling
+Regulation of FOXO transcriptional activity by acetylation	R-MMU-9617629		program	PI3K_AKT_mTOR	signaling
+Regulation of FZD by ubiquitination	R-MMU-4641263		program	proteostasis_heat_shock	stress
+Regulation of Glucokinase by Glucokinase Regulatory Protein	R-MMU-170822		context	metabolism_other	context
+Regulation of HMOX1 expression and activity	R-MMU-9707587		program	ROS_oxidative_stress	stress
+Regulation of HSF1-mediated heat shock response	R-MMU-3371453		program	proteostasis_heat_shock	stress
+Regulation of Homotypic Cell-Cell Adhesion	R-MMU-9759476		program	cell_cell_adhesion	tissue_remodeling
+Regulation of IFNA/IFNB signaling	R-MMU-912694		program	interferon_type_I	immune
+Regulation of IFNG signaling	R-MMU-877312		program	interferon_type_I	immune
+Regulation of IFNG signaling	R-MMU-877312		program	interferon_type_II	immune
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	R-MMU-381426		program	RTK_MAPK	signaling
+Regulation of KIT signaling	R-MMU-1433559		program	RTK_MAPK	signaling
+Regulation of MECP2 expression and activity	R-MMU-9022692		context	transcription_chromatin	context
+Regulation of MITF-M-dependent genes involved in apoptosis	R-MMU-9824594		context	transcription_chromatin	context
+Regulation of MITF-M-dependent genes involved in cell cycle and proliferation	R-MMU-9825892		context	transcription_chromatin	context
+Regulation of MITF-M-dependent genes involved in pigmentation	R-MMU-9824585		context	transcription_chromatin	context
+Regulation of NF-kappa B signaling	R-MMU-9758274		program	inflammation_TNF_NFkB	immune
+Regulation of PD-L1(CD274) Post-translational modification	R-MMU-9909615		program	T_cell_exhaustion_checkpoint	immune
+Regulation of PD-L1(CD274) expression	R-MMU-9909648		program	T_cell_exhaustion_checkpoint	immune
+Regulation of PD-L1(CD274) transcription	R-MMU-9909649		program	T_cell_exhaustion_checkpoint	immune
+Regulation of PLK1 Activity at G2/M Transition	R-MMU-2565942		program	G2_M_mitosis	proliferation
+Regulation of PTEN gene transcription	R-MMU-8943724		program	PI3K_AKT_mTOR	signaling
+Regulation of PTEN localization	R-MMU-8948747		program	PI3K_AKT_mTOR	signaling
+Regulation of PTEN stability and activity	R-MMU-8948751		program	PI3K_AKT_mTOR	signaling
+Regulation of RAS by GAPs	R-MMU-5658442		program	RTK_MAPK	signaling
+Regulation of RUNX1 Expression and Activity	R-MMU-8934593		context	transcription_chromatin	context
+Regulation of RUNX2 expression and activity	R-MMU-8939902		context	transcription_chromatin	context
+Regulation of RUNX3 expression and activity	R-MMU-8941858		context	transcription_chromatin	context
+Regulation of T cell activation by CD28 family	R-MMU-388841		program	cytotoxic_T_NK	immune
+Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7	R-MMU-9824878		program	inflammation_TNF_NFkB	immune
+Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7	R-MMU-9824878		program	interferon_type_I	immune
+Regulation of TLR by endogenous ligand	R-MMU-5686938		program	inflammation_TNF_NFkB	immune
+Regulation of TNFR1 signaling	R-MMU-5357905		program	inflammation_TNF_NFkB	immune
+Regulation of TP53 Activity	R-MMU-5633007		program	DNA_damage_response	stress
+Regulation of TP53 Activity through Acetylation	R-MMU-6804758		program	DNA_damage_response	stress
+Regulation of TP53 Activity through Association with Co-factors	R-MMU-6804759		program	DNA_damage_response	stress
+Regulation of TP53 Activity through Methylation	R-MMU-6804760		program	DNA_damage_response	stress
+Regulation of TP53 Activity through Phosphorylation	R-MMU-6804756		program	DNA_damage_response	stress
+Regulation of TP53 Degradation	R-MMU-6804757		program	DNA_damage_response	stress
+Regulation of TP53 Expression	R-MMU-6804754		program	DNA_damage_response	stress
+Regulation of TP53 Expression and Degradation	R-MMU-6806003		program	DNA_damage_response	stress
+Regulation of actin dynamics for phagocytic cup formation	R-MMU-2029482		program	phagocytosis_efferocytosis	trafficking
+Regulation of actin dynamics for phagocytic cup formation	R-MMU-2029482		program	migration_invasion	tissue_remodeling
+Regulation of beta-cell development	R-MMU-186712		context	development_differentiation	context
+Regulation of cholesterol biosynthesis by SREBP (SREBF)	R-MMU-1655829		program	fatty_acid_lipid	metabolism
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components	R-MMU-446388		program	migration_invasion	tissue_remodeling
+Regulation of endogenous retroelements	R-MMU-9842860		program	interferon_type_I	immune
+Regulation of endogenous retroelements by KRAB-ZFP proteins	R-MMU-9843940		program	interferon_type_I	immune
+Regulation of expression of SLITs and ROBOs	R-MMU-9010553		program	axon_guidance_neurodevelopment	neural
+Regulation of gap junction activity	R-MMU-191650		program	cell_cell_adhesion	tissue_remodeling
+Regulation of gene expression by Hypoxia-inducible Factor	R-MMU-1234158		program	hypoxia	stress
+Regulation of gene expression in beta cells	R-MMU-210745		context	transcription_chromatin	context
+Regulation of glycolysis by fructose 2,6-bisphosphate metabolism	R-MMU-9634600		program	glycolysis	metabolism
+Regulation of innate immune responses to cytosolic DNA	R-MMU-3134975		program	interferon_type_I	immune
+Regulation of insulin secretion	R-MMU-422356		program	secretion_exocytosis	trafficking
+Regulation of lipid metabolism by PPARalpha	R-MMU-400206		program	fatty_acid_lipid	metabolism
+Regulation of localization of FOXO transcription factors	R-MMU-9614399		program	PI3K_AKT_mTOR	signaling
+Regulation of mRNA stability by proteins that bind AU-rich elements	R-MMU-450531		context	translation_RNA_processing	context
+Regulation of mitotic cell cycle	R-MMU-453276		program	G2_M_mitosis	proliferation
+Regulation of necroptotic cell death	R-MMU-5675482		program	necroptosis	cell_death
+Regulation of ornithine decarboxylase (ODC)	R-MMU-350562		context	metabolism_other	context
+Regulation of pyruvate dehydrogenase (PDH) complex	R-MMU-204174		program	OXPHOS_TCA	metabolism
+Regulation of pyruvate metabolism	R-MMU-9861718		program	OXPHOS_TCA	metabolism
+Regulation of signaling by CBL	R-MMU-912631		context	cellular_responses	context
+Regulation of the apoptosome activity	R-MMU-9627069		program	apoptosis_intrinsic	cell_death
+Regulation of thyroid hormone activity	R-MMU-350864		context	metabolism_other	context
+Relaxin receptors	R-MMU-444821		context	GPCR_signaling	context
+Release of Hh-Np from the secreting cell	R-MMU-5362798		program	Hedgehog_signaling	signaling
+Release of apoptotic factors from the mitochondria	R-MMU-111457		program	apoptosis_intrinsic	cell_death
+Release of apoptotic factors from the mitochondria	R-MMU-111457		program	OXPHOS_TCA	metabolism
+Removal of aminoterminal propeptides from gamma-carboxylated proteins	R-MMU-159782		context	protein_modification	context
+Removal of the Flap Intermediate	R-MMU-69166		program	G1_S_DNA_replication	proliferation
+Removal of the Flap Intermediate from the C-strand	R-MMU-174437		program	G1_S_DNA_replication	proliferation
+Repression of WNT target genes	R-MMU-4641265		program	WNT_signaling	signaling
+Reproduction	R-MMU-1474165		context	development_differentiation	context
+Resolution of AP sites via the multiple-nucleotide patch replacement pathway	R-MMU-110373		program	DNA_damage_response	stress
+Resolution of AP sites via the single-nucleotide replacement pathway	R-MMU-110381		program	DNA_damage_response	stress
+Resolution of Abasic Sites (AP sites)	R-MMU-73933		program	DNA_damage_response	stress
+Resolution of D-Loop Structures	R-MMU-5693537		program	DNA_damage_response	stress
+Resolution of D-loop Structures through Holliday Junction Intermediates	R-MMU-5693568		program	DNA_damage_response	stress
+Resolution of Sister Chromatid Cohesion	R-MMU-2500257		program	G2_M_mitosis	proliferation
+Respiratory electron transport	R-MMU-611105		program	OXPHOS_TCA	metabolism
+Response of endothelial cells to shear stress	R-MMU-9860931		program	angiogenesis	tissue_remodeling
+Response to elevated platelet cytosolic Ca2+	R-MMU-76005		program	coagulation_wound	tissue_remodeling
+Response to metal ions	R-MMU-5660526		context	transport_membrane	context
+Retinoid metabolism and transport	R-MMU-975634		program	fatty_acid_lipid	metabolism
+Retrograde neurotrophin signalling	R-MMU-177504		program	RTK_MAPK	signaling
+Retrograde transport at the Trans-Golgi-Network	R-MMU-6811440		program	endocytosis	trafficking
+Retrograde transport at the Trans-Golgi-Network	R-MMU-6811440		program	secretion_exocytosis	trafficking
+Reuptake of GABA	R-MMU-888593		program	synaptic_neurotransmission	neural
+Reversal of alkylation damage by DNA dioxygenases	R-MMU-73943		program	DNA_damage_response	stress
+Reversible hydration of carbon dioxide	R-MMU-1475029		context	transport_membrane	context
+Rhesus glycoproteins mediate ammonium transport	R-MMU-444411		context	transport_membrane	context
+Ribavirin ADME	R-MMU-9755088		exclude	drug_xenobiotic	exclude
+Ribosomal scanning and start codon recognition	R-MMU-72702		context	translation_RNA_processing	context
+Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide	R-MMU-9954709		context	translation_RNA_processing	context
+Ribosome-associated quality control	R-MMU-9948299		context	translation_RNA_processing	context
+Role of ABL in ROBO-SLIT signaling	R-MMU-428890		program	RTK_MAPK	signaling
+Role of ABL in ROBO-SLIT signaling	R-MMU-428890		program	axon_guidance_neurodevelopment	neural
+Role of LAT2/NTAL/LAB on calcium mobilization	R-MMU-2730905		context	transport_membrane	context
+Role of phospholipids in phagocytosis	R-MMU-2029485		program	fatty_acid_lipid	metabolism
+Role of phospholipids in phagocytosis	R-MMU-2029485		program	phagocytosis_efferocytosis	trafficking
+S Phase	R-MMU-69242		program	G1_S_DNA_replication	proliferation
+SCF(Skp2)-mediated degradation of p27/p21	R-MMU-187577		program	G1_S_DNA_replication	proliferation
+SCF-beta-TrCP mediated degradation of Emi1	R-MMU-174113		program	G2_M_mitosis	proliferation
+SDK interactions	R-MMU-373756		program	cell_cell_adhesion	tissue_remodeling
+SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	R-MMU-399955		program	migration_invasion	tissue_remodeling
+SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	R-MMU-399955		program	ECM_integrin_adhesion	tissue_remodeling
+SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	R-MMU-399955		program	axon_guidance_neurodevelopment	neural
+SHC-mediated cascade:FGFR1	R-MMU-5654688		program	RTK_MAPK	signaling
+SHC-mediated cascade:FGFR2	R-MMU-5654699		program	RTK_MAPK	signaling
+SHC-mediated cascade:FGFR3	R-MMU-5654704		program	RTK_MAPK	signaling
+SHC-mediated cascade:FGFR4	R-MMU-5654719		program	RTK_MAPK	signaling
+SHC-related events triggered by IGF1R	R-MMU-2428933		program	RTK_MAPK	signaling
+SHC1 events in EGFR signaling	R-MMU-180336		program	RTK_MAPK	signaling
+SHC1 events in ERBB2 signaling	R-MMU-1250196		program	RTK_MAPK	signaling
+SHC1 events in ERBB4 signaling	R-MMU-1250347		program	RTK_MAPK	signaling
+SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs	R-MMU-77588		context	transcription_chromatin	context
+SLBP independent Processing of Histone Pre-mRNAs	R-MMU-111367		context	transcription_chromatin	context
+SLC-mediated bile acid transport	R-MMU-9958517		program	fatty_acid_lipid	metabolism
+SLC-mediated transmembrane transport	R-MMU-425407		exclude	drug_xenobiotic	exclude
+SLC-mediated transport of amino acids	R-MMU-9958863		program	amino_acid_glutamine	metabolism
+SLC-mediated transport of inorganic anions	R-MMU-9958790		context	transport_membrane	context
+SLC-mediated transport of neurotransmitters	R-MMU-442660		program	synaptic_neurotransmission	neural
+SLC-mediated transport of oligopeptides	R-MMU-9959399		context	transport_membrane	context
+SLC-mediated transport of organic anions	R-MMU-9955298		context	transport_membrane	context
+SLC-mediated transport of organic cations	R-MMU-549127		context	transport_membrane	context
+SLC15A4:TASL-dependent IRF5 activation	R-MMU-9860276		context	transport_membrane	context
+SLIT2:ROBO1 increases RHOA activity	R-MMU-8985586		program	axon_guidance_neurodevelopment	neural
+SMAC (DIABLO) binds to IAPs	R-MMU-111463		program	apoptosis_intrinsic	cell_death
+SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes	R-MMU-111464		program	apoptosis_intrinsic	cell_death
+SMAC, XIAP-regulated apoptotic response	R-MMU-111469		program	apoptosis_intrinsic	cell_death
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	R-MMU-2173796		program	TGFb_signaling	signaling
+SOS-mediated signalling	R-MMU-112412		program	RTK_MAPK	signaling
+SPOP-mediated proteasomal degradation of PD-L1(CD274)	R-MMU-9929491		program	T_cell_exhaustion_checkpoint	immune
+SRP-dependent cotranslational protein targeting to membrane	R-MMU-1799339		context	translation_RNA_processing	context
+STAT3 nuclear events downstream of ALK signaling	R-MMU-9701898		program	RTK_MAPK	signaling
+STAT3 nuclear events downstream of ALK signaling	R-MMU-9701898		program	JAK_STAT	signaling
+STAT6-mediated induction of chemokines	R-MMU-3249367		program	JAK_STAT	signaling
+STAT6-mediated induction of chemokines	R-MMU-3249367		program	leukocyte_chemotaxis	immune
+STING mediated induction of host immune responses	R-MMU-1834941		program	interferon_type_I	immune
+SUMO E3 ligases SUMOylate target proteins	R-MMU-3108232		program	proteostasis_heat_shock	stress
+SUMO is conjugated to E1 (UBA2:SAE1)	R-MMU-3065676		program	proteostasis_heat_shock	stress
+SUMO is proteolytically processed	R-MMU-3065679		program	proteostasis_heat_shock	stress
+SUMO is transferred from E1 to E2 (UBE2I, UBC9)	R-MMU-3065678		program	proteostasis_heat_shock	stress
+SUMOylation	R-MMU-2990846		program	proteostasis_heat_shock	stress
+SUMOylation of DNA damage response and repair proteins	R-MMU-3108214		program	DNA_damage_response	stress
+SUMOylation of DNA damage response and repair proteins	R-MMU-3108214		program	proteostasis_heat_shock	stress
+SUMOylation of DNA methylation proteins	R-MMU-4655427		program	proteostasis_heat_shock	stress
+SUMOylation of DNA replication proteins	R-MMU-4615885		program	proteostasis_heat_shock	stress
+SUMOylation of DNA replication proteins	R-MMU-4615885		program	G1_S_DNA_replication	proliferation
+SUMOylation of RNA binding proteins	R-MMU-4570464		program	proteostasis_heat_shock	stress
+SUMOylation of SUMOylation proteins	R-MMU-4085377		program	proteostasis_heat_shock	stress
+SUMOylation of chromatin organization proteins	R-MMU-4551638		program	proteostasis_heat_shock	stress
+SUMOylation of immune response proteins	R-MMU-4755510		program	proteostasis_heat_shock	stress
+SUMOylation of intracellular receptors	R-MMU-4090294		program	proteostasis_heat_shock	stress
+SUMOylation of nuclear envelope proteins	R-MMU-9793242		program	proteostasis_heat_shock	stress
+SUMOylation of nuclear envelope proteins	R-MMU-9793242		program	G2_M_mitosis	proliferation
+SUMOylation of transcription cofactors	R-MMU-3899300		program	proteostasis_heat_shock	stress
+SUMOylation of transcription factors	R-MMU-3232118		program	proteostasis_heat_shock	stress
+SUMOylation of ubiquitinylation proteins	R-MMU-3232142		program	proteostasis_heat_shock	stress
+SWI/SNF chromatin remodelers	R-MMU-9932451		context	transcription_chromatin	context
+Scavenging by Class A Receptors	R-MMU-3000480		program	phagocytosis_efferocytosis	trafficking
+Scavenging by Class B Receptors	R-MMU-3000471		program	phagocytosis_efferocytosis	trafficking
+Scavenging by Class H Receptors	R-MMU-3000497		program	phagocytosis_efferocytosis	trafficking
+Scavenging of heme from plasma	R-MMU-2168880		program	iron_metabolism	metabolism
+Scavenging of heme from plasma	R-MMU-2168880		program	phagocytosis_efferocytosis	trafficking
+Scavenging of heme from plasma	R-MMU-2168880		program	humoral_B_cell	immune
+Sealing of the nuclear envelope (NE) by ESCRT-III	R-MMU-9668328		program	G2_M_mitosis	proliferation
+Sealing of the nuclear envelope (NE) by ESCRT-III	R-MMU-9668328		program	endocytosis	trafficking
+Selective autophagy	R-MMU-9663891		program	autophagy_lysosome	trafficking
+Selenoamino acid metabolism	R-MMU-2408522		program	amino_acid_glutamine	metabolism
+Selenocysteine synthesis	R-MMU-2408557		program	ferroptosis	cell_death
+Selenocysteine synthesis	R-MMU-2408557		program	amino_acid_glutamine	metabolism
+Sema3A PAK dependent Axon repulsion	R-MMU-399954		program	migration_invasion	tissue_remodeling
+Sema3A PAK dependent Axon repulsion	R-MMU-399954		program	axon_guidance_neurodevelopment	neural
+Sema4D in semaphorin signaling	R-MMU-400685		program	migration_invasion	tissue_remodeling
+Sema4D in semaphorin signaling	R-MMU-400685		program	axon_guidance_neurodevelopment	neural
+Sema4D induced cell migration and growth-cone collapse	R-MMU-416572		program	migration_invasion	tissue_remodeling
+Sema4D mediated inhibition of cell attachment and migration	R-MMU-416550		program	migration_invasion	tissue_remodeling
+Semaphorin interactions	R-MMU-373755		program	migration_invasion	tissue_remodeling
+Semaphorin interactions	R-MMU-373755		program	axon_guidance_neurodevelopment	neural
+Senescence-Associated Secretory Phenotype (SASP)	R-MMU-2559582		program	senescence_SASP	stress
+Sensing of DNA Double Strand Breaks	R-MMU-5693548		program	DNA_damage_response	stress
+Sensory Perception	R-MMU-9709957		program	synaptic_neurotransmission	neural
+Sensory perception of salty taste	R-MMU-9730628		program	synaptic_neurotransmission	neural
+Sensory perception of sweet, bitter, and umami (glutamate) taste	R-MMU-9717207		program	synaptic_neurotransmission	neural
+Sensory perception of taste	R-MMU-9717189		program	synaptic_neurotransmission	neural
+Separation of Sister Chromatids	R-MMU-2467813		program	G2_M_mitosis	proliferation
+Serine metabolism	R-MMU-977347		program	amino_acid_glutamine	metabolism
+Serotonin Neurotransmitter Release Cycle	R-MMU-181429		program	synaptic_neurotransmission	neural
+Serotonin and melatonin biosynthesis	R-MMU-209931		program	synaptic_neurotransmission	neural
+Serotonin clearance from the synaptic cleft	R-MMU-380615		program	phagocytosis_efferocytosis	trafficking
+Serotonin clearance from the synaptic cleft	R-MMU-380615		program	synaptic_neurotransmission	neural
+Serotonin receptors	R-MMU-390666		program	synaptic_neurotransmission	neural
+Sialic acid metabolism	R-MMU-4085001		context	protein_modification	context
+Signal Transduction	R-MMU-162582		context	cellular_responses	context
+Signal amplification	R-MMU-392518		context	GPCR_signaling	context
+Signal attenuation	R-MMU-74749		unclassified	unclassified	unclassified
+Signal regulatory protein family interactions	R-MMU-391160		program	cell_cell_adhesion	tissue_remodeling
+Signal transduction by L1	R-MMU-445144		context	cellular_responses	context
+Signaling by ALK	R-MMU-201556		program	RTK_MAPK	signaling
+Signaling by Activin	R-MMU-1502540		program	TGFb_signaling	signaling
+Signaling by BMP	R-MMU-201451		program	TGFb_signaling	signaling
+Signaling by CSF3 (G-CSF)	R-MMU-9674555		program	JAK_STAT	signaling
+Signaling by EGFR	R-MMU-177929		program	RTK_MAPK	signaling
+Signaling by ERBB2	R-MMU-1227986		program	RTK_MAPK	signaling
+Signaling by ERBB4	R-MMU-1236394		program	RTK_MAPK	signaling
+Signaling by Erythropoietin	R-MMU-9006335		program	RTK_MAPK	signaling
+Signaling by FGFR	R-MMU-190236		program	RTK_MAPK	signaling
+Signaling by FGFR1	R-MMU-5654736		program	RTK_MAPK	signaling
+Signaling by FGFR2	R-MMU-5654738		program	RTK_MAPK	signaling
+Signaling by FGFR3	R-MMU-5654741		program	RTK_MAPK	signaling
+Signaling by FGFR4	R-MMU-5654743		program	RTK_MAPK	signaling
+Signaling by GPCR	R-MMU-372790		context	GPCR_signaling	context
+Signaling by Hedgehog	R-MMU-5358351		program	Hedgehog_signaling	signaling
+Signaling by Hippo	R-MMU-2028269		context	cellular_responses	context
+Signaling by Insulin receptor	R-MMU-74752		program	RTK_MAPK	signaling
+Signaling by Interleukins	R-MMU-449147		program	JAK_STAT	signaling
+Signaling by LTK	R-MMU-9842663		program	RTK_MAPK	signaling
+Signaling by MET	R-MMU-6806834		program	RTK_MAPK	signaling
+Signaling by MST1	R-MMU-8852405		program	RTK_MAPK	signaling
+Signaling by NODAL	R-MMU-1181150		program	TGFb_signaling	signaling
+Signaling by NOTCH	R-MMU-157118		program	NOTCH_signaling	signaling
+Signaling by NOTCH1	R-MMU-1980143		program	NOTCH_signaling	signaling
+Signaling by NOTCH3	R-MMU-9012852		program	NOTCH_signaling	signaling
+Signaling by NOTCH4	R-MMU-9013694		program	NOTCH_signaling	signaling
+Signaling by NTRK1 (TRKA)	R-MMU-187037		program	RTK_MAPK	signaling
+Signaling by NTRK2 (TRKB)	R-MMU-9006115		program	RTK_MAPK	signaling
+Signaling by NTRK3 (TRKC)	R-MMU-9034015		program	RTK_MAPK	signaling
+Signaling by NTRKs	R-MMU-166520		program	RTK_MAPK	signaling
+Signaling by Non-Receptor Tyrosine Kinases	R-MMU-9006927		program	amino_acid_glutamine	metabolism
+Signaling by Non-Receptor Tyrosine Kinases	R-MMU-9006927		program	RTK_MAPK	signaling
+Signaling by Nuclear Receptors	R-MMU-9006931		context	transcription_chromatin	context
+Signaling by PDGF	R-MMU-186797		program	angiogenesis	tissue_remodeling
+Signaling by PDGF	R-MMU-186797		program	RTK_MAPK	signaling
+Signaling by PTK6	R-MMU-8848021		program	RTK_MAPK	signaling
+Signaling by ROBO receptors	R-MMU-376176		program	axon_guidance_neurodevelopment	neural
+Signaling by Receptor Tyrosine Kinases	R-MMU-9006934		program	amino_acid_glutamine	metabolism
+Signaling by Receptor Tyrosine Kinases	R-MMU-9006934		program	RTK_MAPK	signaling
+Signaling by Retinoic Acid	R-MMU-5362517		context	cellular_responses	context
+Signaling by Rho GTPases	R-MMU-194315		program	migration_invasion	tissue_remodeling
+Signaling by Rho GTPases, Miro GTPases and RHOBTB3	R-MMU-9716542		program	OXPHOS_TCA	metabolism
+Signaling by Rho GTPases, Miro GTPases and RHOBTB3	R-MMU-9716542		program	migration_invasion	tissue_remodeling
+Signaling by SCF-KIT	R-MMU-1433557		program	RTK_MAPK	signaling
+Signaling by TGF-beta Receptor Complex	R-MMU-170834		program	TGFb_signaling	signaling
+Signaling by TGFB family members	R-MMU-9006936		program	TGFb_signaling	signaling
+Signaling by TGFBR3	R-MMU-9839373		program	TGFb_signaling	signaling
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	R-MMU-2404192		program	coagulation_wound	tissue_remodeling
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	R-MMU-2404192		program	RTK_MAPK	signaling
+Signaling by VEGF	R-MMU-194138		program	angiogenesis	tissue_remodeling
+Signaling by VEGF	R-MMU-194138		program	RTK_MAPK	signaling
+Signaling by WNT	R-MMU-195721		program	WNT_signaling	signaling
+Signaling by the B Cell Receptor (BCR)	R-MMU-983705		program	humoral_B_cell	immune
+Signalling to ERK5	R-MMU-198765		program	RTK_MAPK	signaling
+Signalling to ERKs	R-MMU-187687		program	RTK_MAPK	signaling
+Signalling to RAS	R-MMU-167044		program	RTK_MAPK	signaling
+Small interfering RNA (siRNA) biogenesis	R-MMU-426486		context	transcription_chromatin	context
+Smooth Muscle Contraction	R-MMU-445355		program	migration_invasion	tissue_remodeling
+Sodium-coupled phosphate cotransporters	R-MMU-427652		context	transport_membrane	context
+Sodium-coupled sulphate, di- and tri-carboxylate transporters	R-MMU-433137		context	transport_membrane	context
+Sodium/Calcium exchangers	R-MMU-425561		context	transport_membrane	context
+Sodium/Proton exchangers	R-MMU-425986		context	transport_membrane	context
+Specification of the neural plate border	R-MMU-9834899		context	development_differentiation	context
+Sperm Motility And Taxes	R-MMU-1300642		context	development_differentiation	context
+Sphingolipid catabolism	R-MMU-9845614		program	fatty_acid_lipid	metabolism
+Sphingolipid de novo biosynthesis	R-MMU-1660661		program	fatty_acid_lipid	metabolism
+Sphingolipid metabolism	R-MMU-428157		program	fatty_acid_lipid	metabolism
+Spry regulation of FGF signaling	R-MMU-1295596		program	RTK_MAPK	signaling
+Stabilization of p53	R-MMU-69541		program	DNA_damage_response	stress
+Sterols are 12-hydroxylated by CYP8B1	R-MMU-211994		exclude	drug_xenobiotic	exclude
+Stimuli-sensing channels	R-MMU-2672351		program	synaptic_neurotransmission	neural
+Strand-asynchronous mitochondrial DNA replication	R-MMU-9913635		program	G1_S_DNA_replication	proliferation
+Strand-asynchronous mitochondrial DNA replication	R-MMU-9913635		program	OXPHOS_TCA	metabolism
+Striated Muscle Contraction	R-MMU-390522		program	migration_invasion	tissue_remodeling
+Sulfide oxidation to sulfate	R-MMU-1614517		context	transport_membrane	context
+Sulfur amino acid metabolism	R-MMU-1614635		program	amino_acid_glutamine	metabolism
+Surfactant metabolism	R-MMU-5683826		context	protein_modification	context
+Switching of origins to a post-replicative state	R-MMU-69052		program	G1_S_DNA_replication	proliferation
+Synaptic adhesion-like molecules	R-MMU-8849932		program	synaptic_neurotransmission	neural
+Syndecan interactions	R-MMU-3000170		program	ECM_integrin_adhesion	tissue_remodeling
+Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)	R-MMU-2142816		context	metabolism_other	context
+Synthesis of 12-eicosatetraenoic acid derivatives	R-MMU-2142712		program	ferroptosis	cell_death
+Synthesis of 15-eicosatetraenoic acid derivatives	R-MMU-2142770		program	ferroptosis	cell_death
+Synthesis of 5-eicosatetraenoic acids	R-MMU-2142688		program	ferroptosis	cell_death
+Synthesis of CL	R-MMU-1483076		program	fatty_acid_lipid	metabolism
+Synthesis of DNA	R-MMU-69239		program	G1_S_DNA_replication	proliferation
+Synthesis of GDP-mannose	R-MMU-446205		context	protein_modification	context
+Synthesis of Hepoxilins (HX) and Trioxilins (TrX)	R-MMU-2142696		context	metabolism_other	context
+Synthesis of IP2, IP, and Ins in the cytosol	R-MMU-1855183		context	metabolism_other	context
+Synthesis of IP3 and IP4 in the cytosol	R-MMU-1855204		context	metabolism_other	context
+Synthesis of IPs in the ER lumen	R-MMU-1855231		context	metabolism_other	context
+Synthesis of IPs in the nucleus	R-MMU-1855191		context	metabolism_other	context
+Synthesis of Ketone Bodies	R-MMU-77111		program	OXPHOS_TCA	metabolism
+Synthesis of Leukotrienes (LT) and Eoxins (EX)	R-MMU-2142691		program	fatty_acid_lipid	metabolism
+Synthesis of PA	R-MMU-1483166		program	fatty_acid_lipid	metabolism
+Synthesis of PC	R-MMU-1483191		program	fatty_acid_lipid	metabolism
+Synthesis of PE	R-MMU-1483213		program	fatty_acid_lipid	metabolism
+Synthesis of PG	R-MMU-1483148		program	fatty_acid_lipid	metabolism
+Synthesis of PI	R-MMU-1483226		program	fatty_acid_lipid	metabolism
+Synthesis of PIPs at the ER membrane	R-MMU-1483248		context	metabolism_other	context
+Synthesis of PIPs at the Golgi membrane	R-MMU-1660514		program	secretion_exocytosis	trafficking
+Synthesis of PIPs at the early endosome membrane	R-MMU-1660516		program	endocytosis	trafficking
+Synthesis of PIPs at the late endosome membrane	R-MMU-1660517		program	endocytosis	trafficking
+Synthesis of PIPs at the plasma membrane	R-MMU-1660499		context	metabolism_other	context
+Synthesis of PIPs in the nucleus	R-MMU-8847453		context	metabolism_other	context
+Synthesis of PS	R-MMU-1483101		program	fatty_acid_lipid	metabolism
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	R-MMU-2162123		program	fatty_acid_lipid	metabolism
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	R-MMU-2162123		program	coagulation_wound	tissue_remodeling
+Synthesis of UDP-N-acetyl-glucosamine	R-MMU-446210		context	protein_modification	context
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes	R-MMU-8866652		program	proteostasis_heat_shock	stress
+Synthesis of bile acids and bile salts	R-MMU-192105		program	fatty_acid_lipid	metabolism
+Synthesis of bile acids and bile salts via 24-hydroxycholesterol	R-MMU-193775		program	fatty_acid_lipid	metabolism
+Synthesis of bile acids and bile salts via 27-hydroxycholesterol	R-MMU-193807		program	fatty_acid_lipid	metabolism
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	R-MMU-193368		program	fatty_acid_lipid	metabolism
+Synthesis of diphthamide-EEF2	R-MMU-5358493		context	metabolism_other	context
+Synthesis of dolichyl-phosphate	R-MMU-446199		context	transport_membrane	context
+Synthesis of dolichyl-phosphate mannose	R-MMU-162699		context	protein_modification	context
+Synthesis of dolichyl-phosphate-glucose	R-MMU-480985		context	transport_membrane	context
+Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)	R-MMU-2142670		context	metabolism_other	context
+Synthesis of glycosylphosphatidylinositol (GPI)	R-MMU-162710		program	fatty_acid_lipid	metabolism
+Synthesis of pyrophosphates in the cytosol	R-MMU-1855167		context	transport_membrane	context
+Synthesis of substrates in N-glycan biosythesis	R-MMU-446219		context	protein_modification	context
+Synthesis of very long-chain fatty acyl-CoAs	R-MMU-75876		context	metabolism_other	context
+Synthesis, secretion, and deacylation of Ghrelin	R-MMU-422085		program	secretion_exocytosis	trafficking
+Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)	R-MMU-381771		program	secretion_exocytosis	trafficking
+Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)	R-MMU-400511		program	secretion_exocytosis	trafficking
+TAK1-dependent IKK and NF-kappa-B activation	R-MMU-445989		program	inflammation_TNF_NFkB	immune
+TBC/RABGAPs	R-MMU-8854214		unclassified	unclassified	unclassified
+TCF dependent signaling in response to WNT	R-MMU-201681		program	WNT_signaling	signaling
+TCR signaling	R-MMU-202403		program	cytotoxic_T_NK	immune
+TET1,2,3 and TDG demethylate DNA	R-MMU-5221030		context	transcription_chromatin	context
+TFAP2 (AP-2) family regulates transcription of cell cycle factors	R-MMU-8866911		context	transcription_chromatin	context
+TFAP2 (AP-2) family regulates transcription of growth factors and their receptors	R-MMU-8866910		context	transcription_chromatin	context
+TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation	R-MMU-8869496		context	transcription_chromatin	context
+TGF-beta receptor signaling activates SMADs	R-MMU-2173789		program	TGFb_signaling	signaling
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	R-MMU-2173791		program	EMT	tissue_remodeling
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	R-MMU-2173791		program	TGFb_signaling	signaling
+TGFBR3 PTM regulation	R-MMU-9839383		program	TGFb_signaling	signaling
+TGFBR3 regulates FGF2 signaling	R-MMU-9839397		program	TGFb_signaling	signaling
+TGFBR3 regulates FGF2 signaling	R-MMU-9839397		program	RTK_MAPK	signaling
+TGFBR3 regulates TGF-beta signaling	R-MMU-9839389		program	TGFb_signaling	signaling
+TGFBR3 regulates activin signaling	R-MMU-9839406		program	TGFb_signaling	signaling
+TICAM1-dependent activation of IRF3/IRF7	R-MMU-9013973		program	inflammation_TNF_NFkB	immune
+TICAM1-dependent activation of IRF3/IRF7	R-MMU-9013973		program	interferon_type_I	immune
+TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway	R-MMU-5676594		program	inflammation_TNF_NFkB	immune
+TNF signaling	R-MMU-75893		program	inflammation_TNF_NFkB	immune
+TNFR1-induced NF-kappa-B signaling pathway	R-MMU-5357956		program	inflammation_TNF_NFkB	immune
+TNFR1-induced proapoptotic signaling	R-MMU-5357786		program	inflammation_TNF_NFkB	immune
+TNFR1-mediated ceramide production	R-MMU-5626978		program	fatty_acid_lipid	metabolism
+TNFR1-mediated ceramide production	R-MMU-5626978		program	inflammation_TNF_NFkB	immune
+TNFR2 non-canonical NF-kB pathway	R-MMU-5668541		program	inflammation_TNF_NFkB	immune
+TNFs bind their physiological receptors	R-MMU-5669034		program	inflammation_TNF_NFkB	immune
+TP53 Regulates Metabolic Genes	R-MMU-5628897		program	DNA_damage_response	stress
+TP53 Regulates Transcription of Caspase Activators and Caspases	R-MMU-6803207		program	DNA_damage_response	stress
+TP53 Regulates Transcription of Cell Cycle Genes	R-MMU-6791312		program	DNA_damage_response	stress
+TP53 Regulates Transcription of Cell Death Genes	R-MMU-5633008		program	apoptosis_intrinsic	cell_death
+TP53 Regulates Transcription of Cell Death Genes	R-MMU-5633008		program	DNA_damage_response	stress
+TP53 Regulates Transcription of DNA Repair Genes	R-MMU-6796648		program	DNA_damage_response	stress
+TP53 Regulates Transcription of Death Receptors and Ligands	R-MMU-6803211		program	apoptosis_intrinsic	cell_death
+TP53 Regulates Transcription of Death Receptors and Ligands	R-MMU-6803211		program	apoptosis_extrinsic	cell_death
+TP53 Regulates Transcription of Death Receptors and Ligands	R-MMU-6803211		program	DNA_damage_response	stress
+TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	R-MMU-6803204		program	DNA_damage_response	stress
+TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest	R-MMU-6804116		program	DNA_damage_response	stress
+TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	R-MMU-6804114		program	DNA_damage_response	stress
+TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain	R-MMU-6804115		program	DNA_damage_response	stress
+TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain	R-MMU-6803205		program	apoptosis_intrinsic	cell_death
+TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain	R-MMU-6803205		program	DNA_damage_response	stress
+TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain	R-MMU-6803205		program	cell_cycle_checkpoints	proliferation
+TRAF3-dependent IRF activation pathway	R-MMU-918233		program	inflammation_TNF_NFkB	immune
+TRAF3-dependent IRF activation pathway	R-MMU-918233		program	interferon_type_I	immune
+TRAF6 mediated IRF7 activation	R-MMU-933541		program	inflammation_TNF_NFkB	immune
+TRAF6 mediated IRF7 activation	R-MMU-933541		program	interferon_type_I	immune
+TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling	R-MMU-975110		program	inflammation_TNF_NFkB	immune
+TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling	R-MMU-975110		program	interferon_type_I	immune
+TRAF6 mediated NF-kB activation	R-MMU-933542		program	inflammation_TNF_NFkB	immune
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	R-MMU-975138		program	RTK_MAPK	signaling
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	R-MMU-975138		program	inflammation_TNF_NFkB	immune
+TRAF6-mediated induction of TAK1 complex within TLR4 complex	R-MMU-937072		program	inflammation_TNF_NFkB	immune
+TRAIL  signaling	R-MMU-75158		program	apoptosis_extrinsic	cell_death
+TRIF (TICAM1)-mediated TLR4 signaling	R-MMU-937061		program	inflammation_TNF_NFkB	immune
+TRIF-mediated programmed cell death	R-MMU-2562578		program	inflammation_TNF_NFkB	immune
+TRKA activation by NGF	R-MMU-187042		program	RTK_MAPK	signaling
+TRP channels	R-MMU-3295583		program	synaptic_neurotransmission	neural
+TWIK related potassium channel (TREK)	R-MMU-1299503		program	synaptic_neurotransmission	neural
+TWIK-related alkaline pH activated K+ channel (TALK)	R-MMU-1299361		program	synaptic_neurotransmission	neural
+TWIK-related spinal cord K+ channel (TRESK)	R-MMU-1299344		program	synaptic_neurotransmission	neural
+TWIK-releated acid-sensitive K+ channel (TASK)	R-MMU-1299316		program	synaptic_neurotransmission	neural
+TYSND1 cleaves peroxisomal proteins	R-MMU-9033500		context	transport_membrane	context
+Tachykinin receptors bind tachykinins	R-MMU-380095		program	coagulation_wound	tissue_remodeling
+Tachykinin receptors bind tachykinins	R-MMU-380095		program	synaptic_neurotransmission	neural
+Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)	R-MMU-1299308		program	synaptic_neurotransmission	neural
+Tandem pore domain halothane-inhibited K+ channel (THIK)	R-MMU-1299287		program	synaptic_neurotransmission	neural
+Tandem pore domain potassium channels	R-MMU-1296346		program	synaptic_neurotransmission	neural
+Telomere C-strand (Lagging Strand) Synthesis	R-MMU-174417		program	DNA_damage_response	stress
+Telomere C-strand (Lagging Strand) Synthesis	R-MMU-174417		program	G1_S_DNA_replication	proliferation
+Telomere C-strand synthesis initiation	R-MMU-174430		program	DNA_damage_response	stress
+Telomere Extension By Telomerase	R-MMU-171319		program	DNA_damage_response	stress
+Telomere Maintenance	R-MMU-157579		program	DNA_damage_response	stress
+Terminal pathway of complement	R-MMU-166665		program	complement	immune
+Termination of O-glycan biosynthesis	R-MMU-977068		context	transcription_chromatin	context
+Termination of translesion DNA synthesis	R-MMU-5656169		program	DNA_damage_response	stress
+Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation	R-MMU-1474151		program	endocytosis	trafficking
+The AIM2 inflammasome	R-MMU-844615		program	pyroptosis_inflammasome	cell_death
+The NLRP1 inflammasome	R-MMU-844455		program	pyroptosis_inflammasome	cell_death
+The NLRP3 inflammasome	R-MMU-844456		program	pyroptosis_inflammasome	cell_death
+The activation of arylsulfatases	R-MMU-1663150		context	protein_modification	context
+The canonical retinoid cycle in rods (twilight vision)	R-MMU-2453902		program	fatty_acid_lipid	metabolism
+The fatty acid cycling model	R-MMU-167826		program	fatty_acid_lipid	metabolism
+The phototransduction cascade	R-MMU-2514856		program	synaptic_neurotransmission	neural
+The retinoid cycle in cones (daylight vision)	R-MMU-2187335		program	fatty_acid_lipid	metabolism
+The role of GTSE1 in G2/M progression after G2 checkpoint	R-MMU-8852276		program	cell_cycle_checkpoints	proliferation
+Threonine catabolism	R-MMU-8849175		program	amino_acid_glutamine	metabolism
+Thrombin signalling through proteinase activated receptors (PARs)	R-MMU-456926		program	coagulation_wound	tissue_remodeling
+Thromboxane signalling through TP receptor	R-MMU-428930		program	fatty_acid_lipid	metabolism
+Thromboxane signalling through TP receptor	R-MMU-428930		program	coagulation_wound	tissue_remodeling
+Thyroxine biosynthesis	R-MMU-209968		context	metabolism_other	context
+Tie2 Signaling	R-MMU-210993		program	angiogenesis	tissue_remodeling
+Tight junction interactions	R-MMU-420029		program	cell_cell_adhesion	tissue_remodeling
+Toll Like Receptor 10 (TLR10) Cascade	R-MMU-168142		program	inflammation_TNF_NFkB	immune
+Toll Like Receptor 2 (TLR2) Cascade	R-MMU-181438		program	inflammation_TNF_NFkB	immune
+Toll Like Receptor 3 (TLR3) Cascade	R-MMU-168164		program	inflammation_TNF_NFkB	immune
+Toll Like Receptor 4 (TLR4) Cascade	R-MMU-166016		program	inflammation_TNF_NFkB	immune
+Toll Like Receptor 5 (TLR5) Cascade	R-MMU-168176		program	inflammation_TNF_NFkB	immune
+Toll Like Receptor 7/8 (TLR7/8) Cascade	R-MMU-168181		program	inflammation_TNF_NFkB	immune
+Toll Like Receptor 9 (TLR9) Cascade	R-MMU-168138		program	inflammation_TNF_NFkB	immune
+Toll Like Receptor TLR1:TLR2 Cascade	R-MMU-168179		program	inflammation_TNF_NFkB	immune
+Toll Like Receptor TLR6:TLR2 Cascade	R-MMU-168188		program	inflammation_TNF_NFkB	immune
+Toll-like Receptor Cascades	R-MMU-168898		program	inflammation_TNF_NFkB	immune
+Trafficking and processing of endosomal TLR	R-MMU-1679131		program	endocytosis	trafficking
+Trafficking and processing of endosomal TLR	R-MMU-1679131		program	inflammation_TNF_NFkB	immune
+Trafficking of AMPA receptors	R-MMU-399719		program	endocytosis	trafficking
+Trafficking of AMPA receptors	R-MMU-399719		program	synaptic_neurotransmission	neural
+Trafficking of GluR2-containing AMPA receptors	R-MMU-416993		program	endocytosis	trafficking
+Trafficking of GluR2-containing AMPA receptors	R-MMU-416993		program	synaptic_neurotransmission	neural
+Trafficking of myristoylated proteins to the cilium	R-MMU-5624138		program	Hedgehog_signaling	signaling
+Transcription from mitochondrial promoters	R-MMU-75944		program	OXPHOS_TCA	metabolism
+Transcription-Coupled Nucleotide Excision Repair (TC-NER)	R-MMU-6781827		program	DNA_damage_response	stress
+Transcriptional  activation of  cell cycle inhibitor p21	R-MMU-69895		program	G1_S_DNA_replication	proliferation
+Transcriptional Regulation by E2F6	R-MMU-8953750		program	G1_S_DNA_replication	proliferation
+Transcriptional Regulation by MECP2	R-MMU-8986944		context	transcription_chromatin	context
+Transcriptional Regulation by NPAS4	R-MMU-9634815		program	synaptic_neurotransmission	neural
+Transcriptional Regulation by TP53	R-MMU-3700989		context	transcription_chromatin	context
+Transcriptional activation of mitochondrial biogenesis	R-MMU-2151201		program	OXPHOS_TCA	metabolism
+Transcriptional activation of p53 responsive genes	R-MMU-69560		context	transcription_chromatin	context
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	R-MMU-2173793		program	TGFb_signaling	signaling
+Transcriptional and post-translational regulation of MITF-M expression and activity	R-MMU-9856649		context	transcription_chromatin	context
+Transcriptional regulation by RUNX1	R-MMU-8878171		context	transcription_chromatin	context
+Transcriptional regulation by RUNX2	R-MMU-8878166		context	transcription_chromatin	context
+Transcriptional regulation by RUNX3	R-MMU-8878159		context	transcription_chromatin	context
+Transcriptional regulation by small RNAs	R-MMU-5578749		context	transcription_chromatin	context
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	R-MMU-8864260		context	transcription_chromatin	context
+Transcriptional regulation of granulopoiesis	R-MMU-9616222		context	transcription_chromatin	context
+Transcriptional regulation of white adipocyte differentiation	R-MMU-381340		context	transcription_chromatin	context
+Transfer of LPS from LBP carrier to CD14	R-MMU-166020		program	inflammation_TNF_NFkB	immune
+Transferrin endocytosis and recycling	R-MMU-917977		program	iron_metabolism	metabolism
+Transferrin endocytosis and recycling	R-MMU-917977		program	endocytosis	trafficking
+Translation	R-MMU-72766		context	translation_RNA_processing	context
+Translation initiation complex formation	R-MMU-72649		context	translation_RNA_processing	context
+Translesion Synthesis by POLH	R-MMU-110320		program	DNA_damage_response	stress
+Translesion synthesis by POLI	R-MMU-5656121		program	DNA_damage_response	stress
+Translesion synthesis by POLK	R-MMU-5655862		program	DNA_damage_response	stress
+Translesion synthesis by REV1	R-MMU-110312		program	DNA_damage_response	stress
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	R-MMU-110313		program	DNA_damage_response	stress
+Translocation of ZAP-70 to Immunological synapse	R-MMU-202430		program	antigen_presentation_MHCII	immune
+Translocation of ZAP-70 to Immunological synapse	R-MMU-202430		program	cytotoxic_T_NK	immune
+Translocation of ZAP-70 to Immunological synapse	R-MMU-202430		program	synaptic_neurotransmission	neural
+Transmission across Chemical Synapses	R-MMU-112315		program	synaptic_neurotransmission	neural
+Transmission across Electrical Synapses	R-MMU-112307		program	cell_cell_adhesion	tissue_remodeling
+Transmission across Electrical Synapses	R-MMU-112307		program	synaptic_neurotransmission	neural
+Transport and metabolism of PAPS	R-MMU-174362		context	metabolism_other	context
+Transport of Mature Transcript to Cytoplasm	R-MMU-72202		context	translation_RNA_processing	context
+Transport of Mature mRNA Derived from an Intronless Transcript	R-MMU-159231		context	translation_RNA_processing	context
+Transport of Mature mRNA derived from an Intron-Containing Transcript	R-MMU-159236		context	translation_RNA_processing	context
+Transport of Mature mRNAs Derived from Intronless Transcripts	R-MMU-159234		context	translation_RNA_processing	context
+Transport of RCbl within the body	R-MMU-9758890		context	transport_membrane	context
+Transport of connexons to the plasma membrane	R-MMU-190872		context	transport_membrane	context
+Transport of fatty acids	R-MMU-804914		program	fatty_acid_lipid	metabolism
+Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus	R-MMU-159763		program	secretion_exocytosis	trafficking
+Transport of glycerol from adipocytes to the liver by Aquaporins	R-MMU-432030		context	transport_membrane	context
+Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	R-MMU-83936		program	amino_acid_glutamine	metabolism
+Transport of nucleotide sugars	R-MMU-727802		context	transport_membrane	context
+Transport of small molecules	R-MMU-382551		context	transport_membrane	context
+Transport of the SLBP Dependant Mature mRNA	R-MMU-159230		context	translation_RNA_processing	context
+Transport of the SLBP independent Mature mRNA	R-MMU-159227		context	translation_RNA_processing	context
+Transport of vitamins, nucleosides, and related molecules	R-MMU-425397		context	transport_membrane	context
+Transport to the Golgi and subsequent modification	R-MMU-948021		program	secretion_exocytosis	trafficking
+Triglyceride biosynthesis	R-MMU-75109		program	fatty_acid_lipid	metabolism
+Triglyceride catabolism	R-MMU-163560		program	fatty_acid_lipid	metabolism
+Triglyceride metabolism	R-MMU-8979227		program	fatty_acid_lipid	metabolism
+Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA	R-MMU-450513		context	translation_RNA_processing	context
+Tryptophan catabolism	R-MMU-71240		program	amino_acid_glutamine	metabolism
+Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells	R-MMU-9860927		program	ECM_integrin_adhesion	tissue_remodeling
+Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells	R-MMU-9860927		program	angiogenesis	tissue_remodeling
+Type I hemidesmosome assembly	R-MMU-446107		program	cell_cell_adhesion	tissue_remodeling
+Type II Na+/Pi cotransporters	R-MMU-427589		context	transport_membrane	context
+Tyrosine catabolism	R-MMU-8963684		program	amino_acid_glutamine	metabolism
+UCH proteinases	R-MMU-5689603		program	proteostasis_heat_shock	stress
+Ub-specific processing proteases	R-MMU-5689880		program	proteostasis_heat_shock	stress
+Ubiquinol biosynthesis	R-MMU-2142789		program	OXPHOS_TCA	metabolism
+Ubiquitin-Mediated Degradation of Phosphorylated Cdc25A	R-MMU-69601		program	proteostasis_heat_shock	stress
+Ubiquitin-dependent degradation of Cyclin D	R-MMU-75815		program	proteostasis_heat_shock	stress
+Ubiquitin-dependent degradation of Cyclin D	R-MMU-75815		program	G1_S_DNA_replication	proliferation
+Unblocking of NMDA receptors, glutamate binding and activation	R-MMU-438066		program	synaptic_neurotransmission	neural
+Unfolded Protein Response (UPR)	R-MMU-381119		program	ER_stress_UPR	stress
+Unwinding of DNA	R-MMU-176974		program	G1_S_DNA_replication	proliferation
+Uptake of dietary cobalamins into enterocytes	R-MMU-9758881		context	transport_membrane	context
+Urea cycle	R-MMU-70635		program	amino_acid_glutamine	metabolism
+Utilization of Ketone Bodies	R-MMU-77108		program	OXPHOS_TCA	metabolism
+VEGF binds to VEGFR leading to receptor dimerization	R-MMU-195399		program	angiogenesis	tissue_remodeling
+VEGF ligand-receptor interactions	R-MMU-194313		program	angiogenesis	tissue_remodeling
+VEGFA-VEGFR2 Pathway	R-MMU-4420097		program	angiogenesis	tissue_remodeling
+VEGFR2 mediated cell proliferation	R-MMU-5218921		program	angiogenesis	tissue_remodeling
+VEGFR2 mediated vascular permeability	R-MMU-5218920		program	angiogenesis	tissue_remodeling
+VLDL assembly	R-MMU-8866423		program	fatty_acid_lipid	metabolism
+VLDL clearance	R-MMU-8964046		program	fatty_acid_lipid	metabolism
+VLDL clearance	R-MMU-8964046		program	phagocytosis_efferocytosis	trafficking
+VLDLR internalisation and degradation	R-MMU-8866427		program	fatty_acid_lipid	metabolism
+Vasopressin regulates renal water homeostasis via Aquaporins	R-MMU-432040		program	angiogenesis	tissue_remodeling
+Vasopressin-like receptors	R-MMU-388479		program	angiogenesis	tissue_remodeling
+Vesicle-mediated transport	R-MMU-5653656		program	endocytosis	trafficking
+Visual phototransduction	R-MMU-2187338		program	synaptic_neurotransmission	neural
+Vitamin B1 (thiamin) metabolism	R-MMU-196819		context	transport_membrane	context
+Vitamin B2 (riboflavin) metabolism	R-MMU-196843		context	transport_membrane	context
+Vitamin B5 (pantothenate) metabolism	R-MMU-199220		context	transport_membrane	context
+Vitamin B6 activation to pyridoxal phosphate	R-MMU-964975		context	transport_membrane	context
+Vitamin C (ascorbate) metabolism	R-MMU-196836		context	transport_membrane	context
+Vitamin D (calciferol) metabolism	R-MMU-196791		program	fatty_acid_lipid	metabolism
+Vitamin E transport	R-MMU-8877627		context	transport_membrane	context
+Vitamins	R-MMU-211916		context	transport_membrane	context
+Voltage gated Potassium channels	R-MMU-1296072		program	synaptic_neurotransmission	neural
+VxPx cargo-targeting to cilium	R-MMU-5620916		program	Hedgehog_signaling	signaling
+WNT ligand biogenesis and trafficking	R-MMU-3238698		program	WNT_signaling	signaling
+WNT mediated activation of DVL	R-MMU-201688		program	WNT_signaling	signaling
+WNT5A-dependent internalization of FZD2, FZD5 and ROR2	R-MMU-5140745		program	endocytosis	trafficking
+WNT5A-dependent internalization of FZD2, FZD5 and ROR2	R-MMU-5140745		program	WNT_signaling	signaling
+WNT5A-dependent internalization of FZD4	R-MMU-5099900		program	endocytosis	trafficking
+WNT5A-dependent internalization of FZD4	R-MMU-5099900		program	WNT_signaling	signaling
+Wax and plasmalogen biosynthesis	R-MMU-8848584		program	fatty_acid_lipid	metabolism
+Wax biosynthesis	R-MMU-9640463		program	fatty_acid_lipid	metabolism
+Xenobiotics	R-MMU-211981		exclude	drug_xenobiotic	exclude
+YAP1- and WWTR1 (TAZ)-stimulated gene expression	R-MMU-2032785		context	transcription_chromatin	context
+ZBP1(DAI) mediated induction of type I IFNs	R-MMU-1606322		program	interferon_type_I	immune
+ZNF598 and the Ribosome-associated Quality Trigger (RQT) complex dissociate a ribosome stalled on a no-go mRNA	R-MMU-9954716		context	translation_RNA_processing	context
+Zinc efflux and compartmentalization by the SLC30 family	R-MMU-435368		context	transport_membrane	context
+Zinc influx into cells by the SLC39 gene family	R-MMU-442380		context	transport_membrane	context
+Zinc transporters	R-MMU-435354		context	transport_membrane	context
+Zymostenol biosynthesis via lathosterol (Kandutsch-Russell pathway)	R-MMU-6807062		program	fatty_acid_lipid	metabolism
+activated TAK1 mediates p38 MAPK activation	R-MMU-450302		program	RTK_MAPK	signaling
+activated TAK1 mediates p38 MAPK activation	R-MMU-450302		program	inflammation_TNF_NFkB	immune
+alpha-linolenic (omega3) and linoleic (omega6) acid metabolism	R-MMU-2046104		context	metabolism_other	context
+alpha-linolenic acid (ALA) metabolism	R-MMU-2046106		context	metabolism_other	context
+betaKlotho-mediated ligand binding	R-MMU-1307965		program	RTK_MAPK	signaling
+cGMP effects	R-MMU-418457		program	RTK_MAPK	signaling
+eNOS activation	R-MMU-203615		program	angiogenesis	tissue_remodeling
+mRNA 3'-end processing	R-MMU-72187		context	translation_RNA_processing	context
+mRNA Capping	R-MMU-72086		context	translation_RNA_processing	context
+mRNA Editing	R-MMU-75072		context	translation_RNA_processing	context
+mRNA Editing: A to I Conversion	R-MMU-75064		context	translation_RNA_processing	context
+mRNA Editing: C to U Conversion	R-MMU-72200		context	translation_RNA_processing	context
+mRNA Polyadenylation	R-MMU-9770562		context	transcription_chromatin	context
+mRNA Splicing	R-MMU-72172		context	translation_RNA_processing	context
+mRNA Splicing - Major Pathway	R-MMU-72163		context	translation_RNA_processing	context
+mRNA Splicing - Minor Pathway	R-MMU-72165		context	translation_RNA_processing	context
+mRNA decay by 3' to 5' exoribonuclease	R-MMU-429958		context	translation_RNA_processing	context
+mRNA decay by 5' to 3' exoribonuclease	R-MMU-430039		context	translation_RNA_processing	context
+mTORC1-mediated signalling	R-MMU-166208		unclassified	unclassified	unclassified
+mitochondrial fatty acid beta-oxidation of saturated fatty acids	R-MMU-77286		program	OXPHOS_TCA	metabolism
+mitochondrial fatty acid beta-oxidation of saturated fatty acids	R-MMU-77286		program	fatty_acid_lipid	metabolism
+mitochondrial fatty acid beta-oxidation of unsaturated fatty acids	R-MMU-77288		program	OXPHOS_TCA	metabolism
+mitochondrial fatty acid beta-oxidation of unsaturated fatty acids	R-MMU-77288		program	fatty_acid_lipid	metabolism
+p130Cas linkage to MAPK signaling for integrins	R-MMU-372708		program	ECM_integrin_adhesion	tissue_remodeling
+p130Cas linkage to MAPK signaling for integrins	R-MMU-372708		program	RTK_MAPK	signaling
+p38MAPK events	R-MMU-171007		program	RTK_MAPK	signaling
+p53-Dependent G1 DNA Damage Response	R-MMU-69563		program	DNA_damage_response	stress
+p53-Dependent G1 DNA Damage Response	R-MMU-69563		program	cell_cycle_checkpoints	proliferation
+p53-Dependent G1/S DNA damage checkpoint	R-MMU-69580		program	DNA_damage_response	stress
+p53-Dependent G1/S DNA damage checkpoint	R-MMU-69580		program	G1_S_DNA_replication	proliferation
+p53-Dependent G1/S DNA damage checkpoint	R-MMU-69580		program	cell_cycle_checkpoints	proliferation
+p53-Independent G1/S DNA Damage Checkpoint	R-MMU-69613		program	DNA_damage_response	stress
+p53-Independent G1/S DNA Damage Checkpoint	R-MMU-69613		program	G1_S_DNA_replication	proliferation
+p53-Independent G1/S DNA Damage Checkpoint	R-MMU-69613		program	cell_cycle_checkpoints	proliferation
+p75 NTR receptor-mediated signalling	R-MMU-193704		program	apoptosis_intrinsic	cell_death
+p75NTR recruits signalling complexes	R-MMU-209543		program	apoptosis_intrinsic	cell_death
+p75NTR regulates axonogenesis	R-MMU-193697		program	apoptosis_intrinsic	cell_death
+p75NTR regulates axonogenesis	R-MMU-193697		program	axon_guidance_neurodevelopment	neural
+p75NTR signals via NF-kB	R-MMU-193639		program	apoptosis_intrinsic	cell_death
+p75NTR signals via NF-kB	R-MMU-193639		program	inflammation_TNF_NFkB	immune
+phospho-PLA2 pathway	R-MMU-111995		program	RTK_MAPK	signaling
+rRNA processing	R-MMU-72312		context	translation_RNA_processing	context
+rRNA processing in the nucleus and cytosol	R-MMU-8868773		context	translation_RNA_processing	context
+snRNP Assembly	R-MMU-191859		context	translation_RNA_processing	context
+tRNA Aminoacylation	R-MMU-379724		context	translation_RNA_processing	context
+tRNA modification in the mitochondrion	R-MMU-6787450		context	translation_RNA_processing	context
+tRNA modification in the nucleus and cytosol	R-MMU-6782315		context	translation_RNA_processing	context
+tRNA processing	R-MMU-72306		context	translation_RNA_processing	context
+trans-Golgi Network Vesicle Budding	R-MMU-199992		program	secretion_exocytosis	trafficking
